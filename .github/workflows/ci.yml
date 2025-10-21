@@ -57,5 +57,5 @@ jobs:
         run: |
           pip install huggingface_hub
           huggingface-cli login --token $HF_TOKEN
-          huggingface-cli upload . --repo RandomFab/FUTURISYS --repo-type space
+          huggingface-cli upload . RandomFab/futurisys-api --repo-type space --commit-message "🚀 Auto deploy via GitHub Actions"
 
