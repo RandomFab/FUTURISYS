@@ -57,5 +57,5 @@ jobs:
         run: |
           pip install huggingface_hub
           huggingface-cli login --token $HF_TOKEN
-          huggingface-cli upload . --repo RandomFab/FUTURISYS --repo-type space
+          huggingface-cli upload . --repo-type space --repo RandomFab/FUTURISYS
 
