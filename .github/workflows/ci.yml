@@ -56,6 +56,8 @@ jobs:
           HF_TOKEN : ${{ secrets.HF_TOKEN }}
         run: |
           pip install huggingface_hub
-          huggingface-cli login --token $HF_TOKEN
-          huggingface-cli upload . RandomFab/FUTURISYS --repo-type space --commit-message "🚀 Auto deploy via GitHub Actions"
+          echo "Connexion à Hugging Face..."
+          hf auth login --token $HF_TOKEN
+          echo "Déploiement du Space Futurisys 🚀"
+          hf upload . --repo-id RandomFab/futurisys-api --repo-type space --commit-message "🚀 Auto deploy via GitHub Actions"
 
