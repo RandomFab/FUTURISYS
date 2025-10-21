@@ -40,3 +40,22 @@ jobs:
 
       - name: Lancer les tests
         run: uv run pytest --maxfail=1 --disable-warnings -q
+
+  deploiement:
+    needs: test
+    
+    runs-on: ubuntu-latest
+
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: déploiement sur HuggingFace
+        env: 
+          HF_TOKEN : ${{ secrets.HF_TOKEN }}
+        run: |
+          pip install huggingface_hub
+          huggingface-cli login --token $HF_TOKEN
+          huggingface-cli upload . --repo RandomFab/FUTURISYS --repo-type space
+
