@@ -59,5 +59,4 @@ jobs:
           echo "Connexion à Hugging Face..."
           hf auth login --token $HF_TOKEN
           echo "Déploiement du Space Futurisys 🚀"
-          hf upload . RandomFab/FUTURISYS --repo-type space --commit-message "🚀 Auto deploy via GitHub Actions"
-
+          hf upload --repo-type space RandomFab/FUTURISYS .
