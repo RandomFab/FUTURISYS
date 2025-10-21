@@ -1,3 +1,13 @@
+---
+title: Futurisys
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_file: Dockerfile
+pinned: false
+---
+
 # 🚀 FUTURISYS — Déploiement d’un modèle de Machine Learning
 
 > **Projet pédagogique** dans le cadre du parcours *Machine Learning & Data Science*.  
