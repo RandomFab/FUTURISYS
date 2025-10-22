@@ -10,20 +10,37 @@ app = FastAPI()
 class PredictionData(BaseModel):
   heure_supplementaires: Literal[0,1]
   age: int
-  FE_ratio_ancienneté:float
   FE_cadre: Literal[0,1]
   frequence_deplacement: Literal[1,2,3]
-  FE_duree_moy_exp_precedentes:float
-  FE_ratio_evolution:float
   niveau_education: Literal[1,2,3,4,5]
-  FE_reste_plus_longtemps: Literal[0,1]
   poste: Literal['Assistant de Direction','Cadre Commercial','Consultant','Directeur Technique','Manager','Représentant Commercial','Ressources Humaines','Senior Manager','Tech Lead']
   statut_marital:Literal['Célibataire','Marié(e)','Divorcé(e)']
+  annees_dans_l_entreprise: int
+  nombre_experiences_precedentes : int
+  annees_dans_le_poste_actuel: int
+  annee_experience_totale: int
 
 bundle = load("app/model/model_HR_prediction_TECHNOVA.joblib")
 HR_model = bundle['model']
 HR_threshold = bundle['threshold']
 
+def FE_ratio_ancienneté(annees_exp_entreprise,annees_exp_tot):
+    annees_exp_entreprise/(1+annees_exp_tot)
+
+def FE_duree_moy_exp_precedentes(annees_exp_tot, annees_exp_entreprise, nb_exp):
+    result = (annees_exp_tot - annees_exp_entreprise) / (nb_exp+1)
+    return result
+
+def FE_ratio_evolution(annees_poste_actuel,annees_exp_entreprise):
+    result = annees_poste_actuel/(1+annees_exp_entreprise)
+    return result
+    
+def FE_reste_plus_longtemps(annees_exp_entreprise,duree_moy_exp_precedentes):
+    if annees_exp_entreprise > duree_moy_exp_precedentes:
+        return 1 
+    else:
+        return 0
+    
 
 @app.get('/threshold')
 def get_threshold():
@@ -59,27 +76,34 @@ def post_prediction(data: PredictionData):
 
     ARGS : un dictionnaire contenant les valeurs des différentes variables 
     {
-        "heure_supplementaires": 2,
+        "heure_supplementaires": 1,
         "age": 0,
-        "FE_ratio_ancienneté": 0,
+        "annees_dans_l_entreprise": 0
+        "nombre_experiences_precedentes" : 0
+        "annees_dans_le_poste_actuel":0
+        "annee_experience_totale" : 0
         "FE_cadre": 0,
-        "frequence_deplacement": "régulier",
-        "FE_duree_moy_exp_precedentes": 0,
-        "FE_ratio_evolution": 0,
         "niveau_education": 1,
-        "FE_reste_plus_longtemps": 0,
         "poste": "Assistant de Direction",
         "statut_marital": "Célibataire"
     }
 
     RETURNS : La probabilité identifié par le modèle et la prédiction en fonction du seuil optimisé
     """
-        
-    df = pd.DataFrame([data.dict()])
+    data_dict = data.dict()
+    data_dict['FE_ratio_ancienneté'] = FE_ratio_ancienneté(data_dict['annees_dans_l_entreprise'],data_dict['annee_experience_totale'])
+    data_dict['FE_duree_moy_exp_precedentes'] = FE_duree_moy_exp_precedentes(data_dict['annee_experience_totale'],data_dict['annees_dans_l_entreprise'],data_dict['nombre_experiences_precedentes'])
+    data_dict['FE_ratio_evolution'] = FE_ratio_evolution(data_dict['annees_dans_le_poste_actuel'],data_dict['annees_dans_l_entreprise'])
+    data_dict['FE_reste_plus_longtemps'] = FE_reste_plus_longtemps(data_dict['annees_dans_l_entreprise'],data_dict['FE_duree_moy_exp_precedentes'])
+
+    keys_to_delete = {'annee_experience_totale','annees_dans_l_entreprise','annees_dans_le_poste_actuel',"nombre_experiences_precedentes"}
+    data_dict_for_model = {k: v for k,v in data_dict.items() if k not in keys_to_delete}
+
+    df = pd.DataFrame([data_dict_for_model])
+
+    
+
     proba = HR_model.predict_proba(df)[0][1]
     predict = (proba > HR_threshold)
     return {'probabilité': round(float(proba),3),
             'prédiction': bool(predict)}
-
-
-
