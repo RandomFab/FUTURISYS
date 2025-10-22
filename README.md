@@ -84,14 +84,6 @@ Avec **uv** :
 uv sync
 ```
 
-Ou avec **pip** (si tu veux reproduire l’environnement sans uv) :
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Lancer l’application
 
 ### Exécution locale
