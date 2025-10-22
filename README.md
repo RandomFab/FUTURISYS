@@ -84,14 +84,6 @@ Avec **uv** :
 uv sync
 ```
 
-Ou avec **pip** (si tu veux reproduire l’environnement sans uv) :
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Lancer l’application
 
 ### Exécution locale
@@ -111,25 +103,40 @@ Une fois l’API lancée :
 
 ---
 
-## 🧠 Détails techniques du modèle (*à compléter*)
+## 🧠 Détails techniques du modèle
 
 ### 🔹 Description générale
 
-- **Type de modèle :** `à compléter` (ex : RandomForestClassifier, LogisticRegression, etc.)  
-- **Nature des données :** `à compléter` (ex : texte, tabulaire, images…)  
-- **Tâche supervisée :** `à compléter` (ex : classification binaire, multi-classes, régression)  
-- **Objectif métier :**  
-  `à compléter` (ex : prédire la catégorie d’un document en fonction de son contenu textuel)
+- **Type de modèle :** HistGradientBoosting 
+- **Nature des données :**     
+      {
+        "heure_supplementaires": int/bool
+        "age": int
+        "FE_ratio_ancienneté": float
+        "FE_cadre": int
+        "frequence_deplacement": int 0(peu), 1(occasionnel), 2(fréquent)
+        "FE_duree_moy_exp_precedentes": float
+        "FE_ratio_evolution": float
+        "niveau_education": int 1,2,3,4,5
+        "FE_reste_plus_longtemps": int/bool
+        "poste": str 'Assistant de Direction','Cadre Commercial','Consultant','Directeur Technique','Manager','Représentant Commercial','Ressources Humaines','Senior Manager','Tech Lead',\n
+        "statut_marital": str'Célibataire','Marié(e)','Divorcé(e)'\n
+      }
+- **Tâche supervisée :** classification binaire (reste dans l'entreprise / part de l'entreprise)
+- **Objectif métier :**  Anticiper le départ d'unn collaborateur
 
 ### 🔹 Entraînement du modèle
 
-- **Jeu de données source :** `à compléter`  
-- **Prétraitements appliqués :**  
-  `à compléter` (ex : encodage des variables catégorielles, normalisation, nettoyage du texte…)  
-- **Pipeline d’entraînement :**  
-  `à compléter` (ex : StandardScaler + RandomForestClassifier)  
-- **Métriques principales :**  
-  `à compléter` (ex : Accuracy = 0.92, Recall = 0.87)
+- **Jeu de données source :** Evaluations annuelles, fichier SIRH et sondage de l'entreprise TECHNOVA
+- **Prétraitements appliqués :** StandardScaler, OneHotEncoder, SMOTE, underscaling 
+- **Pipeline d’entraînement :**  pipeline = IMBpipeline([
+                                            ('preprocessing', preprocessor),
+                                            ('smote',SMOTE(sampling_strategy=0.2,random_state=42)),
+                                            ('under',RandomUnderSampler(sampling_strategy=0.8,random_state=42)),
+                                            ('model', HistGradientBoostingClassifier(random_state=42))
+                                          ])
+  
+- **Métriques principales :** Optimisation fait sur le recall pour identifier au maximum les personne quittant l'entreprise, quite à avoir plus de faux positif.
 
 ### 🔹 Sauvegarde et chargement du modèle
 
@@ -178,8 +185,8 @@ Badge CI (à compléter une fois le workflow actif) :
 | Étape | Description | Statut |
 |:------|:-------------|:--------|
 | 1 | Mise en place du dépôt Git et structure du projet | ✅ |
-| 2 | Configuration CI/CD (GitHub Actions, HF Spaces) | ⏳ |
-| 3 | Création de l’API FastAPI exposant le modèle | 🔜 |
+| 2 | Configuration CI/CD (GitHub Actions, HF Spaces) | ✅ |
+| 3 | Création de l’API FastAPI exposant le modèle | ✅ |
 | 4 | Intégration d’une base PostgreSQL (traçabilité des prédictions) | 🔜 |
 | 5 | Suite de tests unitaires et fonctionnels | 🔜 |
 | 6 | Documentation complète et présentation finale | 🔜 |
@@ -188,8 +195,8 @@ Badge CI (à compléter une fois le workflow actif) :
 
 ## 🔐 Gestion des secrets (*à compléter*)
 
-- [ ] Ajouter les variables d’environnement sensibles (ex : URL de base de données, clés API).  
-- [ ] Configurer le stockage sécurisé sur GitHub (`Settings > Secrets and variables > Actions`).
+- [X] Ajouter les variables d’environnement sensibles (ex : URL de base de données, clés API).  
+- [X] Configurer le stockage sécurisé sur GitHub (`Settings > Secrets and variables > Actions`).
 
 ---
 
