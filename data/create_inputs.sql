@@ -1,5 +1,4 @@
 CREATE TABLE inputs (
-    id_input SERIAL PRIMARY KEY,
 
     id_employee INTEGER NOT NULL UNIQUE,
 
@@ -13,8 +12,12 @@ CREATE TABLE inputs (
     niveau_education INTEGER,
     poste VARCHAR(50),
     statut_marital VARCHAR(30),
+    PRIMARY KEY (id_employee),
 
-    FOREIGN KEY (id_employee) REFERENCES extrait_sirh(id_employee)
+    FOREIGN KEY (id_employee) REFERENCES extrait_sirh(id_employee),
+    FOREIGN KEY (id_employee) REFERENCES extrait_eval(eval_number),
+    FOREIGN KEY (id_employee) REFERENCES extrait_sondage(code_sondage)
+
 );
 
 INSERT INTO inputs (

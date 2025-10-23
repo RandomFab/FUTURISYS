@@ -215,6 +215,9 @@ Badge CI (à compléter une fois le workflow actif) :
 
 ---
 
+## Intégration d ela BDD 
+images/Schema_DB.png
+
 ## 👤 Auteur
 
 **Nom :** RandomFab  
