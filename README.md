@@ -93,13 +93,18 @@ uvicorn app.main:app --reload
 ```
 
 👉 L’API sera disponible à l’adresse :  
-**http://127.0.0.1:8000**
+Dev : **http://127.0.0.1:8000**
+Prod : **https://randomfab-futurisys.hf.space**
 
 ### Documentation interactive
 
-Une fois l’API lancée :
-- Interface Swagger : [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-- Interface ReDoc : [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+Liste des endpoints :
+**https://randomfab-futurisys.hf.space/docs**
+**https://randomfab-futurisys.hf.space/threshold**
+**https://randomfab-futurisys.hf.space/features**
+**https://randomfab-futurisys.hf.space/model-info**
+**https://randomfab-futurisys.hf.space/predict_from_raw_data**
+**https://randomfab-futurisys.hf.space/predict_from_transformed_data**
 
 ---
 

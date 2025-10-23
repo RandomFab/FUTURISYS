@@ -57,7 +57,7 @@ def FE_reste_plus_longtemps(annees_exp_entreprise,duree_moy_exp_precedentes):
     
 @app.get("/")
 def read_root():
-    return {"message": "Hello Futurisys"}
+    return {"message": "Bienvenue dans L'API Futurisys. Accédez tout de suite au swagger : https://randomfab-futurisys.hf.space/docs"}
 
 @app.get('/threshold')
 def get_threshold():
