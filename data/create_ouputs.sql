@@ -1,9 +1,9 @@
 CREATE TABLE outputs (
     id_output SERIAL PRIMARY KEY,
+
+    id_input INT REFERENCES inputs(id_input) ON DELETE CASCADE,
+
     probabilite FLOAT,
-    PREDICT BOOLEAN,
-
-    id_input_employee INTEGER NOT NULL,
-
-    FOREIGN KEY (id_input_employee) REFERENCES inputs(id_employee)
+    predict BOOLEAN,
+    timestamp TIMESTAMP DEFAULT NOW()
 )
