@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 import os
 from .utils.connexion_db import connexion_db
 from .utils.feature_engineering import transform_fe
-from .utils.interaction_db import get_employe
+from .utils.interaction_db import get_employe, post_input
 
 
 app = FastAPI()
@@ -165,14 +165,23 @@ def post_prediction_from_raw_data(id_employe: int = Query(..., description="iden
     engine = connexion_db()
 
     with engine.connect() as conn:
+        #FBL: Récupération des données employées
         data_dict = get_employe(conn,id_employe)
-    
+        if "message" in data_dict:
+            return data_dict
+
     data_dict_for_model = transform_fe(data_dict)
 
     df = pd.DataFrame([data_dict_for_model])
 
     proba = HR_model.predict_proba(df)[0][1]
     predict = (proba > HR_threshold)
+
+    with engine.begin() as conn:
+        #FBL: Ajouter l'input à inputs db
+        post_input(conn,data_dict_for_model)
+
     return {'params' : data_dict,
-            'probabilité': round(float(proba),3),
-            'prédiction': bool(predict)}
+            "message": "ligne insérée avec succès dans inputs",
+        'probabilité': round(float(proba),3),
+        'prédiction': bool(predict)}

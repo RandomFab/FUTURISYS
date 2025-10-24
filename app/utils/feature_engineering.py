@@ -13,7 +13,8 @@ def transform_fe(data_dict):
 
 
 def FE_ratio_ancienneté(annees_exp_entreprise,annees_exp_tot):
-    annees_exp_entreprise/(1+annees_exp_tot)
+    result = annees_exp_entreprise/(1+annees_exp_tot)
+    return result
 
 def FE_duree_moy_exp_precedentes(annees_exp_tot, annees_exp_entreprise, nb_exp):
     result = (annees_exp_tot - annees_exp_entreprise) / (nb_exp+1)
