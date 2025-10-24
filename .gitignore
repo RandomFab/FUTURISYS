@@ -9,6 +9,4 @@ wheels/
 # Virtual environments
 .venv
 
-.env.dev
-.env.test
-.env.prod
+.env*

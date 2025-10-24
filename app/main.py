@@ -1,9 +1,15 @@
 # app/main.py
-from fastapi import FastAPI
+from fastapi import FastAPI,Query
 from joblib import load
 from pydantic import BaseModel
 from typing import Literal
 import pandas as pd
+from sqlalchemy import create_engine, text
+from dotenv import load_dotenv
+import os
+from .utils.connexion_db import connexion_db
+from .utils.feature_engineering import transform_fe
+
 
 app = FastAPI()
 
@@ -38,22 +44,7 @@ bundle = load("app/model/model_HR_prediction_TECHNOVA.joblib")
 HR_model = bundle['model']
 HR_threshold = bundle['threshold']
 
-def FE_ratio_ancienneté(annees_exp_entreprise,annees_exp_tot):
-    annees_exp_entreprise/(1+annees_exp_tot)
 
-def FE_duree_moy_exp_precedentes(annees_exp_tot, annees_exp_entreprise, nb_exp):
-    result = (annees_exp_tot - annees_exp_entreprise) / (nb_exp+1)
-    return result
-
-def FE_ratio_evolution(annees_poste_actuel,annees_exp_entreprise):
-    result = annees_poste_actuel/(1+annees_exp_entreprise)
-    return result
-    
-def FE_reste_plus_longtemps(annees_exp_entreprise,duree_moy_exp_precedentes):
-    if annees_exp_entreprise > duree_moy_exp_precedentes:
-        return 1 
-    else:
-        return 0
     
 @app.get("/")
 def read_root():
@@ -117,14 +108,7 @@ def post_prediction_from_raw_data(data: PredictionRawData):
 
     RETURNS : La probabilité identifié par le modèle et la prédiction en fonction du seuil optimisé
     """
-    data_dict = data.dict()
-    data_dict['FE_ratio_ancienneté'] = FE_ratio_ancienneté(data_dict['annees_dans_l_entreprise'],data_dict['annee_experience_totale'])
-    data_dict['FE_duree_moy_exp_precedentes'] = FE_duree_moy_exp_precedentes(data_dict['annee_experience_totale'],data_dict['annees_dans_l_entreprise'],data_dict['nombre_experiences_precedentes'])
-    data_dict['FE_ratio_evolution'] = FE_ratio_evolution(data_dict['annees_dans_le_poste_actuel'],data_dict['annees_dans_l_entreprise'])
-    data_dict['FE_reste_plus_longtemps'] = FE_reste_plus_longtemps(data_dict['annees_dans_l_entreprise'],data_dict['FE_duree_moy_exp_precedentes'])
-
-    keys_to_delete = {'annee_experience_totale','annees_dans_l_entreprise','annees_dans_le_poste_actuel',"nombre_experiences_precedentes"}
-    data_dict_for_model = {k: v for k,v in data_dict.items() if k not in keys_to_delete}
+    data_dict_for_model = transform_fe(data.dict())
 
     df = pd.DataFrame([data_dict_for_model])
 
@@ -158,6 +142,41 @@ def post_prediction_from_transformed_data(data: PredictionTransformedData):
     """
 
     df = pd.DataFrame([data.dict()])
+    proba = HR_model.predict_proba(df)[0][1]
+    predict = (proba > HR_threshold)
+    return {'probabilité': round(float(proba),3),
+            'prédiction': bool(predict)}
+
+
+@app.post('/predict_from_db_employe')
+def post_prediction_from_raw_data(id_employe: int = Query(..., description="identifiant de l'employé", ge=1)):
+
+    """
+    Prédit le départ ou non d'un employé sur la base des données de la DB employe
+
+    ARGS : un dictionnaire contenant les valeurs des différentes variables 
+    {
+        id_employee
+    }
+
+    RETURNS : La probabilité identifié par le modèle et la prédiction en fonction du seuil optimisé
+    """
+    engine = connexion_db()
+
+    with engine.connect() as conn:
+        query = text("SELECT * FROM employes WHERE id_employee = :id")
+        data = conn.execute(query, {'id' : id_employe})
+        row = data.fetchone()
+
+        if row: 
+            data_dict = dict(row._mapping)
+        else:
+            return {'message' : 'Aucun employé trouvé'}
+
+    data_dict_for_model = transform_fe(data_dict)
+
+    df = pd.DataFrame([data_dict_for_model])
+
     proba = HR_model.predict_proba(df)[0][1]
     predict = (proba > HR_threshold)
     return {'probabilité': round(float(proba),3),
