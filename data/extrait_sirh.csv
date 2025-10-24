@@ -1,0 +1,1471 @@
+id_employee,age,genre,revenu_mensuel,statut_marital,departement,poste,nombre_experiences_precedentes,nombre_heures_travailless,annee_experience_totale,annees_dans_l_entreprise,annees_dans_le_poste_actuel
+1,41,F,5993,Célibataire,Commercial,Cadre Commercial,8,80,8,6,4
+2,49,M,5130,Marié(e),Consulting,Assistant de Direction,1,80,10,10,7
+4,37,M,2090,Célibataire,Consulting,Consultant,6,80,7,0,0
+5,33,F,2909,Marié(e),Consulting,Assistant de Direction,1,80,8,8,7
+7,27,M,3468,Marié(e),Consulting,Consultant,9,80,6,2,2
+8,32,M,3068,Célibataire,Consulting,Consultant,0,80,8,7,7
+10,59,F,2670,Marié(e),Consulting,Consultant,4,80,12,1,0
+11,30,M,2693,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+12,38,M,9526,Célibataire,Consulting,Tech Lead,0,80,10,9,7
+13,36,M,5237,Marié(e),Consulting,Manager,6,80,17,7,7
+14,35,M,2426,Marié(e),Consulting,Consultant,0,80,6,5,4
+15,29,F,4193,Célibataire,Consulting,Consultant,0,80,10,9,5
+16,31,M,2911,Divorcé(e),Consulting,Assistant de Direction,1,80,5,5,2
+18,34,M,2661,Divorcé(e),Consulting,Consultant,0,80,3,2,2
+19,28,M,2028,Célibataire,Consulting,Consultant,5,80,6,4,2
+20,29,F,9980,Divorcé(e),Consulting,Tech Lead,1,80,10,10,9
+21,32,M,3298,Divorcé(e),Consulting,Assistant de Direction,0,80,7,6,2
+22,22,M,2935,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+23,53,F,15427,Marié(e),Commercial,Senior Manager,2,80,31,25,8
+24,38,M,3944,Célibataire,Consulting,Assistant de Direction,5,80,6,3,2
+26,24,F,4011,Divorcé(e),Consulting,Tech Lead,0,80,5,4,2
+27,36,M,3407,Célibataire,Commercial,Représentant Commercial,7,80,10,5,3
+28,34,F,11994,Célibataire,Consulting,Directeur Technique,0,80,13,12,6
+30,21,M,1232,Célibataire,Consulting,Assistant de Direction,1,80,0,0,0
+31,34,M,2960,Célibataire,Consulting,Assistant de Direction,2,80,8,4,2
+32,53,F,19094,Divorcé(e),Consulting,Senior Manager,4,80,26,14,13
+33,32,F,3919,Célibataire,Consulting,Assistant de Direction,1,80,10,10,2
+35,42,M,6825,Marié(e),Commercial,Cadre Commercial,0,80,10,9,7
+36,44,F,10248,Marié(e),Consulting,Manager,3,80,24,22,6
+38,46,F,18947,Célibataire,Commercial,Senior Manager,3,80,22,2,2
+39,33,M,2496,Célibataire,Consulting,Consultant,4,80,7,1,1
+40,44,M,6465,Marié(e),Consulting,Manager,2,80,9,4,2
+41,30,M,2206,Célibataire,Consulting,Consultant,1,80,10,10,0
+42,39,M,2086,Marié(e),Commercial,Représentant Commercial,3,80,19,1,0
+45,24,M,2293,Marié(e),Consulting,Assistant de Direction,2,80,6,2,0
+46,43,F,2645,Divorcé(e),Consulting,Assistant de Direction,1,80,6,5,3
+47,50,M,2683,Marié(e),Commercial,Représentant Commercial,1,80,3,3,2
+49,35,F,2014,Marié(e),Commercial,Représentant Commercial,1,80,2,2,2
+51,36,F,3419,Marié(e),Consulting,Assistant de Direction,9,80,6,1,1
+52,33,F,5376,Marié(e),Commercial,Cadre Commercial,2,80,10,5,3
+53,35,M,1951,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+54,27,F,2341,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+55,26,M,2293,Célibataire,Consulting,Consultant,1,80,1,1,0
+56,27,M,8726,Célibataire,Commercial,Cadre Commercial,1,80,9,9,8
+57,30,F,4011,Célibataire,Consulting,Consultant,1,80,12,12,8
+58,41,F,19545,Marié(e),Consulting,Directeur Technique,1,80,23,22,15
+60,34,M,4568,Célibataire,Commercial,Cadre Commercial,0,80,10,9,5
+61,37,M,3022,Marié(e),Consulting,Assistant de Direction,4,80,8,1,0
+62,46,M,5772,Célibataire,Commercial,Cadre Commercial,4,80,14,9,6
+63,35,M,2269,Marié(e),Consulting,Consultant,1,80,1,1,0
+64,48,M,5381,Célibataire,Consulting,Consultant,9,80,23,1,0
+65,28,M,3441,Célibataire,Consulting,Consultant,1,80,2,2,2
+68,44,F,5454,Divorcé(e),Commercial,Cadre Commercial,5,80,9,4,3
+70,35,M,9884,Marié(e),Consulting,Manager,2,80,10,4,0
+72,26,F,4157,Marié(e),Commercial,Cadre Commercial,7,80,5,2,2
+73,33,F,13458,Célibataire,Consulting,Directeur Technique,1,80,15,15,14
+74,35,M,9069,Marié(e),Commercial,Cadre Commercial,1,80,9,9,8
+75,35,F,4014,Marié(e),Consulting,Consultant,3,80,4,2,2
+76,31,M,5915,Divorcé(e),Consulting,Consultant,3,80,10,7,7
+77,37,M,5993,Divorcé(e),Consulting,Tech Lead,1,80,7,7,5
+78,32,M,6162,Marié(e),Consulting,Tech Lead,1,80,9,9,8
+79,38,F,2406,Célibataire,Consulting,Consultant,1,80,10,10,3
+80,50,F,18740,Divorcé(e),Consulting,Directeur Technique,5,80,29,27,3
+81,59,F,7637,Célibataire,Commercial,Cadre Commercial,7,80,28,21,16
+83,36,F,10096,Divorcé(e),Consulting,Manager,1,80,17,17,14
+84,55,F,14756,Divorcé(e),Consulting,Senior Manager,2,80,21,5,0
+85,36,M,6499,Célibataire,Consulting,Tech Lead,1,80,6,6,5
+86,45,M,9724,Divorcé(e),Consulting,Assistant de Direction,2,80,25,1,0
+88,35,M,2194,Marié(e),Consulting,Assistant de Direction,4,80,5,3,2
+90,36,M,3388,Marié(e),Consulting,Assistant de Direction,0,80,2,1,0
+91,59,F,5473,Célibataire,Commercial,Cadre Commercial,7,80,20,4,3
+94,29,M,2703,Marié(e),Consulting,Assistant de Direction,0,80,6,5,4
+95,31,M,2501,Célibataire,Consulting,Assistant de Direction,1,80,1,1,1
+96,32,M,6220,Marié(e),Consulting,Assistant de Direction,1,80,10,10,4
+97,36,F,3038,Marié(e),Consulting,Consultant,3,80,5,1,0
+98,31,F,4424,Célibataire,Consulting,Tech Lead,1,80,11,11,7
+100,35,M,4312,Célibataire,Commercial,Cadre Commercial,0,80,16,15,13
+101,45,M,13245,Marié(e),Consulting,Directeur Technique,4,80,17,0,0
+102,37,M,13664,Célibataire,Consulting,Directeur Technique,4,80,16,5,2
+103,46,M,5021,Divorcé(e),Ressources Humaines,Ressources Humaines,8,80,16,4,2
+104,30,M,5126,Marié(e),Consulting,Consultant,1,80,10,10,8
+105,35,M,2859,Célibataire,Consulting,Assistant de Direction,1,80,6,6,4
+106,55,M,10239,Marié(e),Commercial,Cadre Commercial,3,80,24,1,0
+107,38,F,5329,Divorcé(e),Consulting,Assistant de Direction,7,80,17,13,11
+110,34,M,4325,Marié(e),Consulting,Tech Lead,1,80,5,5,2
+112,56,M,7260,Célibataire,Consulting,Tech Lead,4,80,37,6,4
+113,23,M,2322,Divorcé(e),Commercial,Représentant Commercial,3,80,3,0,0
+116,51,M,2075,Marié(e),Consulting,Consultant,3,80,10,4,2
+117,30,M,4152,Marié(e),Consulting,Manager,1,80,11,11,10
+118,46,M,9619,Célibataire,Commercial,Cadre Commercial,1,80,9,9,8
+119,40,M,13503,Marié(e),Consulting,Manager,1,80,22,22,3
+120,51,M,5441,Célibataire,Commercial,Cadre Commercial,0,80,11,10,7
+121,30,F,5209,Divorcé(e),Commercial,Cadre Commercial,1,80,11,11,8
+124,46,M,10673,Marié(e),Consulting,Manager,2,80,21,10,9
+125,32,M,5010,Célibataire,Commercial,Cadre Commercial,1,80,12,11,8
+126,54,F,13549,Marié(e),Consulting,Directeur Technique,9,80,16,4,3
+128,24,F,4999,Marié(e),Commercial,Cadre Commercial,0,80,4,3,2
+129,28,M,4221,Marié(e),Commercial,Cadre Commercial,1,80,5,5,4
+131,58,M,13872,Célibataire,Commercial,Cadre Commercial,0,80,38,37,10
+132,44,M,2042,Marié(e),Consulting,Consultant,4,80,17,3,2
+133,37,M,2073,Divorcé(e),Ressources Humaines,Ressources Humaines,4,80,7,3,2
+134,32,M,2956,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+137,20,F,2926,Célibataire,Consulting,Consultant,1,80,1,1,0
+138,34,F,4809,Célibataire,Consulting,Assistant de Direction,1,80,16,16,13
+139,37,M,5163,Divorcé(e),Consulting,Manager,5,80,17,1,0
+140,59,F,18844,Marié(e),Ressources Humaines,Senior Manager,9,80,30,3,2
+141,50,F,18172,Marié(e),Consulting,Directeur Technique,3,80,28,8,3
+142,25,M,5744,Célibataire,Commercial,Cadre Commercial,1,80,6,6,4
+143,25,M,2889,Marié(e),Consulting,Assistant de Direction,1,80,2,2,2
+144,22,F,2871,Célibataire,Consulting,Consultant,1,80,1,0,0
+145,51,F,7484,Célibataire,Consulting,Manager,3,80,23,13,12
+147,34,M,6074,Célibataire,Consulting,Consultant,1,80,9,9,7
+148,54,F,17328,Célibataire,Ressources Humaines,Senior Manager,2,80,23,5,3
+150,24,M,2774,Marié(e),Consulting,Consultant,0,80,6,5,3
+151,34,F,4505,Divorcé(e),Consulting,Assistant de Direction,6,80,12,1,0
+152,37,M,7428,Célibataire,Commercial,Cadre Commercial,2,80,12,5,3
+153,34,F,11631,Célibataire,Consulting,Senior Manager,2,80,14,11,10
+154,36,F,9738,Marié(e),Commercial,Cadre Commercial,0,80,10,9,7
+155,36,F,2835,Divorcé(e),Consulting,Consultant,5,80,7,1,0
+158,43,M,16959,Marié(e),Commercial,Senior Manager,1,80,25,25,12
+159,30,M,2613,Divorcé(e),Consulting,Assistant de Direction,1,80,10,10,7
+160,33,M,6146,Marié(e),Commercial,Cadre Commercial,0,80,8,7,7
+161,56,F,4963,Marié(e),Consulting,Assistant de Direction,9,80,7,5,4
+162,51,M,19537,Célibataire,Consulting,Directeur Technique,7,80,23,20,18
+163,31,M,6172,Marié(e),Commercial,Cadre Commercial,4,80,12,7,7
+164,26,F,2368,Marié(e),Consulting,Assistant de Direction,1,80,5,5,4
+165,58,F,10312,Marié(e),Consulting,Manager,1,80,40,40,10
+167,19,M,1675,Célibataire,Commercial,Représentant Commercial,1,80,0,0,0
+169,22,M,2523,Marié(e),Consulting,Consultant,0,80,3,2,1
+170,49,F,6567,Marié(e),Consulting,Tech Lead,1,80,16,15,11
+171,43,F,4739,Célibataire,Consulting,Assistant de Direction,4,80,18,3,2
+174,50,F,9208,Célibataire,Commercial,Cadre Commercial,4,80,16,2,2
+175,31,F,4559,Marié(e),Commercial,Cadre Commercial,3,80,4,2,2
+176,41,M,8189,Divorcé(e),Commercial,Cadre Commercial,3,80,12,9,7
+177,26,F,2942,Marié(e),Ressources Humaines,Ressources Humaines,1,80,8,8,7
+178,36,M,4941,Divorcé(e),Consulting,Tech Lead,6,80,7,3,2
+179,51,M,10650,Célibataire,Consulting,Tech Lead,2,80,18,4,2
+182,39,F,5902,Marié(e),Commercial,Cadre Commercial,4,80,17,15,11
+183,25,M,8639,Marié(e),Commercial,Cadre Commercial,2,80,6,2,2
+184,30,M,6347,Marié(e),Ressources Humaines,Ressources Humaines,0,80,12,11,9
+190,32,F,4200,Célibataire,Consulting,Consultant,7,80,10,5,4
+192,45,M,3452,Célibataire,Consulting,Assistant de Direction,5,80,9,6,5
+193,38,F,4317,Célibataire,Consulting,Assistant de Direction,3,80,19,3,2
+194,30,F,2632,Célibataire,Consulting,Assistant de Direction,1,80,5,5,4
+195,32,M,4668,Divorcé(e),Commercial,Cadre Commercial,0,80,9,8,7
+197,30,F,3204,Divorcé(e),Consulting,Assistant de Direction,5,80,8,3,2
+198,30,M,2720,Célibataire,Consulting,Consultant,0,80,6,5,3
+199,41,M,17181,Divorcé(e),Consulting,Senior Manager,4,80,21,7,6
+200,41,M,2238,Marié(e),Consulting,Consultant,2,80,7,5,0
+201,19,F,1483,Célibataire,Consulting,Consultant,1,80,1,1,0
+202,40,F,5605,Divorcé(e),Consulting,Assistant de Direction,1,80,20,20,7
+204,35,M,7295,Marié(e),Commercial,Cadre Commercial,1,80,10,10,8
+205,53,M,2306,Marié(e),Commercial,Représentant Commercial,2,80,13,7,7
+206,45,M,2348,Divorcé(e),Consulting,Consultant,8,80,20,17,9
+207,32,F,8998,Célibataire,Commercial,Cadre Commercial,1,80,9,9,8
+208,29,M,4319,Marié(e),Consulting,Tech Lead,1,80,10,10,7
+211,51,M,6132,Marié(e),Consulting,Tech Lead,2,80,10,1,0
+214,58,F,3346,Marié(e),Consulting,Assistant de Direction,4,80,9,1,0
+215,40,M,10855,Marié(e),Commercial,Cadre Commercial,7,80,15,12,11
+216,34,F,2231,Marié(e),Commercial,Représentant Commercial,6,80,6,4,3
+217,22,M,2323,Marié(e),Consulting,Assistant de Direction,1,80,2,2,2
+218,27,M,2024,Divorcé(e),Consulting,Assistant de Direction,6,80,6,2,2
+221,28,M,2713,Marié(e),Consulting,Assistant de Direction,1,80,5,5,2
+223,57,M,9439,Divorcé(e),Consulting,Manager,3,80,12,5,3
+224,27,M,2566,Divorcé(e),Consulting,Assistant de Direction,1,80,1,1,1
+226,50,F,19926,Célibataire,Consulting,Senior Manager,3,80,21,5,4
+227,41,M,2451,Divorcé(e),Consulting,Assistant de Direction,4,80,13,9,8
+228,30,F,9419,Marié(e),Commercial,Cadre Commercial,2,80,12,10,9
+230,38,F,8686,Célibataire,Commercial,Cadre Commercial,4,80,12,8,3
+231,32,M,3038,Célibataire,Consulting,Assistant de Direction,3,80,8,5,4
+233,27,M,3058,Marié(e),Consulting,Assistant de Direction,0,80,6,5,2
+235,19,F,2325,Célibataire,Commercial,Représentant Commercial,0,80,1,0,0
+238,36,M,2088,Célibataire,Consulting,Consultant,4,80,13,8,7
+239,30,M,3072,Divorcé(e),Consulting,Consultant,1,80,12,12,9
+240,45,F,5006,Divorcé(e),Commercial,Cadre Commercial,4,80,9,5,4
+241,56,F,4257,Divorcé(e),Consulting,Assistant de Direction,4,80,19,2,2
+242,33,M,2500,Célibataire,Consulting,Assistant de Direction,0,80,4,3,1
+243,19,M,1102,Célibataire,Consulting,Consultant,1,80,1,1,0
+244,46,F,10453,Divorcé(e),Commercial,Cadre Commercial,1,80,24,24,13
+245,38,F,2288,Célibataire,Consulting,Consultant,1,80,2,2,2
+246,31,F,3929,Marié(e),Consulting,Assistant de Direction,8,80,7,4,2
+247,34,F,2311,Célibataire,Consulting,Assistant de Direction,2,80,9,3,2
+248,41,F,3140,Célibataire,Commercial,Représentant Commercial,1,80,4,4,3
+249,50,M,3690,Marié(e),Consulting,Consultant,2,80,5,3,2
+250,53,F,4450,Divorcé(e),Consulting,Tech Lead,1,80,5,4,2
+252,33,F,2756,Marié(e),Consulting,Assistant de Direction,1,80,8,8,7
+253,40,F,19033,Marié(e),Consulting,Senior Manager,1,80,21,20,8
+254,55,M,18722,Célibataire,Consulting,Directeur Technique,8,80,36,24,15
+256,34,M,9547,Marié(e),Consulting,Tech Lead,1,80,10,10,9
+258,51,F,13734,Célibataire,Consulting,Manager,3,80,21,7,7
+259,52,M,19999,Marié(e),Consulting,Senior Manager,0,80,34,33,18
+260,27,F,2279,Célibataire,Consulting,Assistant de Direction,1,80,7,7,7
+261,35,M,5916,Marié(e),Consulting,Tech Lead,3,80,8,1,0
+262,43,M,2089,Divorcé(e),Consulting,Assistant de Direction,4,80,7,5,4
+264,45,M,16792,Marié(e),Consulting,Senior Manager,9,80,22,20,8
+267,37,M,3564,Marié(e),Consulting,Assistant de Direction,1,80,8,8,7
+269,35,F,4425,Célibataire,Consulting,Consultant,5,80,10,6,2
+270,42,F,5265,Divorcé(e),Consulting,Tech Lead,2,80,11,5,3
+271,38,M,6553,Marié(e),Consulting,Tech Lead,9,80,14,1,0
+273,38,M,6261,Marié(e),Consulting,Tech Lead,3,80,9,7,7
+274,27,M,4298,Marié(e),Consulting,Tech Lead,5,80,6,2,2
+275,49,M,6804,Divorcé(e),Consulting,Tech Lead,1,80,7,7,7
+277,34,M,3815,Divorcé(e),Consulting,Assistant de Direction,1,80,5,5,3
+281,40,M,2741,Marié(e),Consulting,Consultant,8,80,15,7,2
+282,38,M,6673,Marié(e),Consulting,Manager,7,80,17,1,0
+283,29,F,7639,Marié(e),Commercial,Cadre Commercial,1,80,10,10,4
+284,22,M,2328,Divorcé(e),Consulting,Assistant de Direction,1,80,4,4,2
+286,36,F,2153,Célibataire,Consulting,Consultant,1,80,8,8,1
+287,40,M,4876,Marié(e),Consulting,Manager,9,80,5,3,2
+288,46,M,9396,Divorcé(e),Consulting,Manager,7,80,17,4,2
+291,32,M,10400,Marié(e),Commercial,Cadre Commercial,1,80,14,14,8
+292,30,M,8474,Célibataire,Consulting,Tech Lead,1,80,12,11,8
+293,27,F,9981,Célibataire,Commercial,Cadre Commercial,1,80,7,7,7
+296,51,M,12490,Marié(e),Consulting,Directeur Technique,5,80,16,10,9
+297,30,F,2657,Célibataire,Consulting,Assistant de Direction,5,80,8,5,2
+298,41,F,13591,Célibataire,Commercial,Senior Manager,3,80,16,1,0
+299,30,F,6696,Célibataire,Commercial,Cadre Commercial,5,80,9,6,3
+300,29,M,2058,Célibataire,Consulting,Assistant de Direction,0,80,7,6,2
+302,45,F,8865,Célibataire,Commercial,Cadre Commercial,6,80,23,19,7
+303,54,F,5940,Marié(e),Commercial,Cadre Commercial,2,80,16,6,2
+304,36,M,5914,Célibataire,Consulting,Consultant,8,80,16,13,11
+305,33,F,2622,Marié(e),Consulting,Assistant de Direction,6,80,7,3,2
+306,37,M,12185,Divorcé(e),Consulting,Directeur Technique,1,80,10,10,8
+307,38,M,10609,Divorcé(e),Commercial,Cadre Commercial,0,80,17,16,10
+308,31,M,4345,Marié(e),Consulting,Tech Lead,0,80,6,5,4
+309,59,M,2177,Marié(e),Consulting,Assistant de Direction,3,80,7,1,0
+311,37,M,2793,Divorcé(e),Commercial,Représentant Commercial,4,80,13,9,8
+312,29,F,7918,Marié(e),Commercial,Cadre Commercial,1,80,11,11,10
+314,35,F,8789,Célibataire,Commercial,Cadre Commercial,1,80,10,10,7
+315,29,M,2389,Célibataire,Consulting,Assistant de Direction,1,80,4,4,3
+316,52,F,3212,Célibataire,Consulting,Consultant,7,80,6,2,2
+319,42,M,19232,Marié(e),Consulting,Senior Manager,1,80,22,22,17
+321,59,M,2267,Marié(e),Ressources Humaines,Ressources Humaines,8,80,7,2,2
+323,50,F,19517,Divorcé(e),Commercial,Senior Manager,3,80,32,7,0
+325,33,M,2436,Marié(e),Consulting,Consultant,5,80,8,5,4
+327,43,F,16064,Marié(e),Commercial,Senior Manager,5,80,22,17,13
+328,33,F,2707,Marié(e),Consulting,Consultant,7,80,13,9,7
+329,52,M,19068,Célibataire,Commercial,Senior Manager,1,80,33,33,7
+330,32,F,3931,Marié(e),Commercial,Représentant Commercial,2,80,6,4,3
+331,32,M,3730,Célibataire,Consulting,Consultant,0,80,4,3,2
+332,39,F,2232,Divorcé(e),Consulting,Consultant,7,80,7,3,2
+333,32,M,4465,Marié(e),Commercial,Cadre Commercial,0,80,4,3,2
+334,41,M,3072,Divorcé(e),Consulting,Assistant de Direction,2,80,17,1,0
+335,40,M,3319,Divorcé(e),Consulting,Assistant de Direction,1,80,9,9,8
+336,45,M,19202,Marié(e),Consulting,Senior Manager,0,80,25,24,0
+337,31,M,13675,Divorcé(e),Consulting,Directeur Technique,9,80,9,2,2
+338,33,F,2911,Marié(e),Consulting,Assistant de Direction,1,80,2,2,2
+339,34,M,5957,Marié(e),Consulting,Tech Lead,6,80,13,11,9
+340,37,F,3920,Marié(e),Consulting,Assistant de Direction,2,80,17,3,1
+341,45,M,6434,Marié(e),Consulting,Tech Lead,4,80,9,3,2
+342,37,M,10048,Divorcé(e),Consulting,Tech Lead,6,80,17,1,0
+343,39,F,10938,Célibataire,Consulting,Manager,0,80,20,19,6
+346,29,M,2340,Célibataire,Consulting,Assistant de Direction,1,80,6,6,5
+347,42,F,6545,Célibataire,Consulting,Assistant de Direction,3,80,10,3,2
+349,29,M,6931,Divorcé(e),Commercial,Cadre Commercial,2,80,10,3,2
+350,25,F,4898,Marié(e),Consulting,Tech Lead,0,80,5,4,2
+351,42,F,2593,Divorcé(e),Consulting,Consultant,0,80,10,9,6
+352,40,M,19436,Divorcé(e),Consulting,Directeur Technique,0,80,22,21,7
+353,51,M,2723,Marié(e),Consulting,Assistant de Direction,1,80,1,1,0
+355,31,M,3479,Célibataire,Consulting,Consultant,0,80,6,5,4
+359,32,M,2794,Marié(e),Consulting,Consultant,1,80,5,5,1
+361,38,M,5249,Marié(e),Commercial,Cadre Commercial,3,80,13,8,7
+362,32,M,2176,Célibataire,Consulting,Consultant,4,80,9,6,2
+363,46,F,16872,Marié(e),Commercial,Senior Manager,3,80,28,7,7
+364,28,M,3485,Célibataire,Consulting,Consultant,2,80,5,0,0
+366,29,M,6644,Marié(e),Commercial,Cadre Commercial,2,80,10,0,0
+367,31,M,5582,Marié(e),Consulting,Manager,0,80,10,9,0
+369,25,M,4000,Divorcé(e),Consulting,Manager,1,80,6,6,3
+372,45,M,13496,Marié(e),Consulting,Manager,0,80,21,20,7
+373,36,M,3210,Marié(e),Consulting,Consultant,0,80,16,15,13
+374,55,M,19045,Célibataire,Consulting,Senior Manager,0,80,37,36,10
+376,47,M,11849,Marié(e),Consulting,Senior Manager,1,80,10,10,7
+377,28,M,2070,Marié(e),Consulting,Assistant de Direction,1,80,5,5,2
+378,37,M,6502,Marié(e),Commercial,Cadre Commercial,4,80,7,5,4
+379,21,M,3230,Célibataire,Consulting,Assistant de Direction,1,80,3,3,2
+380,37,F,13603,Divorcé(e),Consulting,Directeur Technique,2,80,15,5,2
+381,35,F,11996,Divorcé(e),Consulting,Senior Manager,7,80,10,7,7
+382,38,F,5605,Divorcé(e),Commercial,Cadre Commercial,1,80,8,8,0
+384,26,F,6397,Divorcé(e),Consulting,Tech Lead,1,80,6,6,5
+385,50,M,19144,Divorcé(e),Consulting,Directeur Technique,3,80,28,10,4
+386,53,M,17584,Marié(e),Consulting,Directeur Technique,3,80,21,5,3
+387,42,M,4907,Marié(e),Commercial,Cadre Commercial,1,80,20,20,16
+388,29,M,4554,Célibataire,Commercial,Cadre Commercial,1,80,10,10,7
+389,55,M,5415,Marié(e),Consulting,Consultant,3,80,12,10,7
+390,26,M,4741,Marié(e),Consulting,Manager,1,80,5,5,3
+391,37,F,2115,Célibataire,Consulting,Assistant de Direction,1,80,17,17,12
+392,44,M,3161,Divorcé(e),Consulting,Consultant,3,80,19,1,0
+393,38,M,5745,Divorcé(e),Consulting,Manager,9,80,10,2,2
+394,26,M,2373,Divorcé(e),Consulting,Consultant,2,80,5,3,2
+395,28,F,3310,Célibataire,Consulting,Assistant de Direction,1,80,5,5,3
+396,49,F,18665,Célibataire,Consulting,Directeur Technique,9,80,22,3,2
+397,36,M,4485,Célibataire,Consulting,Assistant de Direction,4,80,10,8,0
+399,31,F,2789,Divorcé(e),Commercial,Représentant Commercial,1,80,2,2,2
+401,26,M,5828,Célibataire,Commercial,Cadre Commercial,1,80,8,8,7
+403,37,M,2326,Marié(e),Consulting,Assistant de Direction,1,80,4,4,2
+404,42,F,13525,Marié(e),Commercial,Cadre Commercial,5,80,23,20,4
+405,18,M,1420,Célibataire,Consulting,Consultant,1,80,0,0,0
+406,35,M,8020,Marié(e),Commercial,Cadre Commercial,0,80,12,11,9
+407,36,M,3688,Marié(e),Consulting,Consultant,4,80,4,1,0
+408,51,M,5482,Divorcé(e),Consulting,Tech Lead,5,80,13,4,1
+410,41,M,16015,Célibataire,Commercial,Senior Manager,1,80,22,22,10
+411,18,F,1200,Célibataire,Commercial,Représentant Commercial,1,80,0,0,0
+412,28,M,5661,Célibataire,Consulting,Manager,0,80,9,8,3
+416,31,M,6929,Marié(e),Commercial,Cadre Commercial,4,80,10,8,7
+417,39,M,9613,Divorcé(e),Consulting,Manager,0,80,19,18,10
+419,36,F,5674,Marié(e),Consulting,Consultant,7,80,11,9,8
+420,32,M,5484,Marié(e),Commercial,Cadre Commercial,1,80,13,13,8
+421,38,F,12061,Marié(e),Consulting,Directeur Technique,3,80,19,10,8
+422,58,M,5660,Divorcé(e),Consulting,Manager,2,80,12,5,3
+423,31,M,4821,Marié(e),Consulting,Assistant de Direction,0,80,6,5,2
+424,31,M,6410,Marié(e),Ressources Humaines,Ressources Humaines,3,80,9,2,2
+425,45,M,5210,Divorcé(e),Consulting,Consultant,1,80,24,24,9
+426,31,M,2695,Divorcé(e),Consulting,Assistant de Direction,0,80,3,2,2
+428,33,F,11878,Marié(e),Consulting,Senior Manager,6,80,12,10,6
+429,39,M,17068,Marié(e),Consulting,Senior Manager,1,80,21,21,9
+430,43,F,2455,Célibataire,Consulting,Consultant,0,80,9,8,7
+431,49,F,13964,Célibataire,Consulting,Manager,7,80,25,7,1
+433,52,M,4941,Marié(e),Consulting,Assistant de Direction,2,80,11,8,2
+434,27,F,2478,Célibataire,Consulting,Assistant de Direction,1,80,4,4,3
+436,32,F,5228,Marié(e),Commercial,Cadre Commercial,1,80,13,13,12
+437,27,M,4478,Célibataire,Commercial,Cadre Commercial,1,80,5,5,4
+438,31,M,7547,Divorcé(e),Commercial,Cadre Commercial,4,80,13,7,7
+439,32,F,5055,Célibataire,Consulting,Assistant de Direction,7,80,10,7,7
+440,28,M,3464,Marié(e),Consulting,Assistant de Direction,5,80,5,3,2
+441,30,F,5775,Marié(e),Consulting,Assistant de Direction,1,80,11,10,8
+442,31,F,8943,Marié(e),Consulting,Tech Lead,1,80,10,10,9
+444,39,M,19272,Marié(e),Consulting,Senior Manager,1,80,21,21,9
+445,39,F,5238,Marié(e),Commercial,Cadre Commercial,4,80,12,1,0
+446,33,M,4682,Célibataire,Commercial,Cadre Commercial,3,80,9,7,7
+447,47,M,18300,Marié(e),Consulting,Directeur Technique,4,80,21,3,2
+448,43,F,5257,Divorcé(e),Consulting,Consultant,1,80,9,9,7
+449,27,M,6349,Marié(e),Commercial,Cadre Commercial,0,80,6,5,4
+450,54,F,4869,Célibataire,Consulting,Assistant de Direction,3,80,20,4,3
+451,43,F,9985,Marié(e),Consulting,Manager,8,80,10,1,0
+452,45,M,3697,Marié(e),Consulting,Assistant de Direction,9,80,12,10,9
+453,40,M,7457,Marié(e),Commercial,Cadre Commercial,2,80,6,4,3
+454,29,M,2119,Marié(e),Consulting,Consultant,1,80,7,7,7
+455,29,M,3983,Célibataire,Consulting,Consultant,0,80,4,3,2
+456,30,F,6118,Divorcé(e),Commercial,Cadre Commercial,1,80,10,10,9
+458,27,F,6214,Marié(e),Commercial,Cadre Commercial,1,80,8,8,7
+460,37,M,6347,Divorcé(e),Consulting,Tech Lead,7,80,8,6,2
+461,38,M,11510,Divorcé(e),Consulting,Directeur Technique,0,80,12,11,10
+462,31,F,7143,Célibataire,Consulting,Tech Lead,1,80,11,11,9
+463,29,F,8268,Divorcé(e),Commercial,Cadre Commercial,1,80,7,7,7
+464,35,M,8095,Célibataire,Consulting,Tech Lead,0,80,17,16,6
+465,23,M,2904,Divorcé(e),Consulting,Assistant de Direction,1,80,4,4,2
+466,41,M,6032,Célibataire,Consulting,Tech Lead,6,80,8,5,4
+467,47,M,2976,Célibataire,Commercial,Représentant Commercial,3,80,5,0,0
+468,42,F,15992,Célibataire,Consulting,Directeur Technique,2,80,16,1,0
+469,29,M,4649,Marié(e),Commercial,Cadre Commercial,1,80,4,4,3
+470,42,M,2696,Divorcé(e),Ressources Humaines,Ressources Humaines,0,80,4,3,2
+471,32,F,2370,Marié(e),Consulting,Consultant,1,80,8,8,0
+473,48,F,12504,Marié(e),Commercial,Senior Manager,3,80,15,0,0
+474,37,M,5974,Divorcé(e),Consulting,Assistant de Direction,4,80,13,7,7
+475,30,F,4736,Marié(e),Commercial,Cadre Commercial,7,80,4,2,2
+476,26,M,5296,Marié(e),Commercial,Cadre Commercial,1,80,8,8,7
+477,42,M,6781,Célibataire,Consulting,Manager,3,80,14,1,0
+478,21,F,2174,Célibataire,Commercial,Représentant Commercial,1,80,3,3,2
+479,36,F,6653,Célibataire,Commercial,Cadre Commercial,4,80,7,1,0
+481,36,M,9699,Marié(e),Commercial,Cadre Commercial,4,80,16,13,9
+482,57,M,6755,Marié(e),Consulting,Manager,2,80,15,3,2
+483,40,F,2213,Marié(e),Consulting,Consultant,3,80,10,7,7
+484,21,M,2610,Célibataire,Commercial,Représentant Commercial,1,80,3,3,2
+485,33,F,2851,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+486,37,F,3452,Marié(e),Consulting,Consultant,6,80,17,5,4
+487,46,F,5258,Marié(e),Consulting,Tech Lead,2,80,7,1,0
+488,41,M,9355,Célibataire,Commercial,Cadre Commercial,1,80,8,8,7
+491,50,M,10496,Célibataire,Consulting,Manager,6,80,20,4,3
+492,40,M,6380,Marié(e),Commercial,Cadre Commercial,2,80,8,6,4
+493,31,M,2657,Célibataire,Consulting,Assistant de Direction,0,80,3,2,2
+494,21,F,2716,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+495,29,M,2201,Célibataire,Consulting,Assistant de Direction,9,80,6,3,2
+496,35,M,6540,Célibataire,Consulting,Manager,9,80,10,1,1
+497,27,M,3816,Divorcé(e),Consulting,Consultant,1,80,5,5,2
+498,28,M,5253,Célibataire,Commercial,Cadre Commercial,1,80,7,7,5
+499,49,M,10965,Célibataire,Consulting,Manager,8,80,26,5,2
+500,51,F,4936,Marié(e),Commercial,Cadre Commercial,4,80,18,7,7
+501,36,F,2543,Marié(e),Consulting,Assistant de Direction,4,80,6,2,2
+502,34,M,5304,Célibataire,Commercial,Cadre Commercial,8,80,9,5,2
+505,55,F,16659,Célibataire,Consulting,Senior Manager,2,80,30,5,4
+507,24,F,4260,Divorcé(e),Commercial,Cadre Commercial,1,80,5,5,2
+508,30,M,2476,Marié(e),Commercial,Représentant Commercial,1,80,1,1,0
+510,26,M,3102,Célibataire,Consulting,Assistant de Direction,0,80,7,6,4
+511,22,F,2244,Marié(e),Consulting,Assistant de Direction,1,80,2,2,1
+513,36,M,7596,Marié(e),Commercial,Cadre Commercial,1,80,10,10,9
+514,30,M,2285,Célibataire,Consulting,Assistant de Direction,9,80,3,1,0
+515,37,F,3034,Divorcé(e),Consulting,Consultant,1,80,18,18,7
+516,40,F,5715,Divorcé(e),Commercial,Cadre Commercial,7,80,8,5,4
+517,42,F,2576,Divorcé(e),Consulting,Consultant,3,80,8,5,2
+518,37,M,4197,Célibataire,Consulting,Tech Lead,2,80,18,1,0
+520,43,M,14336,Divorcé(e),Consulting,Directeur Technique,1,80,25,25,10
+521,40,F,3448,Marié(e),Consulting,Consultant,6,80,20,1,0
+522,54,M,19406,Marié(e),Consulting,Directeur Technique,4,80,24,4,2
+523,34,F,6538,Marié(e),Commercial,Cadre Commercial,9,80,6,3,2
+524,31,F,4306,Marié(e),Consulting,Tech Lead,1,80,13,13,10
+525,43,M,2258,Marié(e),Consulting,Consultant,7,80,8,3,2
+526,43,F,4522,Divorcé(e),Consulting,Manager,4,80,8,5,2
+527,25,F,4487,Célibataire,Commercial,Cadre Commercial,1,80,5,5,4
+529,37,F,4449,Marié(e),Consulting,Assistant de Direction,3,80,15,13,11
+530,31,M,2218,Marié(e),Consulting,Consultant,1,80,4,4,2
+531,39,M,19197,Divorcé(e),Consulting,Senior Manager,1,80,21,21,8
+532,56,F,13212,Marié(e),Commercial,Cadre Commercial,9,80,36,7,7
+533,30,F,6577,Célibataire,Commercial,Cadre Commercial,0,80,6,5,4
+534,41,M,8392,Marié(e),Commercial,Cadre Commercial,1,80,10,10,7
+536,28,M,4558,Divorcé(e),Consulting,Consultant,1,80,10,10,0
+538,25,M,4031,Marié(e),Consulting,Consultant,5,80,6,2,2
+543,52,M,7969,Marié(e),Consulting,Tech Lead,2,80,28,5,4
+544,45,M,2654,Marié(e),Consulting,Assistant de Direction,3,80,8,2,2
+546,52,F,16555,Marié(e),Consulting,Senior Manager,2,80,31,5,2
+547,42,F,4556,Divorcé(e),Consulting,Assistant de Direction,2,80,19,5,4
+548,30,F,6091,Célibataire,Consulting,Tech Lead,2,80,11,5,4
+549,60,F,19566,Marié(e),Consulting,Senior Manager,5,80,33,29,8
+550,46,F,4810,Divorcé(e),Consulting,Tech Lead,2,80,19,10,7
+551,42,F,4523,Marié(e),Consulting,Manager,0,80,7,6,5
+554,24,F,3202,Célibataire,Commercial,Représentant Commercial,1,80,6,5,3
+555,34,F,2351,Divorcé(e),Commercial,Représentant Commercial,0,80,3,2,2
+556,38,M,1702,Marié(e),Consulting,Consultant,1,80,1,1,0
+558,40,F,18041,Marié(e),Commercial,Senior Manager,0,80,21,20,15
+560,26,F,2886,Divorcé(e),Consulting,Assistant de Direction,1,80,3,3,2
+562,30,M,2097,Marié(e),Consulting,Consultant,4,80,9,5,3
+564,29,M,11935,Marié(e),Consulting,Directeur Technique,1,80,10,10,2
+565,29,F,2546,Marié(e),Consulting,Assistant de Direction,5,80,6,2,2
+566,19,M,2564,Célibataire,Ressources Humaines,Ressources Humaines,1,80,1,1,0
+567,30,F,8412,Marié(e),Commercial,Cadre Commercial,0,80,10,9,8
+568,57,M,14118,Divorcé(e),Commercial,Senior Manager,3,80,32,1,0
+569,50,M,17046,Marié(e),Consulting,Senior Manager,0,80,28,27,10
+571,30,F,2564,Célibataire,Consulting,Consultant,0,80,12,11,7
+573,60,F,10266,Marié(e),Commercial,Cadre Commercial,4,80,22,18,13
+574,47,F,5070,Divorcé(e),Consulting,Tech Lead,5,80,20,5,0
+575,46,M,17861,Marié(e),Consulting,Directeur Technique,6,80,26,3,2
+577,35,M,4230,Célibataire,Consulting,Consultant,0,80,6,5,4
+578,54,F,3780,Célibataire,Consulting,Consultant,7,80,19,1,0
+579,34,M,2768,Divorcé(e),Consulting,Assistant de Direction,3,80,14,7,3
+580,46,F,9071,Marié(e),Commercial,Cadre Commercial,2,80,15,3,2
+581,31,M,10648,Divorcé(e),Consulting,Tech Lead,1,80,13,13,8
+582,33,M,13610,Marié(e),Consulting,Senior Manager,7,80,15,7,6
+584,33,M,3408,Divorcé(e),Consulting,Consultant,7,80,8,4,3
+585,30,M,2983,Célibataire,Commercial,Représentant Commercial,0,80,4,3,2
+586,35,M,7632,Marié(e),Consulting,Manager,4,80,10,8,7
+587,31,M,9824,Marié(e),Consulting,Manager,3,80,12,1,0
+590,34,F,9950,Divorcé(e),Ressources Humaines,Ressources Humaines,9,80,11,3,2
+591,42,M,2093,Marié(e),Consulting,Consultant,4,80,8,2,2
+592,36,M,9980,Célibataire,Commercial,Cadre Commercial,1,80,10,10,3
+593,22,M,3894,Célibataire,Consulting,Consultant,5,80,4,2,2
+595,48,F,4051,Marié(e),Commercial,Cadre Commercial,2,80,14,9,7
+597,55,F,16835,Célibataire,Commercial,Senior Manager,3,80,37,10,9
+599,41,M,6230,Célibataire,Commercial,Cadre Commercial,7,80,16,14,3
+600,35,M,4717,Marié(e),Commercial,Cadre Commercial,9,80,15,11,9
+601,40,F,13237,Célibataire,Consulting,Tech Lead,7,80,22,20,6
+602,39,F,3755,Marié(e),Consulting,Consultant,1,80,8,8,3
+604,31,M,6582,Célibataire,Commercial,Cadre Commercial,4,80,10,6,5
+605,42,M,7406,Marié(e),Consulting,Tech Lead,1,80,10,10,9
+606,45,M,4805,Marié(e),Commercial,Cadre Commercial,0,80,9,8,7
+608,26,F,2741,Divorcé(e),Ressources Humaines,Ressources Humaines,0,80,8,7,7
+611,29,M,4262,Divorcé(e),Consulting,Tech Lead,4,80,8,3,2
+612,33,F,16184,Divorcé(e),Consulting,Directeur Technique,4,80,10,6,1
+613,31,M,11557,Divorcé(e),Commercial,Senior Manager,9,80,10,5,4
+614,18,M,1878,Célibataire,Commercial,Représentant Commercial,1,80,0,0,0
+615,40,M,10932,Divorcé(e),Commercial,Cadre Commercial,3,80,20,1,0
+616,41,F,6811,Célibataire,Consulting,Manager,2,80,10,8,7
+618,26,M,4306,Divorcé(e),Commercial,Cadre Commercial,5,80,8,0,0
+620,35,F,4859,Célibataire,Commercial,Cadre Commercial,1,80,5,5,4
+621,34,M,5337,Célibataire,Commercial,Cadre Commercial,1,80,10,10,7
+622,26,M,2340,Célibataire,Consulting,Consultant,1,80,1,1,0
+623,37,F,7491,Célibataire,Consulting,Tech Lead,4,80,12,6,5
+624,46,F,10527,Marié(e),Consulting,Manager,5,80,28,2,2
+625,41,F,16595,Marié(e),Commercial,Senior Manager,7,80,22,18,16
+626,37,M,8834,Divorcé(e),Commercial,Cadre Commercial,1,80,9,9,5
+630,52,M,5577,Divorcé(e),Consulting,Assistant de Direction,3,80,18,10,9
+631,32,M,4707,Marié(e),Commercial,Cadre Commercial,8,80,6,4,2
+632,24,M,2400,Marié(e),Commercial,Représentant Commercial,0,80,3,2,2
+634,38,F,9824,Marié(e),Consulting,Manager,3,80,18,1,0
+635,37,F,6447,Marié(e),Consulting,Tech Lead,6,80,8,6,5
+638,49,M,19502,Divorcé(e),Consulting,Directeur Technique,1,80,31,31,9
+639,24,M,2725,Marié(e),Consulting,Assistant de Direction,1,80,6,6,5
+641,26,M,6272,Marié(e),Commercial,Cadre Commercial,1,80,6,5,3
+643,24,M,2127,Marié(e),Consulting,Consultant,1,80,1,1,0
+644,50,M,18200,Marié(e),Ressources Humaines,Senior Manager,1,80,32,32,5
+645,25,M,2096,Marié(e),Commercial,Représentant Commercial,1,80,7,7,4
+647,24,F,2886,Marié(e),Consulting,Consultant,1,80,6,6,3
+648,30,M,2033,Marié(e),Commercial,Représentant Commercial,1,80,1,1,0
+649,34,M,3622,Marié(e),Consulting,Assistant de Direction,1,80,6,6,5
+650,31,M,4233,Divorcé(e),Commercial,Cadre Commercial,2,80,9,3,1
+652,35,M,3681,Célibataire,Consulting,Consultant,4,80,9,3,2
+653,31,M,5460,Divorcé(e),Commercial,Cadre Commercial,4,80,13,7,7
+655,27,F,2187,Divorcé(e),Consulting,Assistant de Direction,0,80,6,5,3
+656,37,M,9602,Marié(e),Commercial,Cadre Commercial,4,80,17,3,0
+657,20,F,2836,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+659,42,F,4089,Marié(e),Consulting,Manager,1,80,10,10,2
+661,43,M,16627,Divorcé(e),Consulting,Directeur Technique,4,80,21,1,0
+662,38,F,2619,Célibataire,Consulting,Assistant de Direction,3,80,8,0,0
+663,43,M,5679,Divorcé(e),Consulting,Consultant,3,80,10,8,7
+664,48,F,15402,Marié(e),Consulting,Senior Manager,7,80,21,3,2
+665,44,F,5985,Célibataire,Ressources Humaines,Ressources Humaines,4,80,10,2,2
+666,34,F,2579,Divorcé(e),Commercial,Représentant Commercial,1,80,8,8,2
+667,27,M,3041,Divorcé(e),Commercial,Représentant Commercial,0,80,5,4,3
+669,21,M,3447,Célibataire,Commercial,Représentant Commercial,1,80,3,3,2
+671,44,M,19513,Marié(e),Consulting,Senior Manager,4,80,26,2,2
+675,22,M,2773,Marié(e),Consulting,Assistant de Direction,0,80,3,2,2
+677,33,M,7104,Divorcé(e),Commercial,Cadre Commercial,0,80,6,5,0
+679,32,F,6322,Marié(e),Consulting,Assistant de Direction,1,80,6,6,4
+680,30,F,2083,Divorcé(e),Consulting,Assistant de Direction,1,80,1,1,0
+682,53,F,8381,Célibataire,Commercial,Cadre Commercial,7,80,18,14,7
+683,34,M,2691,Marié(e),Consulting,Assistant de Direction,1,80,10,10,9
+684,45,F,4286,Marié(e),Commercial,Cadre Commercial,2,80,5,1,1
+686,26,F,2659,Marié(e),Consulting,Consultant,1,80,3,3,2
+689,37,M,9434,Marié(e),Consulting,Tech Lead,1,80,10,10,7
+690,29,F,5561,Marié(e),Commercial,Cadre Commercial,1,80,6,6,0
+691,35,M,6646,Célibataire,Consulting,Assistant de Direction,1,80,17,17,11
+692,33,M,7725,Divorcé(e),Consulting,Manager,3,80,15,13,11
+698,54,M,10725,Marié(e),Ressources Humaines,Ressources Humaines,2,80,16,9,7
+699,36,M,8847,Divorcé(e),Consulting,Tech Lead,2,80,13,3,2
+700,27,M,2045,Célibataire,Consulting,Assistant de Direction,0,80,5,4,2
+701,20,M,1009,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+702,33,M,3348,Célibataire,Consulting,Assistant de Direction,1,80,10,10,8
+704,35,M,1281,Marié(e),Consulting,Consultant,1,80,1,1,0
+705,23,M,2819,Marié(e),Consulting,Assistant de Direction,2,80,5,3,2
+707,25,M,4851,Marié(e),Commercial,Cadre Commercial,0,80,4,3,2
+709,38,F,4028,Célibataire,Commercial,Cadre Commercial,0,80,8,7,7
+710,29,M,2720,Divorcé(e),Consulting,Assistant de Direction,1,80,10,10,7
+712,48,M,8120,Marié(e),Commercial,Cadre Commercial,3,80,12,2,2
+714,27,F,4647,Divorcé(e),Commercial,Cadre Commercial,1,80,6,6,5
+715,37,M,4680,Célibataire,Consulting,Assistant de Direction,3,80,4,1,0
+716,50,M,3221,Marié(e),Consulting,Consultant,1,80,20,20,8
+717,34,F,8621,Célibataire,Consulting,Manager,1,80,9,8,7
+720,24,F,4577,Célibataire,Commercial,Cadre Commercial,9,80,4,2,2
+721,39,F,4553,Célibataire,Consulting,Manager,1,80,20,20,7
+722,32,M,5396,Célibataire,Commercial,Cadre Commercial,1,80,10,10,7
+723,50,M,6796,Marié(e),Commercial,Cadre Commercial,3,80,18,4,3
+724,38,F,7625,Célibataire,Consulting,Manager,0,80,10,9,7
+725,27,F,7412,Marié(e),Consulting,Tech Lead,1,80,9,9,7
+727,32,F,11159,Célibataire,Consulting,Directeur Technique,3,80,10,7,7
+728,47,M,4960,Célibataire,Commercial,Cadre Commercial,2,80,20,7,7
+729,40,M,10475,Marié(e),Commercial,Cadre Commercial,5,80,20,18,13
+730,53,M,14814,Marié(e),Consulting,Directeur Technique,3,80,32,5,1
+731,41,M,19141,Divorcé(e),Ressources Humaines,Senior Manager,3,80,23,21,6
+732,60,M,5405,Célibataire,Commercial,Cadre Commercial,8,80,10,2,2
+733,27,M,8793,Divorcé(e),Consulting,Tech Lead,1,80,9,9,7
+734,41,M,19189,Marié(e),Ressources Humaines,Senior Manager,1,80,22,22,7
+738,50,M,3875,Marié(e),Commercial,Représentant Commercial,7,80,4,2,2
+741,28,F,2216,Célibataire,Consulting,Assistant de Direction,7,80,10,7,7
+742,36,F,11713,Marié(e),Consulting,Directeur Technique,9,80,10,8,7
+743,38,F,7861,Célibataire,Consulting,Tech Lead,4,80,10,1,0
+744,44,M,3708,Célibataire,Consulting,Consultant,2,80,9,5,2
+746,47,F,13770,Divorcé(e),Commercial,Cadre Commercial,9,80,28,22,2
+747,30,M,5304,Divorcé(e),Commercial,Cadre Commercial,7,80,10,8,7
+749,29,M,2642,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+752,42,M,2759,Divorcé(e),Consulting,Assistant de Direction,6,80,7,2,2
+754,43,M,6804,Marié(e),Commercial,Cadre Commercial,3,80,7,2,2
+757,34,F,6142,Célibataire,Consulting,Manager,3,80,10,5,1
+758,23,M,2500,Marié(e),Consulting,Consultant,1,80,5,4,3
+760,39,F,6389,Marié(e),Ressources Humaines,Ressources Humaines,9,80,12,8,3
+762,56,M,11103,Marié(e),Consulting,Manager,7,80,30,10,7
+763,40,F,2342,Célibataire,Consulting,Assistant de Direction,0,80,5,4,2
+764,27,F,6811,Célibataire,Consulting,Manager,8,80,9,7,6
+766,29,M,2297,Divorcé(e),Commercial,Représentant Commercial,1,80,2,2,2
+769,53,M,2450,Célibataire,Consulting,Consultant,2,80,19,2,2
+771,35,F,5093,Divorcé(e),Consulting,Manager,2,80,16,1,0
+772,32,M,5309,Marié(e),Consulting,Consultant,1,80,10,10,8
+773,38,M,3057,Marié(e),Consulting,Assistant de Direction,6,80,6,1,0
+775,34,F,5121,Divorcé(e),Consulting,Tech Lead,3,80,7,0,0
+776,52,M,16856,Marié(e),Commercial,Senior Manager,1,80,34,34,6
+780,33,M,2686,Célibataire,Consulting,Assistant de Direction,1,80,10,10,9
+781,25,F,6180,Célibataire,Commercial,Cadre Commercial,1,80,6,6,5
+783,45,M,6632,Célibataire,Commercial,Représentant Commercial,0,80,9,8,7
+784,23,M,3505,Célibataire,Consulting,Assistant de Direction,1,80,2,2,2
+785,47,F,6397,Célibataire,Commercial,Cadre Commercial,4,80,8,5,4
+786,34,M,6274,Célibataire,Commercial,Cadre Commercial,1,80,6,6,5
+787,55,M,19859,Marié(e),Consulting,Senior Manager,5,80,24,5,2
+789,36,M,7587,Célibataire,Commercial,Cadre Commercial,1,80,10,10,7
+791,52,M,4258,Marié(e),Consulting,Assistant de Direction,0,80,5,4,3
+792,26,F,4364,Divorcé(e),Consulting,Consultant,3,80,5,2,2
+793,29,F,4335,Marié(e),Consulting,Manager,4,80,11,8,7
+796,26,M,5326,Célibataire,Commercial,Cadre Commercial,6,80,6,4,3
+797,34,F,3280,Célibataire,Consulting,Assistant de Direction,2,80,10,4,2
+799,54,F,5485,Divorcé(e),Consulting,Tech Lead,9,80,9,5,3
+800,27,M,4342,Marié(e),Commercial,Cadre Commercial,0,80,5,4,2
+802,37,F,2782,Divorcé(e),Consulting,Assistant de Direction,0,80,6,5,3
+803,38,F,5980,Célibataire,Consulting,Tech Lead,6,80,17,15,7
+804,34,F,4381,Célibataire,Consulting,Assistant de Direction,1,80,6,6,5
+805,35,F,2572,Marié(e),Commercial,Représentant Commercial,1,80,3,3,2
+806,30,M,3833,Marié(e),Consulting,Consultant,3,80,7,2,2
+807,40,F,4244,Marié(e),Consulting,Manager,1,80,8,8,7
+808,34,F,6500,Marié(e),Commercial,Cadre Commercial,5,80,6,3,2
+809,42,M,18430,Divorcé(e),Consulting,Senior Manager,1,80,24,24,7
+811,23,M,1601,Marié(e),Consulting,Consultant,1,80,1,0,0
+812,24,M,2694,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+813,52,F,3149,Marié(e),Consulting,Consultant,8,80,9,5,2
+815,50,M,17639,Marié(e),Consulting,Directeur Technique,5,80,30,4,3
+816,29,F,2319,Marié(e),Consulting,Consultant,1,80,1,1,0
+817,33,M,11691,Marié(e),Consulting,Directeur Technique,0,80,14,13,9
+819,33,F,5324,Célibataire,Commercial,Cadre Commercial,5,80,6,3,2
+820,47,F,16752,Marié(e),Consulting,Senior Manager,1,80,26,26,14
+823,36,F,5228,Marié(e),Consulting,Tech Lead,0,80,10,9,7
+824,29,M,2700,Marié(e),Consulting,Assistant de Direction,1,80,10,10,7
+825,58,M,19246,Célibataire,Consulting,Directeur Technique,7,80,40,31,15
+826,35,F,2506,Célibataire,Consulting,Assistant de Direction,3,80,7,2,2
+827,42,F,6062,Marié(e),Consulting,Tech Lead,9,80,8,4,3
+828,28,M,4382,Célibataire,Consulting,Assistant de Direction,6,80,5,2,2
+829,36,M,2143,Marié(e),Ressources Humaines,Ressources Humaines,4,80,8,5,2
+830,32,F,6162,Marié(e),Consulting,Tech Lead,1,80,14,14,13
+832,40,M,5094,Célibataire,Consulting,Consultant,6,80,10,1,0
+833,30,F,6877,Célibataire,Consulting,Tech Lead,5,80,12,0,0
+834,45,F,2274,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+836,42,M,4434,Marié(e),Consulting,Tech Lead,1,80,10,9,8
+837,38,M,6288,Divorcé(e),Consulting,Manager,2,80,13,4,3
+838,34,F,2553,Célibataire,Consulting,Assistant de Direction,1,80,6,5,2
+840,49,F,7654,Marié(e),Commercial,Cadre Commercial,1,80,9,9,8
+842,55,M,5160,Célibataire,Commercial,Cadre Commercial,4,80,12,9,7
+843,43,M,17159,Marié(e),Consulting,Directeur Technique,6,80,22,4,1
+844,27,M,12808,Divorcé(e),Consulting,Directeur Technique,1,80,9,9,8
+845,35,M,10221,Célibataire,Consulting,Tech Lead,3,80,17,8,5
+846,28,F,4779,Marié(e),Commercial,Cadre Commercial,1,80,8,8,7
+847,34,M,3737,Marié(e),Ressources Humaines,Ressources Humaines,0,80,4,3,2
+848,26,F,2366,Marié(e),Consulting,Assistant de Direction,1,80,8,8,7
+850,27,M,1706,Marié(e),Consulting,Assistant de Direction,1,80,0,0,0
+851,51,F,16307,Marié(e),Commercial,Senior Manager,2,80,29,20,6
+852,44,M,5933,Célibataire,Consulting,Manager,9,80,10,5,2
+854,25,M,3424,Célibataire,Consulting,Assistant de Direction,7,80,6,4,3
+855,33,M,4037,Divorcé(e),Commercial,Cadre Commercial,1,80,9,9,8
+856,35,F,2559,Célibataire,Consulting,Assistant de Direction,1,80,6,6,5
+857,36,M,6201,Marié(e),Commercial,Cadre Commercial,1,80,18,18,14
+859,32,M,4403,Divorcé(e),Commercial,Cadre Commercial,2,80,8,5,2
+861,30,M,3761,Divorcé(e),Consulting,Assistant de Direction,9,80,10,5,4
+862,53,F,10934,Marié(e),Commercial,Cadre Commercial,7,80,35,5,2
+864,45,M,10761,Divorcé(e),Commercial,Cadre Commercial,4,80,18,5,4
+865,32,F,5175,Marié(e),Consulting,Assistant de Direction,5,80,9,5,3
+867,52,F,13826,Marié(e),Consulting,Tech Lead,3,80,31,9,8
+868,37,M,6334,Divorcé(e),Commercial,Cadre Commercial,4,80,9,1,0
+869,28,M,4936,Divorcé(e),Ressources Humaines,Ressources Humaines,1,80,6,5,1
+872,22,M,4775,Marié(e),Consulting,Tech Lead,6,80,4,2,2
+874,44,M,2818,Marié(e),Consulting,Consultant,2,80,10,3,2
+875,42,M,2515,Célibataire,Consulting,Assistant de Direction,5,80,8,2,1
+878,36,M,2342,Marié(e),Ressources Humaines,Ressources Humaines,0,80,6,5,4
+879,25,M,4194,Marié(e),Commercial,Cadre Commercial,1,80,5,5,3
+880,35,F,10685,Marié(e),Consulting,Tech Lead,1,80,17,17,14
+881,35,F,2022,Divorcé(e),Consulting,Assistant de Direction,1,80,10,10,2
+882,32,M,2314,Divorcé(e),Consulting,Consultant,0,80,4,3,0
+885,25,M,4256,Marié(e),Commercial,Cadre Commercial,1,80,5,5,2
+887,49,F,3580,Marié(e),Consulting,Assistant de Direction,2,80,7,4,2
+888,24,M,3162,Marié(e),Consulting,Consultant,0,80,6,5,2
+889,32,M,6524,Marié(e),Commercial,Cadre Commercial,1,80,10,10,8
+893,38,M,2899,Marié(e),Commercial,Représentant Commercial,0,80,3,2,2
+894,42,F,5231,Marié(e),Consulting,Consultant,2,80,17,5,3
+895,31,M,2356,Marié(e),Consulting,Assistant de Direction,3,80,8,6,4
+896,29,F,2800,Divorcé(e),Commercial,Représentant Commercial,6,80,5,3,2
+897,53,M,11836,Marié(e),Commercial,Cadre Commercial,5,80,28,2,0
+899,35,M,10903,Marié(e),Consulting,Tech Lead,3,80,16,13,10
+900,37,F,2973,Marié(e),Commercial,Représentant Commercial,5,80,10,5,4
+901,53,F,14275,Célibataire,Consulting,Directeur Technique,6,80,33,12,9
+902,43,F,5562,Marié(e),Consulting,Manager,4,80,12,5,2
+903,47,F,4537,Marié(e),Commercial,Cadre Commercial,0,80,8,7,6
+904,37,M,7642,Célibataire,Commercial,Cadre Commercial,1,80,10,10,0
+905,50,M,17924,Divorcé(e),Consulting,Senior Manager,1,80,31,31,6
+909,39,F,5204,Marié(e),Ressources Humaines,Ressources Humaines,8,80,13,5,4
+910,33,M,2277,Divorcé(e),Ressources Humaines,Ressources Humaines,3,80,7,4,3
+911,32,M,2795,Célibataire,Consulting,Consultant,1,80,1,1,0
+912,29,F,2532,Divorcé(e),Consulting,Consultant,6,80,8,4,3
+913,44,M,2559,Marié(e),Consulting,Assistant de Direction,1,80,8,8,7
+916,28,M,4908,Célibataire,Commercial,Cadre Commercial,1,80,4,4,2
+918,58,M,2380,Divorcé(e),Consulting,Consultant,9,80,3,1,0
+920,43,F,4765,Divorcé(e),Consulting,Tech Lead,4,80,4,1,0
+922,20,F,2044,Célibataire,Commercial,Représentant Commercial,1,80,2,2,2
+923,21,F,2693,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+924,36,M,6586,Marié(e),Consulting,Manager,0,80,17,16,8
+925,47,F,3294,Célibataire,Commercial,Représentant Commercial,1,80,3,3,2
+926,22,F,4171,Marié(e),Consulting,Tech Lead,0,80,4,3,2
+927,41,F,2778,Divorcé(e),Consulting,Consultant,4,80,10,7,7
+930,28,F,2377,Divorcé(e),Consulting,Assistant de Direction,5,80,6,2,2
+932,39,M,2404,Marié(e),Consulting,Consultant,7,80,8,2,2
+933,27,F,2318,Célibataire,Consulting,Assistant de Direction,1,80,1,1,1
+934,34,M,2008,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+936,42,F,6244,Célibataire,Commercial,Cadre Commercial,7,80,10,5,4
+939,33,M,2799,Célibataire,Consulting,Assistant de Direction,3,80,6,3,2
+940,58,F,10552,Divorcé(e),Consulting,Manager,2,80,24,6,0
+941,31,M,2329,Marié(e),Commercial,Représentant Commercial,3,80,13,7,7
+942,35,F,4014,Marié(e),Consulting,Manager,1,80,10,10,6
+944,49,F,7403,Marié(e),Consulting,Consultant,4,80,29,26,9
+945,48,M,2259,Marié(e),Consulting,Assistant de Direction,4,80,13,0,0
+947,31,F,6932,Marié(e),Commercial,Cadre Commercial,1,80,9,9,8
+949,36,M,4678,Célibataire,Consulting,Assistant de Direction,2,80,8,6,2
+950,38,F,13582,Marié(e),Consulting,Directeur Technique,1,80,15,15,12
+951,32,F,2332,Marié(e),Consulting,Consultant,6,80,5,3,0
+952,25,M,2413,Marié(e),Commercial,Représentant Commercial,1,80,1,1,0
+954,40,M,9705,Divorcé(e),Commercial,Cadre Commercial,2,80,11,1,0
+956,26,M,4294,Célibataire,Commercial,Cadre Commercial,1,80,7,7,7
+957,41,M,4721,Célibataire,Consulting,Consultant,2,80,20,18,13
+958,36,M,2519,Célibataire,Consulting,Consultant,4,80,16,11,8
+959,19,M,2121,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+960,20,M,2973,Célibataire,Consulting,Consultant,1,80,1,1,0
+961,31,F,5855,Marié(e),Consulting,Manager,0,80,10,9,7
+964,40,M,3617,Divorcé(e),Consulting,Assistant de Direction,8,80,3,1,1
+966,32,F,6725,Marié(e),Consulting,Tech Lead,1,80,8,8,7
+967,36,M,10325,Marié(e),Commercial,Cadre Commercial,1,80,16,16,7
+969,33,F,6949,Célibataire,Consulting,Manager,0,80,6,5,0
+970,37,M,10609,Marié(e),Commercial,Cadre Commercial,5,80,17,14,1
+972,45,M,4447,Marié(e),Consulting,Consultant,1,80,9,9,7
+974,29,F,2157,Marié(e),Commercial,Représentant Commercial,1,80,3,3,1
+975,35,F,4601,Marié(e),Commercial,Cadre Commercial,1,80,5,5,2
+976,52,M,17099,Marié(e),Consulting,Senior Manager,2,80,26,9,8
+977,58,M,2479,Célibataire,Consulting,Assistant de Direction,4,80,7,1,0
+981,53,M,14852,Divorcé(e),Commercial,Senior Manager,6,80,22,17,13
+982,30,M,7264,Divorcé(e),Commercial,Cadre Commercial,5,80,10,8,4
+983,38,F,5666,Célibataire,Commercial,Cadre Commercial,1,80,6,5,3
+984,35,M,7823,Divorcé(e),Commercial,Cadre Commercial,6,80,12,10,9
+985,39,M,7880,Célibataire,Commercial,Cadre Commercial,0,80,9,8,7
+986,40,F,13194,Célibataire,Commercial,Cadre Commercial,4,80,22,1,0
+987,47,M,5067,Divorcé(e),Consulting,Tech Lead,1,80,20,19,10
+990,36,M,5079,Divorcé(e),Commercial,Cadre Commercial,4,80,12,7,7
+991,31,M,2321,Célibataire,Consulting,Assistant de Direction,0,80,4,3,2
+992,33,M,17444,Célibataire,Commercial,Senior Manager,1,80,10,10,8
+994,29,F,2404,Célibataire,Consulting,Assistant de Direction,6,80,3,0,0
+995,33,F,3452,Célibataire,Consulting,Assistant de Direction,3,80,5,3,2
+996,45,F,2270,Divorcé(e),Consulting,Consultant,3,80,8,5,3
+997,50,M,17399,Divorcé(e),Consulting,Directeur Technique,9,80,32,5,4
+998,33,F,5488,Marié(e),Consulting,Manager,1,80,6,6,5
+999,41,M,19419,Divorcé(e),Consulting,Directeur Technique,2,80,21,18,16
+1001,27,F,2811,Marié(e),Consulting,Consultant,9,80,4,2,2
+1002,45,M,3633,Marié(e),Consulting,Consultant,1,80,9,9,8
+1003,47,F,4163,Célibataire,Commercial,Cadre Commercial,1,80,9,9,0
+1004,30,F,2132,Marié(e),Consulting,Assistant de Direction,4,80,7,5,2
+1005,50,M,13973,Marié(e),Consulting,Tech Lead,3,80,22,12,11
+1006,38,M,2684,Marié(e),Consulting,Assistant de Direction,0,80,3,2,1
+1007,46,M,10845,Divorcé(e),Consulting,Tech Lead,6,80,13,8,7
+1009,24,F,4377,Divorcé(e),Consulting,Tech Lead,1,80,5,4,2
+1010,35,M,3743,Divorcé(e),Consulting,Consultant,1,80,5,4,2
+1011,31,F,4148,Marié(e),Consulting,Tech Lead,1,80,4,4,3
+1012,18,M,1051,Célibataire,Consulting,Assistant de Direction,1,80,0,0,0
+1013,54,F,10739,Marié(e),Consulting,Tech Lead,8,80,22,10,7
+1014,35,F,10388,Divorcé(e),Consulting,Manager,1,80,16,16,10
+1015,30,F,11416,Marié(e),Consulting,Directeur Technique,0,80,9,8,7
+1016,20,F,2600,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+1017,30,F,2422,Célibataire,Consulting,Consultant,0,80,4,3,2
+1018,26,M,5472,Marié(e),Consulting,Tech Lead,1,80,8,8,7
+1019,22,M,2451,Marié(e),Consulting,Consultant,1,80,4,4,3
+1022,48,M,4240,Célibataire,Consulting,Manager,2,80,19,2,2
+1024,48,M,10999,Célibataire,Consulting,Manager,7,80,27,15,11
+1025,41,F,5003,Célibataire,Consulting,Tech Lead,6,80,8,2,2
+1026,39,F,12742,Marié(e),Consulting,Tech Lead,1,80,21,21,6
+1027,27,F,4227,Marié(e),Consulting,Tech Lead,0,80,4,3,2
+1028,35,M,3917,Divorcé(e),Consulting,Consultant,1,80,3,3,2
+1029,42,M,18303,Marié(e),Commercial,Senior Manager,6,80,21,1,0
+1030,50,M,2380,Marié(e),Consulting,Consultant,4,80,8,1,0
+1032,59,F,13726,Célibataire,Consulting,Tech Lead,3,80,30,5,3
+1033,37,F,4777,Marié(e),Consulting,Manager,5,80,15,1,0
+1034,55,M,6385,Marié(e),Consulting,Manager,3,80,17,8,7
+1035,41,F,19973,Divorcé(e),Consulting,Directeur Technique,1,80,21,21,16
+1036,38,M,6861,Célibataire,Commercial,Cadre Commercial,8,80,19,1,0
+1037,26,M,4969,Célibataire,Commercial,Cadre Commercial,8,80,7,2,2
+1038,52,F,19845,Marié(e),Commercial,Senior Manager,1,80,33,32,14
+1039,44,F,13320,Marié(e),Commercial,Cadre Commercial,3,80,23,12,11
+1040,50,F,6347,Marié(e),Commercial,Cadre Commercial,0,80,19,18,7
+1042,36,F,2743,Célibataire,Consulting,Consultant,1,80,18,17,13
+1043,39,F,10880,Célibataire,Consulting,Tech Lead,1,80,21,21,6
+1044,33,F,2342,Célibataire,Commercial,Représentant Commercial,0,80,3,2,2
+1045,45,F,17650,Marié(e),Commercial,Senior Manager,3,80,26,9,3
+1046,32,F,4025,Célibataire,Consulting,Consultant,9,80,10,8,7
+1047,34,M,9725,Divorcé(e),Commercial,Cadre Commercial,0,80,16,15,1
+1048,59,M,11904,Marié(e),Commercial,Senior Manager,3,80,14,6,4
+1049,45,M,2177,Célibataire,Ressources Humaines,Ressources Humaines,1,80,6,6,3
+1050,53,F,7525,Marié(e),Commercial,Cadre Commercial,2,80,30,15,7
+1052,36,M,4834,Divorcé(e),Consulting,Consultant,7,80,9,1,0
+1053,26,M,2042,Marié(e),Consulting,Assistant de Direction,6,80,6,3,2
+1055,34,F,2220,Marié(e),Commercial,Représentant Commercial,1,80,1,1,1
+1056,28,M,1052,Marié(e),Commercial,Représentant Commercial,1,80,1,1,0
+1060,38,M,2821,Marié(e),Consulting,Assistant de Direction,3,80,8,2,2
+1061,50,M,19237,Marié(e),Consulting,Directeur Technique,2,80,29,8,1
+1062,37,F,4107,Célibataire,Consulting,Manager,3,80,8,4,3
+1066,40,M,8396,Marié(e),Commercial,Cadre Commercial,1,80,8,7,7
+1068,26,F,2007,Divorcé(e),Consulting,Assistant de Direction,1,80,5,5,3
+1069,46,M,19627,Divorcé(e),Consulting,Directeur Technique,9,80,23,2,2
+1070,54,F,10686,Marié(e),Commercial,Cadre Commercial,6,80,13,9,4
+1071,56,F,2942,Marié(e),Consulting,Assistant de Direction,2,80,18,5,4
+1073,36,F,8858,Célibataire,Consulting,Tech Lead,0,80,15,14,8
+1074,55,M,16756,Célibataire,Consulting,Senior Manager,7,80,31,9,7
+1076,43,M,10798,Divorcé(e),Commercial,Cadre Commercial,5,80,18,1,0
+1077,20,F,2323,Célibataire,Commercial,Représentant Commercial,1,80,2,2,2
+1079,21,F,1416,Célibataire,Consulting,Consultant,1,80,1,1,0
+1080,46,F,4615,Divorcé(e),Consulting,Assistant de Direction,8,80,19,16,13
+1081,51,M,2461,Marié(e),Consulting,Assistant de Direction,9,80,18,10,0
+1082,28,M,8722,Célibataire,Consulting,Manager,1,80,10,10,7
+1083,26,M,3955,Marié(e),Consulting,Consultant,1,80,6,5,3
+1084,30,M,9957,Marié(e),Consulting,Tech Lead,0,80,7,6,2
+1085,41,F,3376,Marié(e),Consulting,Assistant de Direction,1,80,10,10,6
+1088,38,F,8823,Marié(e),Consulting,Manager,0,80,20,19,9
+1092,40,M,10322,Marié(e),Consulting,Manager,4,80,14,11,10
+1094,27,M,4621,Marié(e),Consulting,Consultant,1,80,3,3,2
+1096,55,M,10976,Marié(e),Consulting,Tech Lead,3,80,23,3,2
+1097,28,F,3660,Célibataire,Consulting,Assistant de Direction,3,80,10,8,7
+1098,44,M,10482,Marié(e),Ressources Humaines,Ressources Humaines,9,80,24,20,6
+1099,33,M,7119,Divorcé(e),Consulting,Manager,4,80,9,3,2
+1100,35,M,9582,Célibataire,Commercial,Cadre Commercial,0,80,9,8,7
+1101,33,F,4508,Célibataire,Consulting,Assistant de Direction,1,80,14,13,7
+1102,28,M,2207,Divorcé(e),Consulting,Consultant,1,80,4,4,2
+1103,34,M,7756,Célibataire,Consulting,Manager,0,80,7,6,2
+1105,37,F,6694,Divorcé(e),Commercial,Cadre Commercial,2,80,8,1,0
+1106,25,M,3691,Marié(e),Consulting,Consultant,1,80,7,7,7
+1107,26,M,2377,Divorcé(e),Consulting,Consultant,1,80,1,1,1
+1108,33,M,2313,Célibataire,Consulting,Assistant de Direction,4,80,5,2,2
+1109,42,M,17665,Marié(e),Consulting,Senior Manager,0,80,23,22,6
+1111,28,M,2596,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+1113,50,M,4728,Célibataire,Commercial,Cadre Commercial,3,80,5,0,0
+1114,33,F,4302,Marié(e),Commercial,Cadre Commercial,0,80,4,3,2
+1115,34,M,2979,Marié(e),Consulting,Assistant de Direction,3,80,6,0,0
+1116,48,M,16885,Célibataire,Consulting,Senior Manager,2,80,27,5,4
+1117,45,F,5593,Marié(e),Commercial,Cadre Commercial,1,80,15,15,10
+1118,52,M,10445,Célibataire,Consulting,Manager,7,80,18,8,6
+1119,38,M,8740,Divorcé(e),Commercial,Cadre Commercial,0,80,9,8,7
+1120,29,F,2514,Divorcé(e),Consulting,Assistant de Direction,4,80,11,7,5
+1121,28,F,7655,Divorcé(e),Consulting,Tech Lead,0,80,10,9,7
+1124,46,M,17465,Marié(e),Commercial,Senior Manager,3,80,23,12,9
+1125,38,M,7351,Célibataire,Commercial,Cadre Commercial,7,80,10,1,0
+1126,43,F,10820,Marié(e),Consulting,Tech Lead,8,80,18,8,7
+1127,39,M,12169,Divorcé(e),Consulting,Manager,7,80,21,18,7
+1128,40,M,19626,Célibataire,Consulting,Directeur Technique,1,80,21,20,7
+1131,21,F,2070,Célibataire,Consulting,Assistant de Direction,1,80,2,2,2
+1132,39,M,6782,Célibataire,Consulting,Consultant,9,80,9,5,4
+1133,36,M,7779,Célibataire,Consulting,Tech Lead,2,80,18,11,9
+1135,31,M,2791,Marié(e),Commercial,Représentant Commercial,0,80,3,2,2
+1136,28,M,3201,Marié(e),Consulting,Assistant de Direction,0,80,6,5,3
+1137,35,M,4968,Divorcé(e),Commercial,Cadre Commercial,1,80,5,5,2
+1138,49,M,13120,Marié(e),Commercial,Cadre Commercial,6,80,22,9,8
+1140,34,M,4033,Célibataire,Consulting,Tech Lead,2,80,5,3,2
+1143,29,F,3291,Divorcé(e),Consulting,Assistant de Direction,0,80,8,7,5
+1148,42,M,4272,Célibataire,Consulting,Consultant,4,80,16,1,0
+1150,29,M,5056,Marié(e),Consulting,Tech Lead,1,80,10,10,7
+1152,38,M,2844,Marié(e),Ressources Humaines,Ressources Humaines,1,80,7,7,6
+1154,28,M,2703,Divorcé(e),Consulting,Assistant de Direction,1,80,3,3,1
+1156,18,M,1904,Célibataire,Consulting,Consultant,1,80,0,0,0
+1157,33,F,8224,Célibataire,Commercial,Cadre Commercial,0,80,6,5,2
+1158,41,M,4766,Marié(e),Consulting,Consultant,3,80,6,1,0
+1160,31,M,2610,Marié(e),Consulting,Consultant,1,80,2,2,2
+1161,37,F,5731,Divorcé(e),Consulting,Manager,7,80,9,6,2
+1162,27,M,2539,Marié(e),Consulting,Assistant de Direction,1,80,4,4,2
+1163,34,F,5714,Marié(e),Commercial,Cadre Commercial,1,80,6,6,5
+1164,35,M,4323,Célibataire,Ressources Humaines,Ressources Humaines,1,80,6,5,4
+1165,29,F,7336,Marié(e),Commercial,Cadre Commercial,1,80,11,11,8
+1166,40,F,13499,Célibataire,Consulting,Directeur Technique,9,80,20,18,7
+1167,42,M,13758,Célibataire,Commercial,Cadre Commercial,0,80,22,21,9
+1171,42,M,5155,Célibataire,Commercial,Cadre Commercial,7,80,9,6,4
+1172,35,M,2258,Marié(e),Consulting,Consultant,6,80,10,8,0
+1173,24,M,3597,Célibataire,Consulting,Consultant,8,80,6,4,3
+1175,28,F,2515,Marié(e),Consulting,Consultant,1,80,1,1,1
+1177,26,M,4420,Marié(e),Consulting,Consultant,1,80,8,8,7
+1179,30,M,6578,Marié(e),Commercial,Cadre Commercial,1,80,10,10,3
+1180,40,F,4422,Marié(e),Consulting,Assistant de Direction,3,80,16,1,1
+1182,35,M,10274,Divorcé(e),Consulting,Tech Lead,2,80,15,7,7
+1184,34,M,5343,Célibataire,Consulting,Manager,0,80,14,13,9
+1185,35,M,2376,Marié(e),Consulting,Consultant,1,80,2,2,2
+1188,43,F,5346,Célibataire,Commercial,Cadre Commercial,8,80,7,4,3
+1190,32,F,2827,Divorcé(e),Commercial,Représentant Commercial,1,80,1,1,0
+1191,56,F,19943,Divorcé(e),Consulting,Senior Manager,4,80,28,5,2
+1192,29,F,3131,Marié(e),Consulting,Consultant,1,80,10,10,8
+1193,19,M,2552,Célibataire,Consulting,Assistant de Direction,1,80,1,1,1
+1195,45,F,4477,Marié(e),Consulting,Assistant de Direction,4,80,7,3,2
+1196,37,F,6474,Marié(e),Consulting,Tech Lead,1,80,14,14,8
+1198,20,M,3033,Célibataire,Consulting,Consultant,1,80,2,2,2
+1200,44,M,2936,Célibataire,Consulting,Assistant de Direction,1,80,6,6,4
+1201,53,F,18606,Divorcé(e),Consulting,Senior Manager,3,80,26,7,7
+1202,29,F,2168,Marié(e),Consulting,Assistant de Direction,0,80,6,5,4
+1203,22,M,2853,Marié(e),Consulting,Assistant de Direction,0,80,1,0,0
+1204,46,F,17048,Marié(e),Commercial,Senior Manager,8,80,28,26,15
+1206,44,M,2290,Célibataire,Consulting,Assistant de Direction,2,80,6,0,0
+1207,33,M,3600,Marié(e),Ressources Humaines,Ressources Humaines,1,80,5,5,4
+1210,41,M,2107,Divorcé(e),Consulting,Assistant de Direction,6,80,5,1,0
+1211,30,M,4115,Divorcé(e),Commercial,Cadre Commercial,8,80,8,4,3
+1212,40,M,4327,Marié(e),Commercial,Cadre Commercial,5,80,5,0,0
+1215,50,F,17856,Marié(e),Consulting,Senior Manager,2,80,32,2,2
+1216,28,M,3196,Marié(e),Consulting,Consultant,1,80,6,6,5
+1217,46,M,19081,Marié(e),Consulting,Directeur Technique,5,80,25,4,2
+1218,35,M,8966,Marié(e),Commercial,Cadre Commercial,3,80,15,7,7
+1219,24,F,2210,Marié(e),Consulting,Consultant,1,80,1,1,0
+1220,33,F,4539,Marié(e),Commercial,Cadre Commercial,1,80,10,10,7
+1221,36,M,2741,Divorcé(e),Consulting,Consultant,1,80,7,7,7
+1224,30,M,3491,Divorcé(e),Consulting,Consultant,1,80,10,10,7
+1225,44,M,4541,Célibataire,Consulting,Assistant de Direction,1,80,20,20,11
+1226,20,M,2678,Célibataire,Commercial,Représentant Commercial,1,80,2,2,1
+1228,46,M,7379,Divorcé(e),Consulting,Tech Lead,2,80,12,6,3
+1231,42,M,6272,Marié(e),Ressources Humaines,Ressources Humaines,7,80,10,4,3
+1233,60,M,5220,Divorcé(e),Commercial,Cadre Commercial,0,80,12,11,7
+1234,32,F,2743,Marié(e),Consulting,Consultant,1,80,2,2,2
+1235,32,F,4998,Célibataire,Consulting,Assistant de Direction,4,80,10,8,7
+1237,36,F,10252,Divorcé(e),Consulting,Tech Lead,2,80,17,7,7
+1238,33,M,2781,Marié(e),Consulting,Assistant de Direction,0,80,15,14,10
+1239,40,F,6852,Divorcé(e),Commercial,Cadre Commercial,7,80,7,5,1
+1240,25,M,4950,Célibataire,Commercial,Cadre Commercial,0,80,5,4,3
+1241,30,M,3579,Marié(e),Consulting,Assistant de Direction,0,80,12,11,9
+1242,42,F,13191,Marié(e),Consulting,Directeur Technique,3,80,20,1,0
+1243,35,F,10377,Marié(e),Commercial,Cadre Commercial,4,80,16,13,2
+1244,27,M,2235,Marié(e),Consulting,Assistant de Direction,1,80,9,9,7
+1245,54,F,10502,Divorcé(e),Consulting,Tech Lead,7,80,33,5,4
+1246,44,F,2011,Marié(e),Consulting,Assistant de Direction,1,80,10,10,5
+1248,19,F,1859,Célibataire,Consulting,Assistant de Direction,1,80,1,1,1
+1249,29,F,3760,Divorcé(e),Consulting,Assistant de Direction,1,80,3,3,2
+1250,54,M,17779,Marié(e),Consulting,Directeur Technique,3,80,36,10,9
+1251,31,M,6833,Marié(e),Consulting,Manager,1,80,6,6,5
+1252,31,F,6812,Célibataire,Consulting,Manager,1,80,10,10,9
+1254,59,F,5171,Célibataire,Commercial,Cadre Commercial,5,80,13,6,1
+1255,43,M,19740,Marié(e),Consulting,Directeur Technique,3,80,25,8,7
+1256,49,M,18711,Marié(e),Consulting,Senior Manager,2,80,23,1,0
+1257,36,M,3692,Marié(e),Consulting,Assistant de Direction,1,80,12,11,10
+1258,48,M,2559,Célibataire,Consulting,Consultant,5,80,7,1,0
+1259,27,M,2517,Divorcé(e),Consulting,Assistant de Direction,1,80,5,5,3
+1260,29,M,6623,Divorcé(e),Consulting,Manager,1,80,6,6,0
+1263,48,M,18265,Célibataire,Consulting,Directeur Technique,6,80,25,1,0
+1264,29,F,16124,Divorcé(e),Consulting,Directeur Technique,3,80,9,7,7
+1265,34,F,2585,Marié(e),Consulting,Assistant de Direction,0,80,2,1,0
+1267,44,M,18213,Marié(e),Commercial,Senior Manager,7,80,26,22,9
+1268,33,M,8380,Divorcé(e),Commercial,Cadre Commercial,0,80,10,9,8
+1269,19,F,2994,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+1270,23,M,1223,Marié(e),Consulting,Assistant de Direction,1,80,1,1,0
+1273,25,M,1118,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+1275,26,M,2875,Célibataire,Consulting,Assistant de Direction,1,80,8,8,5
+1277,45,F,18824,Célibataire,Commercial,Senior Manager,2,80,26,24,10
+1278,55,M,13577,Divorcé(e),Consulting,Manager,1,80,34,33,9
+1279,21,F,2625,Célibataire,Consulting,Consultant,1,80,2,2,2
+1280,46,F,18789,Marié(e),Commercial,Senior Manager,2,80,26,11,4
+1281,34,F,4538,Célibataire,Commercial,Cadre Commercial,0,80,4,3,2
+1282,51,M,19847,Divorcé(e),Commercial,Senior Manager,4,80,31,29,10
+1283,59,M,10512,Célibataire,Consulting,Tech Lead,6,80,25,9,7
+1285,34,F,4444,Divorcé(e),Consulting,Consultant,4,80,15,11,8
+1286,28,M,2154,Célibataire,Consulting,Consultant,0,80,5,4,2
+1288,44,M,19190,Divorcé(e),Consulting,Senior Manager,1,80,26,25,9
+1289,34,M,4490,Marié(e),Ressources Humaines,Ressources Humaines,4,80,14,10,9
+1291,35,M,3506,Marié(e),Consulting,Assistant de Direction,0,80,4,3,2
+1292,42,F,2372,Marié(e),Consulting,Assistant de Direction,6,80,18,1,0
+1293,43,F,10231,Célibataire,Commercial,Cadre Commercial,3,80,23,21,7
+1294,36,F,5410,Célibataire,Consulting,Tech Lead,9,80,18,16,14
+1295,44,F,7978,Marié(e),Consulting,Manager,1,80,10,10,7
+1296,28,M,3867,Marié(e),Consulting,Consultant,1,80,2,2,2
+1297,51,F,2838,Célibataire,Consulting,Consultant,0,80,8,7,0
+1298,30,F,4695,Célibataire,Consulting,Tech Lead,7,80,10,8,4
+1299,29,F,3339,Divorcé(e),Consulting,Consultant,3,80,10,7,7
+1301,28,M,2080,Célibataire,Consulting,Assistant de Direction,2,80,5,3,2
+1303,25,F,2096,Célibataire,Consulting,Assistant de Direction,1,80,2,2,2
+1304,32,M,6209,Marié(e),Commercial,Cadre Commercial,1,80,10,10,7
+1306,45,F,18061,Célibataire,Consulting,Senior Manager,3,80,22,0,0
+1307,39,F,17123,Divorcé(e),Consulting,Senior Manager,6,80,21,19,9
+1308,58,M,2372,Divorcé(e),Consulting,Assistant de Direction,1,80,2,2,2
+1309,32,M,4883,Marié(e),Consulting,Consultant,1,80,10,10,4
+1310,39,M,3904,Célibataire,Consulting,Assistant de Direction,0,80,6,5,2
+1311,30,F,4627,Marié(e),Consulting,Consultant,0,80,10,9,2
+1312,36,F,7094,Marié(e),Consulting,Manager,3,80,10,7,7
+1314,46,F,3423,Célibataire,Ressources Humaines,Ressources Humaines,6,80,10,7,6
+1315,28,F,6674,Marié(e),Consulting,Consultant,0,80,10,9,8
+1317,50,F,16880,Marié(e),Consulting,Directeur Technique,4,80,25,3,2
+1318,40,M,9094,Célibataire,Commercial,Cadre Commercial,2,80,9,5,4
+1319,52,M,8446,Célibataire,Commercial,Cadre Commercial,9,80,10,8,7
+1321,30,F,11916,Marié(e),Consulting,Senior Manager,1,80,9,9,1
+1322,39,M,4534,Célibataire,Consulting,Tech Lead,0,80,9,8,7
+1324,31,F,9852,Divorcé(e),Commercial,Cadre Commercial,1,80,10,10,8
+1329,41,M,6151,Célibataire,Commercial,Cadre Commercial,1,80,19,19,2
+1331,31,F,2302,Célibataire,Commercial,Représentant Commercial,1,80,3,3,2
+1333,44,M,2362,Marié(e),Consulting,Consultant,4,80,10,3,2
+1334,42,M,17861,Marié(e),Consulting,Senior Manager,0,80,21,20,8
+1336,55,F,19187,Marié(e),Consulting,Senior Manager,4,80,23,19,9
+1338,56,M,19717,Célibataire,Ressources Humaines,Senior Manager,6,80,36,7,3
+1340,40,M,3544,Divorcé(e),Consulting,Assistant de Direction,9,80,6,4,2
+1344,34,M,8500,Divorcé(e),Consulting,Manager,0,80,10,9,7
+1346,40,M,4661,Célibataire,Consulting,Assistant de Direction,1,80,9,9,8
+1349,41,F,4103,Divorcé(e),Commercial,Cadre Commercial,0,80,10,9,3
+1350,35,M,4249,Célibataire,Consulting,Assistant de Direction,1,80,9,9,6
+1352,51,M,14026,Divorcé(e),Ressources Humaines,Senior Manager,1,80,33,33,9
+1355,38,F,6893,Divorcé(e),Commercial,Cadre Commercial,3,80,11,7,7
+1356,34,F,6125,Célibataire,Commercial,Cadre Commercial,1,80,10,10,8
+1358,25,M,3669,Marié(e),Consulting,Consultant,3,80,7,3,2
+1360,58,F,10008,Marié(e),Consulting,Tech Lead,7,80,31,10,9
+1361,40,M,2387,Marié(e),Consulting,Consultant,3,80,7,4,2
+1362,36,F,4639,Marié(e),Commercial,Cadre Commercial,2,80,17,15,7
+1363,48,M,7898,Célibataire,Consulting,Tech Lead,1,80,11,10,9
+1364,27,F,2534,Marié(e),Commercial,Représentant Commercial,8,80,5,1,0
+1367,51,F,13142,Célibataire,Consulting,Tech Lead,3,80,29,5,2
+1368,18,F,1611,Célibataire,Consulting,Consultant,1,80,0,0,0
+1369,35,F,5363,Marié(e),Consulting,Consultant,0,80,10,9,7
+1371,27,M,5071,Célibataire,Commercial,Cadre Commercial,3,80,8,6,2
+1372,55,M,13695,Célibataire,Commercial,Cadre Commercial,6,80,24,19,7
+1373,56,M,13402,Marié(e),Consulting,Tech Lead,4,80,33,19,16
+1374,34,F,2029,Divorcé(e),Consulting,Assistant de Direction,1,80,5,5,4
+1375,40,F,6377,Divorcé(e),Consulting,Manager,5,80,15,12,11
+1377,34,M,5429,Marié(e),Consulting,Consultant,4,80,10,8,7
+1379,31,F,2785,Célibataire,Commercial,Représentant Commercial,7,80,3,1,0
+1380,35,F,4614,Marié(e),Commercial,Cadre Commercial,0,80,5,4,2
+1382,38,M,2610,Divorcé(e),Consulting,Assistant de Direction,1,80,4,4,2
+1383,34,F,6687,Célibataire,Consulting,Manager,1,80,14,14,11
+1387,28,M,4724,Marié(e),Commercial,Cadre Commercial,1,80,5,5,3
+1389,31,M,6179,Marié(e),Consulting,Tech Lead,1,80,10,10,2
+1390,39,M,6120,Marié(e),Commercial,Cadre Commercial,3,80,8,5,4
+1391,51,M,10596,Marié(e),Commercial,Cadre Commercial,2,80,14,4,2
+1392,41,F,5467,Divorcé(e),Consulting,Assistant de Direction,3,80,12,6,2
+1394,37,M,2996,Marié(e),Consulting,Assistant de Direction,7,80,8,6,4
+1395,33,M,9998,Marié(e),Commercial,Cadre Commercial,6,80,8,5,4
+1396,32,M,4078,Marié(e),Commercial,Cadre Commercial,0,80,4,3,2
+1397,39,M,10920,Marié(e),Consulting,Manager,3,80,13,6,4
+1399,25,M,6232,Marié(e),Commercial,Cadre Commercial,2,80,6,3,2
+1401,52,F,13247,Marié(e),Consulting,Tech Lead,2,80,24,5,3
+1402,43,F,4081,Célibataire,Consulting,Assistant de Direction,1,80,20,20,7
+1403,27,F,5769,Marié(e),Commercial,Cadre Commercial,1,80,6,6,2
+1405,27,F,2394,Célibataire,Consulting,Assistant de Direction,1,80,8,8,2
+1407,26,M,3904,Célibataire,Consulting,Assistant de Direction,0,80,5,4,3
+1408,42,F,16799,Marié(e),Ressources Humaines,Senior Manager,0,80,21,20,7
+1409,52,F,2950,Marié(e),Consulting,Consultant,9,80,12,5,4
+1411,37,F,3629,Célibataire,Consulting,Consultant,4,80,8,3,2
+1412,35,M,9362,Célibataire,Consulting,Tech Lead,2,80,10,2,2
+1415,25,M,3229,Marié(e),Consulting,Consultant,4,80,7,3,2
+1417,26,M,3578,Célibataire,Consulting,Consultant,0,80,8,7,7
+1419,29,M,7988,Célibataire,Ressources Humaines,Ressources Humaines,1,80,10,10,9
+1420,49,M,4284,Célibataire,Consulting,Consultant,3,80,20,4,3
+1421,29,F,7553,Célibataire,Consulting,Manager,0,80,9,8,7
+1422,54,F,17328,Célibataire,Consulting,Directeur Technique,6,80,29,20,7
+1423,58,F,19701,Marié(e),Consulting,Directeur Technique,3,80,32,9,8
+1424,55,M,14732,Divorcé(e),Consulting,Directeur Technique,2,80,31,7,7
+1425,36,F,9278,Célibataire,Commercial,Cadre Commercial,3,80,15,5,4
+1427,31,F,1359,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+1428,30,F,4779,Divorcé(e),Commercial,Cadre Commercial,7,80,8,3,2
+1430,31,F,16422,Célibataire,Consulting,Directeur Technique,3,80,9,3,2
+1431,34,M,2996,Divorcé(e),Consulting,Assistant de Direction,5,80,10,4,3
+1433,31,F,1261,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+1434,27,M,2099,Marié(e),Consulting,Consultant,0,80,6,5,0
+1435,36,M,5810,Célibataire,Consulting,Consultant,1,80,10,10,4
+1436,36,F,5647,Marié(e),Commercial,Cadre Commercial,4,80,11,3,2
+1438,47,M,3420,Marié(e),Consulting,Assistant de Direction,7,80,17,6,5
+1439,25,M,4400,Marié(e),Commercial,Représentant Commercial,3,80,6,3,2
+1440,37,M,3500,Célibataire,Consulting,Consultant,0,80,7,6,5
+1441,56,F,2066,Marié(e),Consulting,Assistant de Direction,2,80,5,3,2
+1443,47,F,17169,Marié(e),Consulting,Directeur Technique,3,80,26,20,17
+1445,24,F,4162,Marié(e),Commercial,Cadre Commercial,1,80,5,5,4
+1446,32,M,9204,Marié(e),Commercial,Cadre Commercial,4,80,7,4,3
+1447,34,F,3294,Marié(e),Consulting,Consultant,5,80,7,5,4
+1448,41,M,2127,Marié(e),Consulting,Assistant de Direction,2,80,7,4,2
+1449,40,M,3975,Divorcé(e),Consulting,Consultant,3,80,11,8,7
+1453,31,M,10793,Divorcé(e),Commercial,Cadre Commercial,1,80,13,13,7
+1457,46,M,10096,Divorcé(e),Commercial,Cadre Commercial,4,80,28,7,7
+1458,39,F,3646,Célibataire,Consulting,Consultant,2,80,11,1,0
+1459,31,F,7446,Célibataire,Consulting,Tech Lead,1,80,10,10,8
+1460,45,M,10851,Divorcé(e),Consulting,Manager,2,80,24,7,7
+1461,31,F,2109,Célibataire,Ressources Humaines,Ressources Humaines,9,80,8,3,2
+1464,31,M,3722,Marié(e),Consulting,Consultant,6,80,7,2,2
+1465,45,M,9380,Marié(e),Consulting,Tech Lead,4,80,10,3,1
+1466,48,M,5486,Divorcé(e),Commercial,Cadre Commercial,4,80,15,2,2
+1467,34,F,2742,Marié(e),Ressources Humaines,Ressources Humaines,1,80,2,2,2
+1468,40,M,13757,Divorcé(e),Consulting,Directeur Technique,2,80,16,9,8
+1469,28,M,8463,Célibataire,Commercial,Cadre Commercial,0,80,6,5,4
+1471,44,M,3162,Célibataire,Consulting,Consultant,3,80,7,5,2
+1472,53,M,16598,Célibataire,Consulting,Directeur Technique,4,80,35,9,8
+1473,49,M,6651,Marié(e),Consulting,Manager,2,80,20,3,2
+1474,40,M,2345,Divorcé(e),Consulting,Assistant de Direction,2,80,8,3,1
+1475,44,M,3420,Célibataire,Consulting,Assistant de Direction,1,80,6,5,2
+1477,33,M,4373,Marié(e),Commercial,Cadre Commercial,0,80,5,4,3
+1478,34,M,4759,Célibataire,Commercial,Cadre Commercial,3,80,15,13,9
+1479,30,M,5301,Marié(e),Commercial,Cadre Commercial,8,80,4,2,1
+1480,42,F,3673,Célibataire,Consulting,Consultant,1,80,12,12,9
+1481,44,F,4768,Marié(e),Commercial,Cadre Commercial,7,80,11,1,0
+1482,30,M,1274,Divorcé(e),Consulting,Assistant de Direction,1,80,1,1,0
+1483,57,M,4900,Marié(e),Consulting,Assistant de Direction,0,80,13,12,9
+1484,49,M,10466,Divorcé(e),Consulting,Manager,3,80,29,8,7
+1485,34,M,17007,Divorcé(e),Consulting,Directeur Technique,7,80,16,14,8
+1486,28,M,2909,Marié(e),Commercial,Représentant Commercial,3,80,5,3,2
+1487,29,F,5765,Célibataire,Commercial,Cadre Commercial,5,80,7,5,3
+1489,34,F,4599,Célibataire,Commercial,Cadre Commercial,0,80,16,15,9
+1492,35,M,2404,Marié(e),Commercial,Représentant Commercial,1,80,1,1,0
+1494,24,M,3172,Célibataire,Consulting,Consultant,2,80,4,0,0
+1495,24,F,2033,Marié(e),Commercial,Représentant Commercial,1,80,1,1,0
+1496,44,M,10209,Célibataire,Consulting,Tech Lead,5,80,16,2,2
+1497,29,M,8620,Divorcé(e),Commercial,Cadre Commercial,1,80,10,10,7
+1499,30,M,2064,Divorcé(e),Ressources Humaines,Ressources Humaines,0,80,6,5,3
+1501,55,M,4035,Marié(e),Consulting,Manager,0,80,4,3,2
+1502,33,F,3838,Marié(e),Consulting,Consultant,8,80,8,5,4
+1503,47,F,4591,Marié(e),Commercial,Cadre Commercial,3,80,11,5,4
+1504,28,M,2561,Célibataire,Consulting,Consultant,7,80,8,0,0
+1506,28,M,1563,Divorcé(e),Consulting,Assistant de Direction,1,80,1,1,0
+1507,28,M,4898,Célibataire,Commercial,Cadre Commercial,0,80,5,4,2
+1509,49,F,4789,Marié(e),Consulting,Consultant,4,80,10,3,2
+1513,29,F,3180,Marié(e),Consulting,Consultant,0,80,4,3,2
+1514,28,M,6549,Marié(e),Consulting,Tech Lead,1,80,8,8,6
+1515,33,M,6388,Célibataire,Consulting,Manager,2,80,14,0,0
+1516,32,M,11244,Célibataire,Consulting,Senior Manager,2,80,10,5,2
+1520,54,F,16032,Divorcé(e),Consulting,Senior Manager,3,80,26,14,9
+1522,29,M,2362,Célibataire,Consulting,Assistant de Direction,6,80,11,9,7
+1523,44,M,16328,Marié(e),Consulting,Directeur Technique,3,80,24,20,6
+1525,39,F,8376,Célibataire,Consulting,Tech Lead,4,80,9,2,0
+1527,46,F,16606,Marié(e),Commercial,Senior Manager,8,80,23,13,12
+1529,35,F,8606,Célibataire,Consulting,Manager,1,80,11,11,8
+1533,23,M,2272,Célibataire,Consulting,Consultant,0,80,5,4,3
+1534,40,M,2018,Célibataire,Consulting,Consultant,3,80,15,5,4
+1535,34,M,7083,Marié(e),Commercial,Cadre Commercial,1,80,10,10,9
+1537,31,F,4084,Célibataire,Consulting,Assistant de Direction,1,80,7,7,2
+1539,50,M,14411,Célibataire,Consulting,Directeur Technique,1,80,32,32,6
+1541,34,M,2308,Marié(e),Commercial,Représentant Commercial,0,80,12,11,10
+1542,42,M,4841,Marié(e),Consulting,Consultant,4,80,4,1,0
+1543,37,M,4285,Marié(e),Consulting,Assistant de Direction,1,80,10,10,8
+1544,29,F,9715,Marié(e),Consulting,Manager,3,80,9,7,7
+1545,33,M,4320,Célibataire,Consulting,Tech Lead,1,80,5,5,3
+1546,45,M,2132,Marié(e),Consulting,Assistant de Direction,4,80,8,5,4
+1547,42,M,10124,Marié(e),Consulting,Manager,2,80,24,20,8
+1548,40,M,5473,Marié(e),Commercial,Cadre Commercial,0,80,9,8,4
+1549,33,M,5207,Marié(e),Consulting,Consultant,1,80,15,15,14
+1550,40,M,16437,Célibataire,Ressources Humaines,Senior Manager,1,80,21,21,7
+1551,24,M,2296,Divorcé(e),Consulting,Consultant,0,80,2,1,1
+1552,40,M,4069,Divorcé(e),Consulting,Manager,3,80,8,2,2
+1553,45,M,7441,Divorcé(e),Consulting,Manager,1,80,10,10,8
+1554,35,F,2430,Marié(e),Commercial,Représentant Commercial,0,80,6,5,3
+1555,32,F,5878,Marié(e),Consulting,Assistant de Direction,3,80,12,7,1
+1556,36,M,2644,Célibataire,Commercial,Représentant Commercial,3,80,7,3,2
+1557,48,F,6439,Divorcé(e),Commercial,Cadre Commercial,8,80,18,8,7
+1558,29,M,2451,Marié(e),Consulting,Assistant de Direction,6,80,5,1,0
+1560,33,M,6392,Marié(e),Commercial,Cadre Commercial,2,80,8,2,2
+1562,30,M,9714,Marié(e),Commercial,Cadre Commercial,1,80,10,10,8
+1563,38,M,6077,Marié(e),Ressources Humaines,Ressources Humaines,3,80,10,6,3
+1564,35,M,2450,Célibataire,Consulting,Consultant,1,80,3,3,0
+1568,30,M,9250,Marié(e),Commercial,Cadre Commercial,3,80,9,4,2
+1569,35,F,2074,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+1572,53,F,10169,Marié(e),Consulting,Tech Lead,0,80,34,33,7
+1573,38,M,4855,Marié(e),Consulting,Tech Lead,4,80,7,5,2
+1574,32,M,4087,Marié(e),Consulting,Assistant de Direction,4,80,9,6,5
+1576,48,F,2367,Marié(e),Consulting,Assistant de Direction,8,80,10,8,2
+1577,34,M,2972,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+1578,55,M,19586,Marié(e),Commercial,Senior Manager,1,80,36,36,6
+1580,34,M,5484,Marié(e),Consulting,Assistant de Direction,9,80,9,2,2
+1581,26,F,2061,Marié(e),Consulting,Assistant de Direction,1,80,1,1,0
+1582,38,M,9924,Marié(e),Commercial,Cadre Commercial,0,80,10,9,8
+1583,38,F,4198,Célibataire,Commercial,Cadre Commercial,2,80,8,3,2
+1585,36,F,6815,Célibataire,Commercial,Cadre Commercial,6,80,15,1,0
+1586,29,M,4723,Célibataire,Consulting,Consultant,1,80,10,10,9
+1587,35,F,6142,Célibataire,Consulting,Manager,3,80,10,5,2
+1588,39,M,8237,Marié(e),Commercial,Cadre Commercial,2,80,11,7,6
+1590,29,M,8853,Divorcé(e),Consulting,Manager,1,80,6,6,4
+1591,50,M,19331,Marié(e),Commercial,Senior Manager,4,80,27,1,0
+1592,23,M,2073,Marié(e),Consulting,Assistant de Direction,2,80,4,2,2
+1594,36,M,5562,Marié(e),Consulting,Consultant,3,80,9,3,2
+1595,42,M,19613,Célibataire,Consulting,Senior Manager,8,80,24,1,0
+1596,35,M,3407,Marié(e),Consulting,Consultant,1,80,10,10,9
+1597,34,M,5063,Marié(e),Consulting,Manager,1,80,8,8,2
+1598,40,F,4639,Marié(e),Commercial,Cadre Commercial,1,80,5,5,4
+1599,43,M,4876,Divorcé(e),Consulting,Consultant,5,80,8,6,4
+1601,35,M,2690,Marié(e),Consulting,Consultant,1,80,1,1,0
+1602,46,M,17567,Célibataire,Commercial,Senior Manager,1,80,27,26,0
+1604,28,M,2408,Marié(e),Consulting,Consultant,1,80,1,1,1
+1605,22,F,2814,Marié(e),Consulting,Assistant de Direction,1,80,4,4,2
+1606,50,M,11245,Marié(e),Consulting,Manager,2,80,32,30,8
+1607,32,F,3312,Marié(e),Consulting,Assistant de Direction,3,80,6,3,2
+1608,44,F,19049,Divorcé(e),Consulting,Directeur Technique,0,80,23,22,7
+1609,30,M,2141,Marié(e),Consulting,Assistant de Direction,1,80,6,6,4
+1611,45,F,5769,Célibataire,Consulting,Consultant,1,80,10,10,7
+1612,45,M,4385,Marié(e),Commercial,Cadre Commercial,1,80,10,10,7
+1613,31,M,5332,Célibataire,Commercial,Cadre Commercial,7,80,10,5,2
+1614,36,F,4663,Marié(e),Consulting,Tech Lead,9,80,7,3,2
+1615,34,M,4724,Divorcé(e),Consulting,Tech Lead,1,80,9,9,7
+1617,49,F,3211,Marié(e),Consulting,Consultant,1,80,10,9,6
+1618,39,M,5377,Marié(e),Consulting,Tech Lead,2,80,10,7,7
+1619,27,M,4066,Divorcé(e),Consulting,Consultant,1,80,7,7,7
+1621,35,M,5208,Marié(e),Consulting,Assistant de Direction,1,80,16,16,15
+1622,28,F,4877,Divorcé(e),Consulting,Tech Lead,0,80,6,5,3
+1623,21,M,3117,Célibataire,Consulting,Assistant de Direction,1,80,3,2,2
+1624,18,F,1569,Célibataire,Commercial,Représentant Commercial,1,80,0,0,0
+1625,47,F,19658,Marié(e),Ressources Humaines,Senior Manager,3,80,27,5,2
+1627,39,M,3069,Divorcé(e),Consulting,Consultant,0,80,11,10,8
+1628,40,F,10435,Marié(e),Consulting,Tech Lead,1,80,18,18,15
+1630,35,F,4148,Marié(e),Consulting,Manager,1,80,15,14,11
+1631,37,M,5768,Marié(e),Consulting,Tech Lead,3,80,9,4,3
+1633,39,F,5042,Célibataire,Consulting,Tech Lead,0,80,10,9,2
+1635,45,F,5770,Divorcé(e),Consulting,Tech Lead,1,80,10,10,7
+1638,38,F,7756,Marié(e),Consulting,Tech Lead,3,80,10,5,4
+1639,35,M,10306,Marié(e),Commercial,Cadre Commercial,9,80,15,13,12
+1640,37,F,3936,Marié(e),Consulting,Assistant de Direction,1,80,8,8,4
+1641,40,F,7945,Célibataire,Consulting,Tech Lead,6,80,18,4,2
+1642,44,M,5743,Marié(e),Ressources Humaines,Ressources Humaines,4,80,14,10,7
+1644,48,M,15202,Marié(e),Consulting,Senior Manager,2,80,23,2,2
+1645,35,M,5440,Divorcé(e),Commercial,Cadre Commercial,6,80,7,2,2
+1646,24,F,3760,Célibataire,Consulting,Assistant de Direction,1,80,6,6,3
+1647,27,F,3517,Marié(e),Consulting,Assistant de Direction,7,80,5,3,2
+1648,27,M,2580,Célibataire,Consulting,Assistant de Direction,2,80,6,4,2
+1649,40,M,2166,Célibataire,Consulting,Consultant,3,80,10,4,2
+1650,29,M,5869,Célibataire,Commercial,Cadre Commercial,9,80,8,5,2
+1651,36,F,8008,Marié(e),Consulting,Manager,4,80,9,3,2
+1653,25,M,5206,Divorcé(e),Consulting,Tech Lead,1,80,7,7,7
+1654,39,M,5295,Marié(e),Consulting,Tech Lead,4,80,7,5,4
+1655,49,F,16413,Marié(e),Consulting,Directeur Technique,3,80,27,4,2
+1656,50,F,13269,Divorcé(e),Consulting,Directeur Technique,5,80,19,14,11
+1657,20,F,2783,Célibataire,Commercial,Représentant Commercial,1,80,2,2,2
+1658,34,F,5433,Divorcé(e),Consulting,Assistant de Direction,1,80,11,11,8
+1659,36,M,2013,Célibataire,Consulting,Consultant,2,80,15,4,3
+1661,49,F,13966,Marié(e),Consulting,Manager,2,80,30,15,11
+1662,36,F,4374,Marié(e),Consulting,Tech Lead,0,80,4,3,2
+1664,36,M,6842,Divorcé(e),Consulting,Manager,6,80,13,5,4
+1665,54,F,17426,Marié(e),Consulting,Senior Manager,3,80,36,10,8
+1666,43,M,17603,Marié(e),Consulting,Directeur Technique,1,80,14,14,10
+1667,35,M,4581,Célibataire,Commercial,Cadre Commercial,3,80,13,11,9
+1668,38,M,4735,Marié(e),Consulting,Assistant de Direction,7,80,19,13,11
+1669,29,M,4187,Divorcé(e),Commercial,Cadre Commercial,1,80,10,10,0
+1670,33,M,5505,Divorcé(e),Commercial,Cadre Commercial,1,80,6,6,2
+1671,32,M,5470,Divorcé(e),Consulting,Assistant de Direction,0,80,10,9,5
+1673,31,F,5476,Marié(e),Commercial,Cadre Commercial,1,80,10,10,0
+1674,49,F,2587,Divorcé(e),Consulting,Consultant,4,80,17,2,2
+1675,38,F,2440,Célibataire,Consulting,Consultant,1,80,4,4,3
+1676,47,F,15972,Divorcé(e),Commercial,Senior Manager,6,80,29,3,2
+1677,49,M,15379,Célibataire,Consulting,Senior Manager,4,80,23,8,7
+1678,41,M,7082,Célibataire,Commercial,Cadre Commercial,3,80,21,2,0
+1680,20,M,2728,Célibataire,Commercial,Représentant Commercial,1,80,2,2,2
+1681,33,F,5368,Divorcé(e),Commercial,Cadre Commercial,1,80,7,6,5
+1682,36,M,5347,Marié(e),Consulting,Manager,6,80,10,3,2
+1683,44,F,3195,Divorcé(e),Ressources Humaines,Ressources Humaines,4,80,8,2,2
+1684,23,M,3989,Célibataire,Consulting,Consultant,1,80,5,5,4
+1687,38,F,3306,Marié(e),Consulting,Consultant,7,80,7,0,0
+1689,53,M,7005,Marié(e),Consulting,Manager,3,80,11,4,3
+1691,48,F,2655,Marié(e),Commercial,Représentant Commercial,2,80,19,9,7
+1692,32,M,1393,Célibataire,Consulting,Consultant,1,80,1,1,0
+1693,26,M,2570,Célibataire,Consulting,Consultant,1,80,7,7,7
+1694,55,M,3537,Divorcé(e),Consulting,Assistant de Direction,5,80,8,4,2
+1696,34,M,3986,Marié(e),Consulting,Consultant,1,80,15,15,10
+1697,60,M,10883,Divorcé(e),Consulting,Manager,3,80,19,1,0
+1698,33,M,2028,Marié(e),Consulting,Consultant,1,80,14,14,11
+1700,37,M,9525,Divorcé(e),Commercial,Cadre Commercial,1,80,6,6,3
+1701,34,F,2929,Marié(e),Consulting,Assistant de Direction,1,80,10,10,9
+1702,23,M,2275,Divorcé(e),Commercial,Représentant Commercial,1,80,3,3,2
+1703,44,F,7879,Marié(e),Consulting,Manager,1,80,9,8,7
+1704,35,M,4930,Célibataire,Consulting,Assistant de Direction,0,80,6,5,4
+1706,43,M,7847,Marié(e),Commercial,Cadre Commercial,1,80,10,10,9
+1707,24,M,4401,Marié(e),Consulting,Assistant de Direction,1,80,5,5,3
+1708,41,M,9241,Célibataire,Commercial,Cadre Commercial,1,80,10,10,8
+1709,29,F,2974,Marié(e),Consulting,Consultant,9,80,9,5,3
+1710,36,F,4502,Célibataire,Commercial,Représentant Commercial,3,80,17,13,7
+1712,45,M,10748,Marié(e),Consulting,Manager,3,80,25,23,15
+1714,24,M,1555,Marié(e),Ressources Humaines,Ressources Humaines,1,80,1,1,0
+1716,47,M,12936,Marié(e),Commercial,Cadre Commercial,7,80,25,23,5
+1718,26,M,2305,Marié(e),Consulting,Consultant,1,80,3,3,2
+1719,45,F,16704,Célibataire,Consulting,Directeur Technique,1,80,21,21,6
+1720,32,M,3433,Marié(e),Consulting,Assistant de Direction,6,80,10,5,2
+1721,31,M,3477,Marié(e),Consulting,Consultant,1,80,6,5,2
+1722,41,M,6430,Marié(e),Ressources Humaines,Ressources Humaines,6,80,10,3,2
+1724,40,F,6516,Marié(e),Consulting,Tech Lead,2,80,18,1,0
+1725,24,M,3907,Divorcé(e),Consulting,Consultant,1,80,6,6,2
+1727,46,M,5562,Célibataire,Consulting,Manager,6,80,19,10,7
+1728,35,M,6883,Marié(e),Consulting,Tech Lead,2,80,17,7,7
+1729,30,M,2862,Marié(e),Consulting,Assistant de Direction,1,80,10,10,0
+1731,47,M,4978,Marié(e),Commercial,Cadre Commercial,7,80,4,1,0
+1732,46,M,10368,Divorcé(e),Commercial,Cadre Commercial,4,80,13,10,6
+1733,36,M,6134,Divorcé(e),Commercial,Cadre Commercial,5,80,16,2,2
+1734,32,M,6735,Célibataire,Commercial,Cadre Commercial,6,80,10,0,0
+1735,23,F,3295,Célibataire,Consulting,Consultant,1,80,3,3,2
+1736,31,F,5238,Célibataire,Consulting,Tech Lead,2,80,9,5,4
+1737,39,M,6472,Marié(e),Consulting,Consultant,1,80,9,9,8
+1739,32,M,9610,Marié(e),Commercial,Cadre Commercial,3,80,10,4,3
+1740,40,M,19833,Célibataire,Commercial,Senior Manager,1,80,21,21,8
+1744,45,F,9756,Marié(e),Ressources Humaines,Ressources Humaines,4,80,9,5,0
+1745,30,F,4968,Célibataire,Consulting,Assistant de Direction,0,80,10,9,7
+1746,24,M,2145,Marié(e),Ressources Humaines,Ressources Humaines,0,80,3,2,2
+1747,30,F,2180,Divorcé(e),Ressources Humaines,Ressources Humaines,6,80,6,4,2
+1749,31,M,8346,Marié(e),Commercial,Cadre Commercial,1,80,6,5,2
+1751,27,F,3445,Célibataire,Consulting,Assistant de Direction,1,80,6,6,2
+1752,29,F,2760,Célibataire,Commercial,Représentant Commercial,1,80,2,2,2
+1753,29,M,6294,Célibataire,Consulting,Manager,8,80,10,3,2
+1754,30,M,7140,Divorcé(e),Commercial,Cadre Commercial,2,80,12,7,7
+1755,34,M,2932,Marié(e),Consulting,Assistant de Direction,0,80,6,5,0
+1756,33,F,5147,Célibataire,Commercial,Cadre Commercial,8,80,13,11,7
+1757,49,F,4507,Célibataire,Commercial,Cadre Commercial,3,80,8,5,1
+1758,33,F,8564,Célibataire,Commercial,Cadre Commercial,2,80,11,0,0
+1760,38,F,2468,Marié(e),Consulting,Consultant,4,80,9,6,1
+1761,31,M,8161,Marié(e),Commercial,Cadre Commercial,2,80,10,1,0
+1762,29,F,2109,Divorcé(e),Consulting,Assistant de Direction,1,80,1,1,0
+1763,30,M,5294,Marié(e),Consulting,Manager,3,80,10,7,0
+1764,32,M,2718,Célibataire,Consulting,Assistant de Direction,2,80,12,7,7
+1766,38,M,5811,Marié(e),Consulting,Manager,3,80,15,1,0
+1767,43,M,2437,Marié(e),Consulting,Assistant de Direction,9,80,6,1,0
+1768,42,M,2766,Divorcé(e),Consulting,Consultant,8,80,7,5,3
+1770,55,M,19038,Marié(e),Consulting,Directeur Technique,8,80,34,1,0
+1771,33,M,3055,Divorcé(e),Consulting,Assistant de Direction,5,80,11,9,8
+1772,41,M,2289,Divorcé(e),Consulting,Consultant,1,80,5,5,3
+1774,34,M,4001,Divorcé(e),Commercial,Cadre Commercial,1,80,15,15,14
+1775,53,F,12965,Marié(e),Consulting,Tech Lead,4,80,27,3,2
+1778,43,M,3539,Célibataire,Ressources Humaines,Ressources Humaines,0,80,10,9,7
+1779,34,F,6029,Célibataire,Commercial,Cadre Commercial,5,80,6,2,2
+1780,21,M,2679,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+1782,38,F,3702,Marié(e),Consulting,Consultant,1,80,5,5,4
+1783,22,F,2398,Marié(e),Consulting,Consultant,1,80,1,1,0
+1784,31,F,5468,Marié(e),Commercial,Cadre Commercial,1,80,13,12,7
+1786,51,F,13116,Marié(e),Consulting,Senior Manager,2,80,15,2,2
+1787,37,M,4189,Marié(e),Commercial,Cadre Commercial,1,80,5,5,2
+1789,46,M,19328,Divorcé(e),Consulting,Directeur Technique,7,80,24,2,1
+1790,36,M,8321,Marié(e),Consulting,Manager,7,80,15,12,8
+1792,44,M,2342,Divorcé(e),Consulting,Assistant de Direction,1,80,6,5,3
+1794,37,M,4071,Divorcé(e),Ressources Humaines,Ressources Humaines,2,80,19,10,0
+1797,35,M,5813,Célibataire,Commercial,Cadre Commercial,1,80,10,10,7
+1798,33,M,3143,Marié(e),Consulting,Assistant de Direction,6,80,14,10,8
+1799,28,M,2044,Marié(e),Consulting,Assistant de Direction,1,80,5,5,3
+1800,39,M,13464,Célibataire,Consulting,Directeur Technique,7,80,9,4,3
+1801,46,M,7991,Célibataire,Commercial,Cadre Commercial,8,80,6,2,2
+1802,40,F,3377,Marié(e),Consulting,Consultant,4,80,7,4,3
+1803,42,M,5538,Marié(e),Consulting,Manager,5,80,10,0,0
+1804,35,M,5762,Divorcé(e),Consulting,Tech Lead,2,80,15,7,7
+1805,38,M,2592,Divorcé(e),Ressources Humaines,Ressources Humaines,5,80,13,11,10
+1807,34,M,5346,Marié(e),Consulting,Consultant,4,80,11,7,1
+1809,37,M,4213,Célibataire,Consulting,Tech Lead,1,80,10,10,3
+1812,39,M,4127,Divorcé(e),Commercial,Cadre Commercial,2,80,7,2,1
+1813,43,M,2438,Célibataire,Consulting,Assistant de Direction,4,80,7,3,2
+1814,41,M,6870,Célibataire,Consulting,Manager,3,80,11,3,2
+1815,41,F,10447,Divorcé(e),Commercial,Cadre Commercial,0,80,23,22,14
+1816,30,F,9667,Célibataire,Consulting,Tech Lead,9,80,9,7,7
+1818,26,F,2148,Marié(e),Ressources Humaines,Ressources Humaines,0,80,6,5,1
+1821,46,F,8926,Marié(e),Consulting,Manager,4,80,13,9,7
+1822,40,F,6513,Divorcé(e),Consulting,Manager,4,80,12,5,3
+1823,34,M,6799,Marié(e),Commercial,Cadre Commercial,1,80,10,10,8
+1824,58,M,16291,Divorcé(e),Commercial,Senior Manager,4,80,37,16,9
+1826,35,M,2705,Marié(e),Consulting,Consultant,0,80,6,5,4
+1827,47,F,10333,Divorcé(e),Consulting,Tech Lead,8,80,28,22,11
+1829,40,F,4448,Divorcé(e),Consulting,Manager,2,80,15,7,4
+1830,54,F,6854,Marié(e),Consulting,Assistant de Direction,4,80,14,7,1
+1833,31,F,9637,Marié(e),Commercial,Cadre Commercial,2,80,9,3,2
+1834,28,F,3591,Marié(e),Consulting,Assistant de Direction,1,80,3,3,2
+1835,38,F,5405,Marié(e),Commercial,Représentant Commercial,2,80,20,4,2
+1836,26,M,4684,Célibataire,Commercial,Cadre Commercial,1,80,5,5,3
+1837,58,M,15787,Marié(e),Consulting,Directeur Technique,2,80,23,2,2
+1839,18,F,1514,Célibataire,Consulting,Assistant de Direction,1,80,0,0,0
+1842,31,M,2956,Marié(e),Ressources Humaines,Ressources Humaines,0,80,2,1,0
+1844,29,M,2335,Divorcé(e),Ressources Humaines,Ressources Humaines,4,80,4,2,2
+1845,45,F,5154,Marié(e),Commercial,Cadre Commercial,4,80,10,8,7
+1847,36,F,6962,Marié(e),Consulting,Assistant de Direction,4,80,15,1,0
+1849,43,M,5675,Marié(e),Commercial,Cadre Commercial,1,80,7,7,7
+1850,27,F,2379,Célibataire,Consulting,Consultant,0,80,6,5,4
+1852,29,M,3812,Marié(e),Consulting,Consultant,1,80,11,11,8
+1853,32,M,4648,Célibataire,Commercial,Cadre Commercial,8,80,4,0,0
+1854,42,M,2936,Marié(e),Consulting,Assistant de Direction,3,80,10,6,3
+1856,47,F,2105,Célibataire,Consulting,Consultant,4,80,7,2,2
+1857,46,M,8578,Divorcé(e),Consulting,Tech Lead,3,80,12,9,8
+1858,28,M,2706,Divorcé(e),Ressources Humaines,Ressources Humaines,1,80,3,3,2
+1859,29,M,6384,Divorcé(e),Consulting,Manager,8,80,11,7,0
+1860,42,M,3968,Célibataire,Consulting,Consultant,4,80,8,0,0
+1862,32,M,9907,Célibataire,Commercial,Cadre Commercial,7,80,7,2,2
+1863,46,F,13225,Divorcé(e),Commercial,Cadre Commercial,2,80,25,19,17
+1864,27,F,3540,Marié(e),Commercial,Représentant Commercial,1,80,9,9,8
+1865,29,M,2804,Marié(e),Ressources Humaines,Ressources Humaines,1,80,1,1,0
+1866,43,F,19392,Marié(e),Consulting,Senior Manager,7,80,21,16,12
+1867,48,M,19665,Marié(e),Consulting,Directeur Technique,4,80,29,22,10
+1868,29,M,2439,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+1869,46,F,7314,Marié(e),Commercial,Cadre Commercial,5,80,14,8,7
+1870,27,F,4774,Marié(e),Consulting,Assistant de Direction,0,80,8,7,6
+1871,39,M,3902,Divorcé(e),Consulting,Assistant de Direction,8,80,7,2,2
+1873,55,M,2662,Marié(e),Consulting,Assistant de Direction,8,80,19,5,2
+1875,28,F,2856,Marié(e),Commercial,Représentant Commercial,1,80,1,1,0
+1876,30,M,1081,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+1878,22,M,2472,Célibataire,Consulting,Assistant de Direction,1,80,1,1,0
+1880,36,F,5673,Marié(e),Commercial,Cadre Commercial,1,80,10,10,9
+1881,31,M,4197,Divorcé(e),Consulting,Consultant,1,80,10,10,8
+1882,34,M,9713,Marié(e),Commercial,Cadre Commercial,2,80,9,5,3
+1883,29,M,2062,Célibataire,Consulting,Consultant,3,80,11,3,2
+1885,37,M,4284,Marié(e),Consulting,Assistant de Direction,5,80,16,5,3
+1886,35,F,4788,Marié(e),Consulting,Tech Lead,0,80,4,3,2
+1888,45,F,5906,Marié(e),Consulting,Tech Lead,0,80,10,9,8
+1890,36,M,3886,Célibataire,Ressources Humaines,Ressources Humaines,1,80,10,10,1
+1892,40,M,16823,Divorcé(e),Consulting,Senior Manager,2,80,22,19,7
+1893,26,F,2933,Marié(e),Consulting,Assistant de Direction,1,80,1,1,0
+1898,27,F,6500,Célibataire,Commercial,Cadre Commercial,0,80,9,8,7
+1900,48,F,17174,Divorcé(e),Consulting,Senior Manager,3,80,24,22,17
+1903,44,M,5033,Marié(e),Consulting,Manager,2,80,10,2,0
+1905,34,M,2307,Marié(e),Consulting,Assistant de Direction,1,80,5,5,2
+1907,56,M,2587,Célibataire,Consulting,Consultant,1,80,5,4,2
+1908,36,M,5507,Marié(e),Commercial,Cadre Commercial,2,80,12,4,2
+1909,41,F,4393,Marié(e),Commercial,Cadre Commercial,5,80,14,5,4
+1911,42,M,13348,Marié(e),Consulting,Directeur Technique,9,80,18,13,7
+1912,31,F,6583,Divorcé(e),Commercial,Cadre Commercial,2,80,8,5,2
+1915,34,F,8103,Marié(e),Commercial,Cadre Commercial,3,80,9,4,2
+1916,31,F,3978,Divorcé(e),Consulting,Consultant,8,80,4,2,2
+1918,26,M,2544,Marié(e),Consulting,Consultant,0,80,8,7,7
+1922,45,M,5399,Célibataire,Consulting,Manager,4,80,12,4,2
+1924,33,M,5487,Célibataire,Commercial,Cadre Commercial,1,80,10,10,4
+1927,28,M,6834,Marié(e),Commercial,Cadre Commercial,1,80,7,7,7
+1928,29,M,1091,Célibataire,Commercial,Représentant Commercial,1,80,1,1,0
+1929,39,F,5736,Marié(e),Commercial,Cadre Commercial,6,80,10,3,2
+1931,27,M,2226,Marié(e),Consulting,Assistant de Direction,1,80,6,5,3
+1932,34,M,5747,Marié(e),Consulting,Assistant de Direction,1,80,16,15,10
+1933,28,F,9854,Célibataire,Commercial,Cadre Commercial,3,80,6,2,0
+1934,47,M,5467,Marié(e),Consulting,Assistant de Direction,8,80,16,8,7
+1935,56,F,5380,Marié(e),Commercial,Cadre Commercial,4,80,6,0,0
+1936,39,M,5151,Marié(e),Consulting,Tech Lead,1,80,10,10,0
+1937,38,F,2133,Divorcé(e),Consulting,Assistant de Direction,1,80,20,20,11
+1938,58,F,17875,Marié(e),Commercial,Senior Manager,4,80,29,1,0
+1939,32,F,2432,Célibataire,Consulting,Assistant de Direction,3,80,8,4,1
+1940,38,M,4771,Divorcé(e),Consulting,Assistant de Direction,2,80,10,5,2
+1941,49,M,19161,Marié(e),Consulting,Directeur Technique,3,80,28,5,4
+1943,42,M,5087,Divorcé(e),Commercial,Cadre Commercial,3,80,14,0,0
+1944,27,F,2863,Marié(e),Ressources Humaines,Ressources Humaines,1,80,1,1,0
+1945,35,M,5561,Marié(e),Commercial,Cadre Commercial,0,80,6,5,3
+1947,28,M,2144,Célibataire,Consulting,Assistant de Direction,1,80,5,5,3
+1948,31,M,3065,Divorcé(e),Consulting,Assistant de Direction,1,80,4,4,2
+1949,36,M,2810,Marié(e),Consulting,Consultant,1,80,5,5,4
+1950,34,M,9888,Célibataire,Commercial,Cadre Commercial,1,80,14,14,8
+1951,34,M,8628,Divorcé(e),Commercial,Cadre Commercial,1,80,9,8,7
+1952,26,M,2867,Célibataire,Consulting,Consultant,0,80,8,7,7
+1954,29,M,5373,Marié(e),Consulting,Manager,0,80,6,5,3
+1955,32,F,6667,Divorcé(e),Consulting,Manager,5,80,9,5,1
+1956,31,M,5003,Marié(e),Consulting,Assistant de Direction,1,80,10,10,8
+1960,28,M,2367,Divorcé(e),Consulting,Consultant,5,80,6,4,1
+1961,38,M,2858,Célibataire,Commercial,Représentant Commercial,4,80,20,1,0
+1962,35,F,5204,Marié(e),Commercial,Cadre Commercial,1,80,10,10,8
+1965,27,M,4105,Célibataire,Commercial,Cadre Commercial,1,80,7,7,7
+1966,32,M,9679,Célibataire,Consulting,Tech Lead,8,80,8,1,0
+1967,31,M,5617,Marié(e),Commercial,Cadre Commercial,1,80,10,10,7
+1968,53,M,10448,Célibataire,Commercial,Cadre Commercial,6,80,15,2,2
+1969,54,F,2897,Marié(e),Consulting,Assistant de Direction,3,80,9,4,3
+1970,33,M,5968,Divorcé(e),Consulting,Manager,1,80,9,9,7
+1971,43,M,7510,Marié(e),Consulting,Manager,1,80,10,10,9
+1972,38,M,2991,Marié(e),Ressources Humaines,Ressources Humaines,0,80,7,6,2
+1973,55,M,19636,Marié(e),Ressources Humaines,Senior Manager,4,80,35,10,9
+1974,31,F,1129,Divorcé(e),Consulting,Consultant,1,80,1,1,0
+1975,39,M,13341,Célibataire,Commercial,Cadre Commercial,0,80,21,20,8
+1976,42,M,4332,Célibataire,Consulting,Assistant de Direction,1,80,20,20,9
+1979,31,F,11031,Marié(e),Consulting,Directeur Technique,4,80,13,11,7
+1980,54,F,4440,Célibataire,Consulting,Tech Lead,6,80,9,5,2
+1981,24,M,4617,Célibataire,Consulting,Manager,1,80,4,4,3
+1982,23,M,2647,Célibataire,Consulting,Consultant,1,80,5,5,2
+1985,40,F,6323,Marié(e),Consulting,Consultant,1,80,10,10,9
+1986,40,F,5677,Marié(e),Commercial,Cadre Commercial,3,80,15,11,8
+1987,25,F,2187,Marié(e),Ressources Humaines,Ressources Humaines,4,80,6,2,0
+1989,30,M,3748,Marié(e),Consulting,Consultant,1,80,12,12,8
+1992,25,M,3977,Divorcé(e),Consulting,Consultant,6,80,7,2,2
+1993,47,M,8633,Célibataire,Consulting,Manager,2,80,25,17,14
+1994,33,M,2008,Divorcé(e),Consulting,Consultant,1,80,1,1,1
+1995,38,M,4440,Marié(e),Commercial,Cadre Commercial,0,80,16,15,13
+1996,31,M,3067,Marié(e),Commercial,Représentant Commercial,0,80,3,2,2
+1997,38,M,5321,Marié(e),Consulting,Tech Lead,2,80,10,8,3
+1998,42,M,5410,Divorcé(e),Consulting,Assistant de Direction,6,80,9,4,3
+1999,41,M,2782,Marié(e),Consulting,Assistant de Direction,3,80,12,5,3
+2000,47,F,11957,Marié(e),Consulting,Directeur Technique,0,80,14,13,8
+2003,35,M,2660,Marié(e),Consulting,Consultant,7,80,5,2,2
+2007,22,M,3375,Célibataire,Consulting,Assistant de Direction,0,80,4,3,2
+2008,35,M,5098,Célibataire,Consulting,Assistant de Direction,1,80,10,10,7
+2009,33,F,4878,Marié(e),Consulting,Manager,0,80,10,9,7
+2010,32,F,2837,Célibataire,Consulting,Consultant,1,80,6,6,2
+2012,40,M,2406,Marié(e),Consulting,Consultant,8,80,8,1,0
+2013,32,M,2269,Marié(e),Commercial,Représentant Commercial,0,80,3,2,2
+2014,39,M,4108,Célibataire,Consulting,Assistant de Direction,7,80,18,7,7
+2015,38,F,13206,Marié(e),Consulting,Directeur Technique,3,80,20,18,16
+2016,32,F,10422,Marié(e),Commercial,Cadre Commercial,1,80,14,14,10
+2017,37,F,13744,Marié(e),Consulting,Directeur Technique,1,80,16,16,11
+2018,25,F,4907,Divorcé(e),Commercial,Cadre Commercial,0,80,6,5,3
+2019,52,M,3482,Divorcé(e),Commercial,Représentant Commercial,2,80,16,9,8
+2020,44,M,2436,Célibataire,Consulting,Assistant de Direction,6,80,6,4,3
+2021,21,M,2380,Célibataire,Commercial,Représentant Commercial,1,80,2,2,2
+2022,39,M,19431,Célibataire,Consulting,Senior Manager,2,80,21,6,0
+2023,23,M,1790,Marié(e),Commercial,Représentant Commercial,1,80,1,1,0
+2024,36,F,7644,Marié(e),Commercial,Cadre Commercial,0,80,10,9,7
+2025,36,F,5131,Divorcé(e),Consulting,Tech Lead,7,80,18,4,2
+2026,56,M,6306,Divorcé(e),Consulting,Manager,1,80,13,13,12
+2027,29,M,4787,Marié(e),Consulting,Assistant de Direction,9,80,4,2,2
+2031,42,M,18880,Marié(e),Consulting,Senior Manager,5,80,24,22,6
+2032,56,M,2339,Marié(e),Consulting,Consultant,8,80,14,10,9
+2034,41,F,13570,Marié(e),Consulting,Tech Lead,0,80,21,20,7
+2035,34,F,6712,Marié(e),Commercial,Cadre Commercial,1,80,8,8,7
+2036,36,M,5406,Divorcé(e),Commercial,Cadre Commercial,1,80,15,15,12
+2037,41,M,8938,Divorcé(e),Commercial,Cadre Commercial,2,80,14,5,4
+2038,32,M,2439,Célibataire,Consulting,Assistant de Direction,1,80,4,4,2
+2040,35,F,8837,Célibataire,Ressources Humaines,Ressources Humaines,1,80,9,9,0
+2041,38,F,5343,Marié(e),Commercial,Cadre Commercial,1,80,10,10,7
+2044,50,M,6728,Divorcé(e),Commercial,Cadre Commercial,7,80,12,6,3
+2045,36,F,6652,Marié(e),Commercial,Cadre Commercial,4,80,8,6,3
+2046,45,F,4850,Célibataire,Commercial,Cadre Commercial,8,80,8,5,3
+2048,40,M,2809,Célibataire,Consulting,Assistant de Direction,2,80,8,2,2
+2049,35,M,5689,Marié(e),Consulting,Manager,1,80,10,10,2
+2051,40,F,2001,Marié(e),Consulting,Assistant de Direction,2,80,20,5,3
+2052,35,F,2977,Marié(e),Consulting,Assistant de Direction,1,80,4,4,3
+2053,29,M,4025,Marié(e),Consulting,Consultant,4,80,10,4,3
+2054,29,F,3785,Célibataire,Consulting,Assistant de Direction,1,80,5,5,4
+2055,50,M,10854,Divorcé(e),Commercial,Cadre Commercial,4,80,20,3,2
+2056,39,F,12031,Marié(e),Commercial,Cadre Commercial,0,80,21,20,9
+2057,31,M,9936,Célibataire,Consulting,Tech Lead,0,80,10,9,4
+2060,26,F,2966,Célibataire,Commercial,Représentant Commercial,0,80,5,4,2
+2061,36,M,2571,Marié(e),Consulting,Consultant,4,80,17,5,2
+2062,39,M,9991,Marié(e),Consulting,Manager,4,80,9,7,7
+2064,27,M,6142,Marié(e),Consulting,Tech Lead,1,80,6,6,2
+2065,49,M,5390,Marié(e),Commercial,Cadre Commercial,2,80,17,9,6
+2068,34,M,4404,Marié(e),Consulting,Consultant,2,80,6,4,3
