@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 import os
 from .utils.connexion_db import connexion_db
 from .utils.feature_engineering import transform_fe
+from .utils.interaction_db import get_employe
 
 
 app = FastAPI()
@@ -164,20 +165,14 @@ def post_prediction_from_raw_data(id_employe: int = Query(..., description="iden
     engine = connexion_db()
 
     with engine.connect() as conn:
-        query = text("SELECT * FROM employes WHERE id_employee = :id")
-        data = conn.execute(query, {'id' : id_employe})
-        row = data.fetchone()
-
-        if row: 
-            data_dict = dict(row._mapping)
-        else:
-            return {'message' : 'Aucun employé trouvé'}
-
+        data_dict = get_employe(conn,id_employe)
+    
     data_dict_for_model = transform_fe(data_dict)
 
     df = pd.DataFrame([data_dict_for_model])
 
     proba = HR_model.predict_proba(df)[0][1]
     predict = (proba > HR_threshold)
-    return {'probabilité': round(float(proba),3),
+    return {'params' : data_dict,
+            'probabilité': round(float(proba),3),
             'prédiction': bool(predict)}

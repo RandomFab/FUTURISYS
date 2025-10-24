@@ -25,9 +25,9 @@ def FE_ratio_evolution(annees_poste_actuel,annees_exp_entreprise):
     
 def FE_reste_plus_longtemps(annees_exp_entreprise,duree_moy_exp_precedentes):
     if annees_exp_entreprise > duree_moy_exp_precedentes:
-        return 1 
+        return True 
     else:
-        return 0
+        return False
     
 def FE_cadre(poste):
     if poste in ['Cadre Commercial','Directeur Technique','Manager','Senior Manager','Tech Lead']:
