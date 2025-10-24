@@ -41,8 +41,9 @@ def post_input(conn,data_dict_for_model):
                 :poste,
                 :statut_marital
             )
+            RETURNING id_input
         """)
-    conn.execute(insert_query,{
+    result = conn.execute(insert_query,{
         "id_employe": data_dict_for_model["id_employee"],
         "heure_supplementaires": data_dict_for_model["heure_supplementaires"],
         "age": data_dict_for_model["age"],
@@ -56,3 +57,20 @@ def post_input(conn,data_dict_for_model):
         "poste": data_dict_for_model["poste"],
         "statut_marital": data_dict_for_model["statut_marital"]
     })
+
+    id_input = result.scalar()
+    return id_input
+
+def post_output(conn,id_input,proba,predict):
+    insert_query = text("""INSERT INTO outputs(
+                            id_input,
+                            probabilite,
+                            predict
+                            ) VALUES (
+                            :id_input,
+                            :probabilite,
+                            :predict)
+                            """)
+    conn.execute(insert_query,{"id_input" : id_input,
+                                "probabilite" : float(proba),
+                                "predict": bool(predict)})

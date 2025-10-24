@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 import os
 from .utils.connexion_db import connexion_db
 from .utils.feature_engineering import transform_fe
-from .utils.interaction_db import get_employe, post_input
+from .utils.interaction_db import get_employe, post_input, post_output
 
 
 app = FastAPI()
@@ -17,8 +17,7 @@ app = FastAPI()
 class PredictionRawData(BaseModel):
   heure_supplementaires: Literal[0,1]
   age: int
-  FE_cadre: Literal[0,1]
-  frequence_deplacement: Literal[1,2,3]
+  frequence_deplacement: Literal[0,1,2]
   niveau_education: Literal[1,2,3,4,5]
   poste: Literal['Assistant de Direction','Cadre Commercial','Consultant','Directeur Technique','Manager','Représentant Commercial','Ressources Humaines','Senior Manager','Tech Lead']
   statut_marital:Literal['Célibataire','Marié(e)','Divorcé(e)']
@@ -101,7 +100,6 @@ def post_prediction_from_raw_data(data: PredictionRawData):
         "nombre_experiences_precedentes" : int\n
         "annees_dans_le_poste_actuel":int\n
         "annee_experience_totale" : int\n
-        "FE_cadre": 0,1\n
         "niveau_education": 1,2,3,4,5\n
         "poste": 'Assistant de Direction','Cadre Commercial','Consultant','Directeur Technique','Manager','Représentant Commercial','Ressources Humaines','Senior Manager','Tech Lead',\n
         "statut_marital": 'Célibataire','Marié(e)','Divorcé(e)'\n
@@ -174,12 +172,14 @@ def post_prediction_from_raw_data(id_employe: int = Query(..., description="iden
 
     df = pd.DataFrame([data_dict_for_model])
 
-    proba = HR_model.predict_proba(df)[0][1]
+    proba = round(HR_model.predict_proba(df)[0][1],3)
     predict = (proba > HR_threshold)
 
     with engine.begin() as conn:
         #FBL: Ajouter l'input à inputs db
-        post_input(conn,data_dict_for_model)
+        id_input = post_input(conn,data_dict_for_model)
+        #FBL: Ajouter les résultats à output
+        post_output(conn, id_input, proba, predict)
 
     return {'params' : data_dict,
             "message": "ligne insérée avec succès dans inputs",
