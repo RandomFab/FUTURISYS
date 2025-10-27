@@ -1,54 +1,84 @@
----
-title: Futurisys
-emoji: 🚀
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_file: Dockerfile
-pinned: false
----
+<a id="readme-top"></a>
 
-# 🚀 FUTURISYS — Déploiement d’un modèle de Machine Learning
+<!-- PROJECT SHIELDS -->
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?style=for-the-badge&logo=githubactions)
+![HF Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface)
 
-> **Projet pédagogique** dans le cadre du parcours *Machine Learning & Data Science*.  
-> Objectif : rendre un modèle de classification opérationnel et accessible via une API FastAPI.
+<br />
 
----
+<div align="center">
+  <a href="https://github.com/RandomFab/FUTURISYS">
+    <img src="images/LOGO OPENCLASSROOMS.jpg" alt="Logo" width="200">
+  </a>
 
-## 🧠 Contexte du projet
+  <h2 align="center">🚀 FUTURISYS — Déploiement d’un modèle de Machine Learning</h2>
 
-Futurisys est une entreprise innovante souhaitant rendre ses modèles de machine learning accessibles à ses équipes via une **API performante**.  
-Le but de ce projet est de **déployer un modèle de ML existant** (issu du projet 4 : *classification automatique d’informations*) à l’aide d’outils modernes d’ingénierie logicielle.
-
----
-
-## 🎯 Objectifs
-
-- Exposer le modèle via une **API FastAPI**.  
-- Automatiser les tests et le déploiement (CI/CD).  
-- Gérer la version du code avec **Git & GitHub**.  
-- Documenter l’API et le code.  
-- *(Étapes futures)* Connecter l’API à une **base de données PostgreSQL** pour la traçabilité des prédictions.
+  <p align="center">
+    Projet pédagogique et pré-commercial de déploiement d’un modèle de Machine Learning via FastAPI et Docker.<br/>
+    <a href="https://randomfab-futurisys.hf.space/docs"><strong>→ Voir l’API en ligne sur Hugging Face Spaces »</strong></a>
+    <br /><br />
+    <a href="#usage">Exemples d'utilisation</a> ·
+    <a href="#tests">Tests</a> ·
+    <a href="#roadmap">Feuille de route</a> ·
+    <a href="#contact">Contact</a>
+  </p>
+</div>
 
 ---
 
-## 🧩 Structure du projet
+## Sommaire
+
+1. [À propos du projet](#à-propos-du-projet)
+2. [Structure du projet](#structure-du-projet)
+3. [Installation](#installation)
+4. [Utilisation](#usage)
+5. [Détails techniques du modèle](#🧠-détails-techniques-du-modèle)
+6. [Tests](#tests)
+7. [CI/CD et déploiement](#⚡️-intégration-continue-cicd)
+8. [Base de données et traçabilité](#base-de-données-et-traçabilité)
+9. [Technologies utilisées](#🧩-technologies-utilisées)
+10. [Feuille de route](#roadmap)
+11. [Licence](#licence)
+12. [Contact](#contact)
+
+---
+
+## À propos du projet
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
+
+FUTURISYS est une entreprise innovante souhaitant rendre ses modèles de machine learning **accessibles via une API performante**.  
+Ce projet vise à **déployer un modèle de classification** issu du projet *“Classification automatique d’informations”*.
+
+**Objectifs principaux :**
+- Exposer un modèle ML via une API **FastAPI**.  
+- Gérer la traçabilité via **PostgreSQL**.  
+- Mettre en place une **pipeline CI/CD GitHub Actions**.  
+- Déployer sur **Hugging Face Spaces** via Docker.  
+- Documenter et tester entièrement le projet.
+
+---
+
+## Structure du projet
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
 
 ```
 FUTURISYS/
 ├── app/
 │   ├── main.py                # Point d'entrée de l'API FastAPI
 │   ├── model/                 # Modèle entraîné + préprocesseur
-│   │   ├── model.pkl
-│   │   └── preprocessing.pkl
+│   │   ├── model.joblib
+│   │   └── preprocessing.joblib
 │   ├── utils/                 # Fonctions utilitaires
 │   └── tests/                 # Tests unitaires Pytest
-├── notebooks/                 # Analyse exploratoire et entraînement du modèle
-├── data/                      # Jeux de données (optionnel)
+├── data/                      # Jeux de données
 ├── pyproject.toml             # Géré par uv
 ├── uv.lock
 ├── .python-version
-├── requirements.txt           # Export pour CI/CD (*auto-généré*)
+├── Dockerfile                 # Pour l'initialisation sur huggingface
 ├── .github/
 │   └── workflows/ci.yml       # Pipeline CI/CD (GitHub Actions)
 └── README.md
@@ -56,15 +86,15 @@ FUTURISYS/
 
 ---
 
-## ⚙️ Installation
+## Installation
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
 
 ### 🔧 Prérequis
 
-- [Python ≥ 3.10](https://www.python.org/downloads/) 
-- Fichier `.python-version` défini pour garantir la compatibilité de l’environnement
+- [Python 3.13](https://www.python.org/downloads/)  
 - [uv](https://docs.astral.sh/uv/)  
 - [Git](https://git-scm.com/)  
-- *(optionnel)* Compte [Hugging Face](https://huggingface.co/) pour le déploiement
+- [Docker](https://www.docker.com/)  
 
 ### 💻 Cloner le dépôt
 
@@ -75,151 +105,160 @@ cd FUTURISYS
 
 ### 📦 Installer les dépendances
 
-Le fichier `uv.lock` fige les versions exactes des dépendances afin d’assurer la reproductibilité de l’environnement.
-
-
-Avec **uv** :
-
 ```bash
 uv sync
 ```
 
-## 🚀 Lancer l’application
-
-### Exécution locale
+### 🚀 Lancer l’application
 
 ```bash
 uvicorn app.main:app --reload
 ```
 
-👉 L’API sera disponible à l’adresse :  
-Dev : **http://127.0.0.1:8000**
-Prod : **https://randomfab-futurisys.hf.space**
-
-### Documentation interactive
-
-Liste des endpoints :
-**https://randomfab-futurisys.hf.space/docs**
-**https://randomfab-futurisys.hf.space/threshold**
-**https://randomfab-futurisys.hf.space/features**
-**https://randomfab-futurisys.hf.space/model-info**
-**https://randomfab-futurisys.hf.space/predict_from_raw_data**
-**https://randomfab-futurisys.hf.space/predict_from_transformed_data**
+API disponible sur :
+- Dev : http://127.0.0.1:8000  
+- Prod : https://randomfab-futurisys.hf.space  
+→ Swagger : http://127.0.0.1:8000/docs
 
 ---
 
-## 🧠 Détails techniques du modèle
+## Usage
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
 
-### 🔹 Description générale
+### 📄 Liste des endpoints
+| Endpoint | Description |
+|-----------|--------------|
+| `/docs` | Documentation Swagger |
+| `/threshold` | Seuil de classification |
+| `/features` | Liste des features |
+| `/model-info` | Informations du modèle |
+| `/predict_from_transformed_data` | Prédiction avec datas transformées |
+| `/predict_from_raw_data` | Prédiction avec datas brutes |
+| `/predict_from_db_employe` | Prédiction via BDD employés |
 
-- **Type de modèle :** HistGradientBoosting 
-- **Nature des données :**     
-      {
-        "heure_supplementaires": int/bool
-        "age": int
-        "FE_ratio_ancienneté": float
-        "FE_cadre": int
-        "frequence_deplacement": int 0(peu), 1(occasionnel), 2(fréquent)
-        "FE_duree_moy_exp_precedentes": float
-        "FE_ratio_evolution": float
-        "niveau_education": int 1,2,3,4,5
-        "FE_reste_plus_longtemps": int/bool
-        "poste": str 'Assistant de Direction','Cadre Commercial','Consultant','Directeur Technique','Manager','Représentant Commercial','Ressources Humaines','Senior Manager','Tech Lead',\n
-        "statut_marital": str'Célibataire','Marié(e)','Divorcé(e)'\n
-      }
-- **Tâche supervisée :** classification binaire (reste dans l'entreprise / part de l'entreprise)
-- **Objectif métier :**  Anticiper le départ d'unn collaborateur
-
-### 🔹 Entraînement du modèle
-
-- **Jeu de données source :** Evaluations annuelles, fichier SIRH et sondage de l'entreprise TECHNOVA
-- **Prétraitements appliqués :** StandardScaler, OneHotEncoder, SMOTE, underscaling 
-- **Pipeline d’entraînement :**  pipeline = IMBpipeline([
-                                            ('preprocessing', preprocessor),
-                                            ('smote',SMOTE(sampling_strategy=0.2,random_state=42)),
-                                            ('under',RandomUnderSampler(sampling_strategy=0.8,random_state=42)),
-                                            ('model', HistGradientBoostingClassifier(random_state=42))
-                                          ])
-  
-- **Métriques principales :** Optimisation fait sur le recall pour identifier au maximum les personne quittant l'entreprise, quite à avoir plus de faux positif.
-
-### 🔹 Sauvegarde et chargement du modèle
-
-Le modèle et les objets associés (préprocesseur, encodeurs, etc.) sont sauvegardés avec `joblib` :
-
+### Exemple Python :
 ```python
-import joblib
+import requests
 
-# Sauvegarde
-joblib.dump(model, "app/model/model.pkl")
-joblib.dump(preprocessor, "app/model/preprocessing.pkl")
-
-# Chargement
-model = joblib.load("app/model/model.pkl")
-preprocessor = joblib.load("app/model/preprocessing.pkl")
+url = "http://127.0.0.1:8000/predict_from_raw_data"
+payload = {
+    "heure_supplementaires": 1,
+    "age": 35,
+    "frequence_deplacement": 1,
+    "niveau_education": 1,
+    "poste": "Assistant de Direction",
+    "statut_marital": "Célibataire",
+    "annees_dans_l_entreprise": 5,
+    "nombre_experiences_precedentes": 2,
+    "annees_dans_le_poste_actuel": 1,
+    "annee_experience_totale": 10
+}
+response = requests.post(url, json=payload)
+print(response.json())
 ```
 
 ---
 
-## 🧪 Tests
+## Détails techniques du modèle
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
 
-Pour exécuter les tests unitaires :
+### Description
+- **Modèle :** HistGradientBoostingClassifier  
+- **Tâche :** Classification binaire (Reste(0) / Quitte(1) l’entreprise)  
+- **Objectif :** Anticiper le départ d’un collaborateur  
+- **Source :** Données internes TECHNOVA
+
+### Entraînement :
+```python
+pipeline = IMBpipeline([
+    ('preprocessing', preprocessor),
+    ('smote', SMOTE(sampling_strategy=0.2, random_state=42)),
+    ('under', RandomUnderSampler(sampling_strategy=0.8, random_state=42)),
+    ('model', HistGradientBoostingClassifier(random_state=42))
+])
+```
+
+Optimisation : **Recall** prioritaire pour détecter les départs.  
+Sauvegarde via **joblib**.
+
+---
+
+## Tests
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
 
 ```bash
-pytest --cov=app
+uv run pytest --maxfail=1 --disable-warnings -q --cov=. --cov-report=html
 ```
+
+Rapport HTML complet dans `/htmlcov`.
 
 ---
 
-## ⚡️ Intégration Continue (CI)
+## ⚡️ Intégration Continue (CI/CD)
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
 
-Un pipeline CI est configuré avec **GitHub Actions** :
-
-- Exécute les tests à chaque `push` ou `pull request` vers `main` ou `dev`.  
-- Génère un rapport de couverture.  
-- Prépare le terrain pour le déploiement automatique sur Hugging Face Spaces.
-
-Badge CI (à compléter une fois le workflow actif) :
+Pipeline **GitHub Actions** :
+- Tests à chaque push ou PR.  
+- Rapport de couverture.  
+- Déploiement automatique sur **Hugging Face Spaces**.
 
 ![CI](https://github.com/RandomFab/FUTURISYS/actions/workflows/ci.yml/badge.svg)
 
----
-
-## 🧱 Étapes du projet
-
-| Étape | Description | Statut |
-|:------|:-------------|:--------|
-| 1 | Mise en place du dépôt Git et structure du projet | ✅ |
-| 2 | Configuration CI/CD (GitHub Actions, HF Spaces) | ✅ |
-| 3 | Création de l’API FastAPI exposant le modèle | ✅ |
-| 4 | Intégration d’une base PostgreSQL (traçabilité des prédictions) | 🔜 |
-| 5 | Suite de tests unitaires et fonctionnels | 🔜 |
-| 6 | Documentation complète et présentation finale | 🔜 |
+Secrets configurés via GitHub.
 
 ---
 
-## 🔐 Gestion des secrets (*à compléter*)
+## Base de données et traçabilité
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
 
-- [X] Ajouter les variables d’environnement sensibles (ex : URL de base de données, clés API).  
-- [X] Configurer le stockage sécurisé sur GitHub (`Settings > Secrets and variables > Actions`).
+Intégration PostgreSQL pour tracer les **inputs** et **outputs** du modèle.
 
----
-
-## 📘 Ressources & Documentation
-
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)  
-- [uv Documentation](https://docs.astral.sh/uv/)  
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)  
-- [pytest Documentation](https://docs.pytest.org/en/stable/)  
-- [Hugging Face Spaces](https://huggingface.co/spaces)
+![Schema_DB](images/Schema_DB.png)
 
 ---
 
-## Intégration d ela BDD 
-images/Schema_DB.png
+## 🧩 Technologies utilisées
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
 
-## 👤 Auteur
+| Technologie | Usage |
+|--------------|-------|
+| Python 3.13 | Langage principal |
+| FastAPI | API |
+| uv | Dépendances |
+| scikit-learn / imbalanced-learn | ML |
+| SQLAlchemy / psycopg2 | ORM / PostgreSQL |
+| pytest / pytest-cov | Tests |
+| Docker | Conteneurisation |
+| GitHub Actions | CI/CD |
+| Hugging Face Spaces | Déploiement |
 
-**Nom :** RandomFab  
-**Rôle :** Étudiant en Data Science 
-**Contact :** https://github.com/RandomFab
+---
+
+## Roadmap
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
+
+- ✅ Création du dépôt
+- ✅ API FastAPI
+- ✅ PostgreSQL
+- ✅ CI/CD
+- ✅ Déploiement HF
+- ✅ Documentation finale
+
+---
+
+## Licence
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
+
+📄 Projet **pédagogique et commercial** — tous droits réservés.  
+Utilisable à des fins éducatives et démonstratives.  
+Toute réutilisation commerciale doit mentionner **RandomFab**.
+
+---
+
+## Contact
+<p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
+
+👤 **Auteur :** [RandomFab](https://github.com/RandomFab)  
+🌐 **Démo :** [randomfab-futurisys.hf.space](https://randomfab-futurisys.hf.space)
+
+<p align="right">(<a href="#readme-top">⬆ Retour en haut</a>)</p>
