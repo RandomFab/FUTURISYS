@@ -48,7 +48,7 @@ jobs:
       - name: Lancer les tests avec couverture
         run: uv run pytest --maxfail=1 --disable-warnings -q --cov=. --cov-report=html
       - name: Upload du rapport HTML comme artefact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: rapport-couverture-html
           path: htmlcov/
