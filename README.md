@@ -210,8 +210,13 @@ Secrets configurés via GitHub.
 
 ## Base de données et traçabilité
 <p align="right"><a href="#sommaire">⬆️ Revenir au sommaire</a></p>
+Données de bases importer depuis 3 csv (SIRH, evaluation annuelle, sondage), dans une base postgreSQL locale.  
 
 Intégration PostgreSQL pour tracer les **inputs** et **outputs** du modèle.
+
+Type de relations :  
+- employes - inputs : 1-N  
+- inputs - outputs : 1-1
 
 ![Schema_DB](images/Schema_DB.png)
 
