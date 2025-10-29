@@ -12,3 +12,7 @@ wheels/
 .env.dev
 .env.prod
 .env.test
+
+app.tests.test_prediction_employe_false.py
+app.tests.test_prediction_employe_NA.py
+app.tests.test_prediction_employe_true.py
