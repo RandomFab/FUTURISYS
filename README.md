@@ -1,3 +1,13 @@
+---
+title: Futurisys
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_file: Dockerfile
+pinned: false
+---
+
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
