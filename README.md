@@ -15,7 +15,7 @@
     <img src="images/LOGO OPENCLASSROOMS.jpg" alt="Logo" width="200">
   </a>
 
-  <h2 align="center">🚀 FUTURISYS — Déploiement d’un modèle de Machine Learning</h2>
+  <h2 align="center">🚀 FUTURISYS — Déploiement d’un modèle de Machine Learning V2.1.0</h2>
 
   <p align="center">
     Projet pédagogique et pré-commercial de déploiement d’un modèle de Machine Learning via FastAPI et Docker.<br/>
