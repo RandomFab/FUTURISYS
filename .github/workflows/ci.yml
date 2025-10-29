@@ -13,14 +13,21 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  
   # This workflow contains a single job called "build"
   test:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     env:
       ENV: 'test' #FBL : ici je précise à GIT ACTIONS d'utiliser l'environnement 'test' et non dev par défaut
+      DB_USER: ${{ secrets.DB_USER }}
+      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+      DB_HOST: ${{ secrets.DB_HOST }}
+      DB_PORT: ${{ secrets.DB_PORT }}
+      DB_NAME: ${{ secrets.DB_NAME }}
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -38,8 +45,13 @@ jobs:
           pip install uv
           uv sync --frozen
 
-      - name: Lancer les tests
-        run: uv run pytest --maxfail=1 --disable-warnings -q
+      - name: Lancer les tests avec couverture
+        run: uv run pytest --maxfail=1 --disable-warnings -q --cov=. --cov-report=html
+      - name: Upload du rapport HTML comme artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rapport-couverture-html
+          path: htmlcov/
 
   deploiement:
     needs: test
@@ -53,7 +65,13 @@ jobs:
 
       - name: déploiement sur HuggingFace
         env: 
-          HF_TOKEN : ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          ENV: 'prod'
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_NAME: ${{ secrets.DB_NAME }}
         run: |
           pip install huggingface_hub
           echo "Connexion à Hugging Face..."

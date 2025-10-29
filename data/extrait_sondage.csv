@@ -1,0 +1,1471 @@
+a_quitte_l_entreprise,nombre_participation_pee,nb_formations_suivies,nombre_employee_sous_responsabilite,code_sondage,distance_domicile_travail,niveau_education,domaine_etude,ayant_enfants,frequence_deplacement,annees_depuis_la_derniere_promotion,annes_sous_responsable_actuel
+Oui,0,0,1,000001,1,2,Infra & Cloud,Y,Occasionnel,0,5
+Non,1,3,1,000002,8,1,Infra & Cloud,Y,Frequent,1,7
+Oui,0,3,1,000004,2,2,Autre,Y,Occasionnel,0,0
+Non,0,3,1,000005,3,4,Infra & Cloud,Y,Frequent,3,0
+Non,1,3,1,000007,2,1,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,2,1,000008,2,2,Infra & Cloud,Y,Frequent,3,6
+Non,3,3,1,0000010,3,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,0000011,24,1,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,2,1,0000012,23,3,Infra & Cloud,Y,Frequent,1,8
+Non,2,3,1,0000013,27,3,Transformation Digitale,Y,Occasionnel,7,7
+Non,1,5,1,0000014,16,3,Transformation Digitale,Y,Occasionnel,0,3
+Non,0,3,1,0000015,15,2,Infra & Cloud,Y,Occasionnel,0,8
+Non,1,1,1,0000016,26,1,Infra & Cloud,Y,Occasionnel,4,3
+Non,1,2,1,0000018,19,2,Transformation Digitale,Y,Occasionnel,1,2
+Oui,0,4,1,0000019,24,3,Infra & Cloud,Y,Occasionnel,0,3
+Non,1,1,1,0000020,21,4,Infra & Cloud,Y,Occasionnel,8,8
+Non,2,5,1,0000021,5,2,Infra & Cloud,Y,Occasionnel,0,5
+Non,2,2,1,0000022,16,2,Transformation Digitale,Y,Aucun,0,0
+Non,0,3,1,0000023,2,4,Infra & Cloud,Y,Occasionnel,3,7
+Non,0,3,1,0000024,2,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,5,1,0000026,11,2,Autre,Y,Aucun,1,3
+Oui,0,4,1,0000027,9,4,Infra & Cloud,Y,Occasionnel,0,3
+Non,0,4,1,0000028,7,4,Infra & Cloud,Y,Occasionnel,2,11
+Non,0,6,1,0000030,15,2,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,2,1,0000031,6,1,Transformation Digitale,Y,Occasionnel,1,3
+Non,1,3,1,0000032,5,3,Autre,Y,Occasionnel,4,8
+Oui,0,5,1,0000033,16,1,Infra & Cloud,Y,Frequent,6,7
+Non,1,2,1,0000035,8,4,Marketing,Y,Occasionnel,4,2
+Non,1,4,1,0000036,7,4,Transformation Digitale,Y,Occasionnel,5,17
+Non,0,2,1,0000038,2,4,Marketing,Y,Occasionnel,2,1
+Non,0,3,1,0000039,2,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,5,1,0000040,10,4,Autre,Y,Occasionnel,1,3
+Non,0,5,1,0000041,9,2,Transformation Digitale,Y,Occasionnel,1,8
+Oui,1,6,1,0000042,5,3,Entrepreunariat,Y,Occasionnel,0,0
+Oui,1,2,1,0000045,1,3,Transformation Digitale,Y,Occasionnel,2,0
+Non,2,3,1,0000046,2,2,Transformation Digitale,Y,Occasionnel,1,4
+Oui,0,2,1,0000047,3,2,Marketing,Y,Occasionnel,0,2
+Non,0,3,1,0000049,2,3,Marketing,Y,Occasionnel,2,2
+Non,1,3,1,0000051,5,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,3,1,0000052,1,3,Infra & Cloud,Y,Frequent,1,3
+Non,1,3,1,0000053,4,2,Autre,Y,Occasionnel,0,0
+Non,1,6,1,0000054,2,4,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,2,1,0000055,25,3,Infra & Cloud,Y,Occasionnel,0,1
+Non,0,0,1,0000056,8,3,Infra & Cloud,Y,Frequent,1,7
+Non,0,2,1,0000057,1,2,Transformation Digitale,Y,Frequent,3,7
+Oui,0,0,1,0000058,12,3,Entrepreunariat,Y,Occasionnel,15,8
+Non,0,2,1,0000060,23,4,Marketing,Y,Aucun,8,7
+Non,0,1,1,0000061,19,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,4,1,0000062,5,4,Marketing,Y,Frequent,0,8
+Non,0,2,1,0000063,8,1,Infra & Cloud,Y,Occasionnel,0,1
+Oui,0,2,1,0000064,1,2,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,3,1,0000065,5,4,Entrepreunariat,Y,Occasionnel,2,2
+Non,1,2,1,0000068,1,5,Marketing,Y,Occasionnel,1,3
+Non,1,3,1,0000070,11,2,Transformation Digitale,Y,Aucun,2,3
+Non,1,2,1,0000072,23,3,Marketing,Y,Occasionnel,0,0
+Non,0,1,1,0000073,1,2,Infra & Cloud,Y,Frequent,8,12
+Non,1,3,1,0000074,18,5,Infra & Cloud,Y,Frequent,1,8
+Non,1,3,1,0000075,23,4,Transformation Digitale,Y,Occasionnel,2,2
+Non,1,3,1,0000076,7,4,Infra & Cloud,Y,Occasionnel,1,7
+Non,1,2,1,0000077,1,4,Infra & Cloud,Y,Occasionnel,0,7
+Non,1,3,1,0000078,1,3,Transformation Digitale,Y,Occasionnel,7,8
+Non,0,2,1,0000079,29,5,Infra & Cloud,Y,Frequent,9,9
+Non,1,2,1,0000080,7,2,Transformation Digitale,Y,Occasionnel,13,8
+Non,0,3,1,0000081,25,3,Infra & Cloud,Y,Occasionnel,7,9
+Non,3,2,1,0000083,8,3,Entrepreunariat,Y,Occasionnel,12,8
+Non,3,2,1,0000084,8,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,0,3,1,0000085,11,3,Infra & Cloud,Y,Frequent,0,3
+Non,1,2,1,0000086,7,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,2,1,0000088,1,3,Transformation Digitale,Y,Frequent,1,2
+Oui,1,0,1,0000090,9,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,2,1,0000091,1,1,Infra & Cloud,Y,Frequent,1,3
+Non,1,3,1,0000094,2,3,Infra & Cloud,Y,Occasionnel,0,4
+Non,0,4,1,0000095,1,4,Transformation Digitale,Y,Occasionnel,1,0
+Non,2,3,1,0000096,1,3,Infra & Cloud,Y,Occasionnel,0,9
+Non,0,3,1,0000097,6,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,2,1,0000098,8,4,Infra & Cloud,Y,Occasionnel,1,8
+Non,0,2,1,00000100,1,4,Marketing,Y,Occasionnel,2,8
+Non,0,3,1,00000101,6,4,Autre,Y,Occasionnel,0,0
+Non,0,3,1,00000102,7,4,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,2,1,00000103,5,2,Transformation Digitale,Y,Occasionnel,0,2
+Non,2,1,1,00000104,1,1,Infra & Cloud,Y,Occasionnel,3,0
+Non,0,3,1,00000105,1,3,Transformation Digitale,Y,Occasionnel,0,4
+Non,1,4,1,00000106,1,2,Infra & Cloud,Y,Occasionnel,1,0
+Non,3,3,1,00000107,6,3,Transformation Digitale,Y,Aucun,1,9
+Non,0,2,1,00000110,1,2,Transformation Digitale,Y,Occasionnel,1,3
+Non,0,3,1,00000112,7,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,3,1,00000113,2,1,Entrepreunariat,Y,Occasionnel,0,0
+Non,2,4,1,00000116,9,4,Infra & Cloud,Y,Occasionnel,0,3
+Non,3,3,1,00000117,2,3,Infra & Cloud,Y,Occasionnel,10,8
+Oui,0,3,1,00000118,9,2,Transformation Digitale,Y,Occasionnel,4,7
+Non,1,3,1,00000119,1,4,Infra & Cloud,Y,Frequent,11,11
+Non,0,2,1,00000120,21,4,Marketing,Y,Occasionnel,1,0
+Non,3,4,1,00000121,4,2,Transformation Digitale,Y,Occasionnel,2,7
+Non,1,5,1,00000124,1,3,Transformation Digitale,Y,Frequent,9,5
+Non,0,0,1,00000125,6,4,Transformation Digitale,Y,Occasionnel,5,7
+Non,1,5,1,00000126,2,4,Entrepreunariat,Y,Occasionnel,0,3
+Non,1,2,1,00000128,3,2,Autre,Y,Occasionnel,0,2
+Non,0,3,1,00000129,4,3,Transformation Digitale,Y,Aucun,0,4
+Non,0,1,1,00000131,10,4,Transformation Digitale,Y,Occasionnel,1,8
+Non,1,3,1,00000132,23,3,Transformation Digitale,Y,Aucun,1,2
+Oui,0,3,1,00000133,6,4,Ressources Humaines,Y,Occasionnel,0,2
+Non,0,2,1,00000134,1,1,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,5,1,00000137,6,3,Infra & Cloud,Y,Frequent,1,0
+Non,0,3,1,00000138,6,4,Autre,Y,Occasionnel,2,10
+Non,1,2,1,00000139,2,2,Infra & Cloud,Y,Aucun,0,0
+Non,1,3,1,00000140,2,4,Ressources Humaines,Y,Aucun,2,2
+Non,0,1,1,00000141,1,3,Infra & Cloud,Y,Frequent,0,7
+Oui,0,1,1,00000142,5,3,Marketing,Y,Occasionnel,0,3
+Non,2,2,1,00000143,7,1,Transformation Digitale,Y,Occasionnel,2,1
+Non,0,5,1,00000144,15,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,1,1,00000145,1,4,Transformation Digitale,Y,Frequent,12,8
+Oui,0,3,1,00000147,7,3,Infra & Cloud,Y,Frequent,0,6
+Non,0,3,1,00000148,26,3,Ressources Humaines,Y,Aucun,4,4
+Non,1,2,1,00000150,18,1,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,3,1,00000151,6,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,3,1,00000152,3,3,Infra & Cloud,Y,Occasionnel,1,3
+Non,0,6,1,00000153,5,3,Transformation Digitale,Y,Occasionnel,5,8
+Non,1,6,1,00000154,11,2,Entrepreunariat,Y,Frequent,2,8
+Non,1,2,1,00000155,3,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,3,1,00000158,26,2,Infra & Cloud,Y,Frequent,4,12
+Non,3,2,1,00000159,23,3,Infra & Cloud,Y,Frequent,0,9
+Non,1,2,1,00000160,22,2,Marketing,Y,Aucun,0,7
+Oui,3,2,1,00000161,14,4,Infra & Cloud,Y,Occasionnel,4,3
+Non,0,5,1,00000162,6,3,Infra & Cloud,Y,Occasionnel,15,15
+Oui,0,3,1,00000163,6,4,Infra & Cloud,Y,Occasionnel,7,7
+Non,0,3,1,00000164,6,3,Autre,Y,Occasionnel,4,3
+Oui,1,3,1,00000165,23,4,Transformation Digitale,Y,Occasionnel,15,6
+Oui,0,2,1,00000167,22,1,Marketing,Y,Occasionnel,0,0
+Non,1,2,1,00000169,2,1,Entrepreunariat,Y,Occasionnel,2,1
+Non,0,2,1,00000170,20,4,Transformation Digitale,Y,Occasionnel,5,11
+Non,0,2,1,00000171,28,3,Transformation Digitale,Y,Frequent,1,2
+Non,0,3,1,00000174,12,3,Marketing,Y,Frequent,2,1
+Oui,1,2,1,00000175,20,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,1,2,1,00000176,9,1,Infra & Cloud,Y,Occasionnel,0,7
+Non,1,3,1,00000177,25,1,Infra & Cloud,Y,Occasionnel,5,7
+Non,2,0,1,00000178,6,2,Transformation Digitale,Y,Occasionnel,0,1
+Oui,0,2,1,00000179,8,4,Infra & Cloud,Y,Frequent,0,3
+Non,1,1,1,00000182,4,4,Infra & Cloud,Y,Occasionnel,5,9
+Non,0,3,1,00000183,28,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,2,1,00000184,9,3,Ressources Humaines,Y,Occasionnel,4,7
+Oui,0,2,1,00000190,9,3,Transformation Digitale,Y,Occasionnel,0,4
+Non,0,2,1,00000192,29,3,Transformation Digitale,Y,Occasionnel,0,3
+Non,0,2,1,00000193,3,5,Entrepreunariat,Y,Occasionnel,2,2
+Non,0,4,1,00000194,18,3,Infra & Cloud,Y,Occasionnel,0,4
+Non,3,2,1,00000195,9,2,Transformation Digitale,Y,Frequent,0,7
+Non,1,3,1,00000197,5,3,Entrepreunariat,Y,Occasionnel,2,2
+Non,0,3,1,00000198,2,1,Transformation Digitale,Y,Occasionnel,1,2
+Non,1,2,1,00000199,10,3,Infra & Cloud,Y,Frequent,7,7
+Non,1,2,1,00000200,9,4,Infra & Cloud,Y,Occasionnel,1,4
+Non,0,3,1,00000201,3,1,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,00000202,26,3,Transformation Digitale,Y,Frequent,2,13
+Non,2,3,1,00000204,1,5,Marketing,Y,Occasionnel,0,6
+Non,1,3,1,00000205,6,2,Marketing,Y,Occasionnel,4,5
+Non,1,2,1,00000206,9,3,Infra & Cloud,Y,Occasionnel,0,15
+Non,0,2,1,00000207,8,3,Marketing,Y,Frequent,3,7
+Non,1,1,1,00000208,1,1,Entrepreunariat,Y,Aucun,0,9
+Non,0,2,1,00000211,7,4,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,3,1,00000214,9,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,00000215,4,4,Marketing,Y,Occasionnel,2,11
+Non,1,3,1,00000216,2,4,Marketing,Y,Frequent,1,2
+Non,2,6,1,00000217,19,1,Transformation Digitale,Y,Occasionnel,2,2
+Non,1,1,1,00000218,9,3,Transformation Digitale,Y,Aucun,2,2
+Non,1,2,1,00000221,21,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,2,1,00000223,24,2,Infra & Cloud,Y,Occasionnel,1,4
+Non,1,2,1,00000224,3,3,Transformation Digitale,Y,Aucun,0,1
+Non,0,5,1,00000226,11,3,Infra & Cloud,Y,Occasionnel,4,4
+Non,1,2,1,00000227,14,3,Infra & Cloud,Y,Occasionnel,1,8
+Non,1,2,1,00000228,5,3,Infra & Cloud,Y,Occasionnel,7,4
+Non,0,2,1,00000230,1,4,Infra & Cloud,Y,Occasionnel,0,7
+Non,0,2,1,00000231,6,5,Infra & Cloud,Y,Occasionnel,1,4
+Non,1,3,1,00000233,17,3,Entrepreunariat,Y,Occasionnel,1,1
+Oui,0,5,1,00000235,1,1,Entrepreunariat,Y,Frequent,0,0
+Non,0,3,1,00000238,3,2,Transformation Digitale,Y,Frequent,7,2
+Non,2,4,1,00000239,9,3,Transformation Digitale,Y,Aucun,6,10
+Non,1,3,1,00000240,4,2,Infra & Cloud,Y,Occasionnel,0,3
+Non,1,3,1,00000241,8,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,2,1,00000242,2,3,Infra & Cloud,Y,Occasionnel,0,2
+Oui,0,3,1,00000243,2,3,Infra & Cloud,Y,Occasionnel,1,0
+Non,3,2,1,00000244,1,2,Marketing,Y,Occasionnel,15,7
+Non,0,3,1,00000245,9,2,Infra & Cloud,Y,Occasionnel,2,1
+Non,1,0,1,00000246,12,1,Transformation Digitale,Y,Occasionnel,0,2
+Non,0,3,1,00000247,27,2,Transformation Digitale,Y,Occasionnel,1,2
+Oui,0,5,1,00000248,20,2,Marketing,Y,Occasionnel,0,2
+Non,1,2,1,00000249,1,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,2,3,1,00000250,13,2,Transformation Digitale,Y,Occasionnel,1,3
+Non,1,5,1,00000252,14,3,Transformation Digitale,Y,Occasionnel,1,6
+Non,1,2,1,00000253,4,1,Transformation Digitale,Y,Occasionnel,9,9
+Non,0,3,1,00000254,14,4,Transformation Digitale,Y,Occasionnel,2,15
+Non,0,2,1,00000256,2,1,Infra & Cloud,Y,Frequent,1,9
+Non,0,6,1,00000258,3,3,Transformation Digitale,Y,Occasionnel,1,0
+Non,1,5,1,00000259,1,4,Infra & Cloud,Y,Occasionnel,11,9
+Non,0,2,1,00000260,9,3,Transformation Digitale,Y,Occasionnel,0,3
+Oui,0,1,1,00000261,23,2,Infra & Cloud,Y,Occasionnel,0,1
+Non,3,3,1,00000262,7,3,Transformation Digitale,Y,Aucun,2,2
+Non,1,1,1,00000264,2,2,Transformation Digitale,Y,Aucun,11,8
+Non,1,3,1,00000267,21,3,Infra & Cloud,Y,Occasionnel,1,7
+Non,0,5,1,00000269,2,3,Transformation Digitale,Y,Frequent,1,2
+Non,1,5,1,00000270,21,2,Transformation Digitale,Y,Aucun,0,2
+Non,0,3,1,00000271,2,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,3,1,00000273,29,3,Entrepreunariat,Y,Occasionnel,1,7
+Non,1,1,1,00000274,1,1,Entrepreunariat,Y,Frequent,2,0
+Non,2,0,1,00000275,18,4,Infra & Cloud,Y,Aucun,1,7
+Non,1,4,1,00000277,10,4,Transformation Digitale,Y,Frequent,2,0
+Non,1,2,1,00000281,19,2,Transformation Digitale,Y,Occasionnel,3,7
+Oui,0,2,1,00000282,29,1,Transformation Digitale,Y,Occasionnel,0,0
+Oui,3,3,1,00000283,27,3,Marketing,Y,Occasionnel,1,9
+Non,1,2,1,00000284,5,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,2,1,00000286,18,1,Transformation Digitale,Y,Frequent,1,7
+Non,1,5,1,00000287,9,5,Infra & Cloud,Y,Aucun,0,2
+Non,1,3,1,00000288,1,4,Transformation Digitale,Y,Occasionnel,0,3
+Oui,0,2,1,00000291,4,4,Transformation Digitale,Y,Occasionnel,9,8
+Non,0,2,1,00000292,1,1,Infra & Cloud,Y,Aucun,5,8
+Non,0,2,1,00000293,20,3,Infra & Cloud,Y,Frequent,0,7
+Non,2,5,1,00000296,8,4,Infra & Cloud,Y,Occasionnel,4,7
+Oui,0,5,1,00000297,3,3,Entrepreunariat,Y,Occasionnel,0,4
+Non,0,3,1,00000298,6,3,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,5,1,00000299,26,4,Marketing,Y,Frequent,0,1
+Oui,0,1,1,00000300,1,3,Entrepreunariat,Y,Occasionnel,1,5
+Non,0,2,1,00000302,6,3,Transformation Digitale,Y,Aucun,12,8
+Non,1,4,1,00000303,3,3,Marketing,Y,Occasionnel,0,5
+Non,0,3,1,00000304,5,2,Infra & Cloud,Y,Occasionnel,3,7
+Non,0,3,1,00000305,4,4,Transformation Digitale,Y,Occasionnel,1,1
+Non,3,1,1,00000306,11,3,Autre,Y,Frequent,0,7
+Non,2,6,1,00000307,3,3,Infra & Cloud,Y,Occasionnel,5,13
+Non,1,2,1,00000308,1,4,Transformation Digitale,Y,Aucun,1,4
+Non,1,6,1,00000309,3,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,2,1,00000311,4,4,Marketing,Y,Frequent,5,8
+Non,1,5,1,00000312,1,1,Transformation Digitale,Y,Frequent,4,1
+Non,0,3,1,00000314,1,3,Marketing,Y,Frequent,0,8
+Oui,0,3,1,00000315,18,1,Transformation Digitale,Y,Occasionnel,0,1
+Non,0,3,1,00000316,2,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,3,1,00000319,4,2,Entrepreunariat,Y,Occasionnel,11,15
+Non,0,2,1,00000321,6,2,Transformation Digitale,Y,Occasionnel,2,2
+Non,1,3,1,00000323,1,4,Transformation Digitale,Y,Occasionnel,0,6
+Oui,1,2,1,00000325,14,3,Transformation Digitale,Y,Occasionnel,0,4
+Non,1,3,1,00000327,16,3,Marketing,Y,Occasionnel,1,9
+Oui,0,3,1,00000328,2,2,Infra & Cloud,Y,Occasionnel,1,7
+Non,0,2,1,00000329,2,4,Infra & Cloud,Y,Aucun,15,12
+Non,1,5,1,00000330,4,2,Infra & Cloud,Y,Occasionnel,1,2
+Oui,0,2,1,00000331,1,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,3,1,1,00000332,1,4,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,2,1,00000333,26,4,Marketing,Y,Aucun,2,2
+Non,2,2,1,00000334,19,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,3,1,00000335,24,2,Entrepreunariat,Y,Occasionnel,4,7
+Non,1,2,1,00000336,1,3,Autre,Y,Occasionnel,1,7
+Non,1,3,1,00000337,3,4,Transformation Digitale,Y,Frequent,2,2
+Non,1,2,1,00000338,5,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,3,1,00000339,2,4,Infra & Cloud,Y,Occasionnel,5,9
+Non,1,2,1,00000340,1,2,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,1,1,00000341,7,4,Infra & Cloud,Y,Frequent,0,2
+Oui,2,5,1,00000342,10,3,Transformation Digitale,Y,Frequent,0,0
+Non,0,1,1,00000343,2,4,Entrepreunariat,Y,Frequent,11,8
+Non,0,1,1,00000346,15,3,Infra & Cloud,Y,Occasionnel,1,5
+Non,0,1,1,00000347,17,2,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,2,1,00000349,20,2,Marketing,Y,Occasionnel,0,2
+Non,2,3,1,00000350,1,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,4,1,00000351,2,3,Transformation Digitale,Y,Occasionnel,7,8
+Non,1,5,1,00000352,2,2,Transformation Digitale,Y,Occasionnel,3,9
+Non,0,0,1,00000353,1,3,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,2,1,00000355,29,2,Transformation Digitale,Y,Frequent,1,4
+Non,0,3,1,00000359,7,3,Infra & Cloud,Y,Frequent,0,3
+Non,1,0,1,00000361,2,2,Infra & Cloud,Y,Aucun,7,5
+Non,0,5,1,00000362,2,1,Entrepreunariat,Y,Occasionnel,0,4
+Non,1,2,1,00000363,2,3,Entrepreunariat,Y,Occasionnel,7,7
+Oui,0,5,1,00000364,2,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,2,1,00000366,2,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,00000367,23,3,Transformation Digitale,Y,Occasionnel,7,8
+Non,2,2,1,00000369,5,2,Infra & Cloud,Y,Aucun,1,5
+Non,0,2,1,00000372,20,2,Transformation Digitale,Y,Occasionnel,4,10
+Non,1,4,1,00000373,6,3,Infra & Cloud,Y,Occasionnel,10,11
+Non,0,2,1,00000374,1,3,Transformation Digitale,Y,Occasionnel,4,13
+Oui,1,2,1,00000376,29,4,Infra & Cloud,Y,Aucun,9,9
+Non,1,3,1,00000377,9,3,Transformation Digitale,Y,Occasionnel,0,4
+Non,1,5,1,00000378,6,4,Transformation Digitale,Y,Occasionnel,0,1
+Non,0,4,1,00000379,3,2,Transformation Digitale,Y,Occasionnel,1,0
+Non,2,2,1,00000380,1,4,Transformation Digitale,Y,Aucun,0,2
+Non,1,6,1,00000381,22,3,Infra & Cloud,Y,Occasionnel,6,2
+Non,1,3,1,00000382,7,2,Transformation Digitale,Y,Occasionnel,7,7
+Non,1,6,1,00000384,1,3,Infra & Cloud,Y,Frequent,1,4
+Non,2,4,1,00000385,4,1,Infra & Cloud,Y,Occasionnel,1,6
+Non,3,5,1,00000386,3,4,Transformation Digitale,Y,Occasionnel,1,3
+Non,0,3,1,00000387,1,1,Infra & Cloud,Y,Occasionnel,11,6
+Non,0,3,1,00000388,2,2,Infra & Cloud,Y,Frequent,0,9
+Non,1,4,1,00000389,20,2,Entrepreunariat,Y,Occasionnel,0,8
+Non,1,3,1,00000390,11,2,Transformation Digitale,Y,Frequent,3,3
+Non,0,3,1,00000391,1,3,Infra & Cloud,Y,Occasionnel,5,7
+Oui,1,0,1,00000392,24,3,Infra & Cloud,Y,Frequent,0,0
+Non,1,2,1,00000393,23,4,Infra & Cloud,Y,Occasionnel,1,2
+Oui,1,2,1,00000394,16,4,Transformation Digitale,Y,Occasionnel,0,2
+Non,0,3,1,00000395,8,2,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,4,1,00000396,10,4,Infra & Cloud,Y,Frequent,1,2
+Non,0,2,1,00000397,3,3,Entrepreunariat,Y,Occasionnel,7,7
+Non,1,5,1,00000399,5,3,Marketing,Y,Frequent,2,2
+Oui,0,0,1,00000401,4,4,Marketing,Y,Occasionnel,7,4
+Non,3,3,1,00000403,9,3,Transformation Digitale,Y,Frequent,1,2
+Non,1,2,1,00000404,26,3,Marketing,Y,Frequent,4,8
+Oui,0,2,1,00000405,3,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,3,1,00000406,16,3,Marketing,Y,Occasionnel,6,9
+Non,2,2,1,00000407,18,4,Infra & Cloud,Y,Frequent,0,0
+Non,1,3,1,00000408,2,3,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,2,1,00000410,2,4,Infra & Cloud,Y,Occasionnel,0,4
+Non,0,2,1,00000411,10,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,2,1,00000412,16,2,Transformation Digitale,Y,Occasionnel,0,7
+Non,1,3,1,00000416,7,3,Entrepreunariat,Y,Occasionnel,7,7
+Non,3,5,1,00000417,1,3,Transformation Digitale,Y,Occasionnel,3,7
+Non,1,3,1,00000419,24,4,Infra & Cloud,Y,Aucun,0,8
+Non,1,3,1,00000420,7,3,Infra & Cloud,Y,Occasionnel,4,8
+Non,1,2,1,00000421,25,2,Infra & Cloud,Y,Occasionnel,0,1
+Non,1,2,1,00000422,1,4,Infra & Cloud,Y,Aucun,1,2
+Non,1,4,1,00000423,5,4,Entrepreunariat,Y,Occasionnel,0,3
+Non,0,1,1,00000424,2,3,Ressources Humaines,Y,Occasionnel,1,0
+Non,1,2,1,00000425,7,3,Infra & Cloud,Y,Frequent,9,11
+Non,1,2,1,00000426,2,4,Infra & Cloud,Y,Occasionnel,2,2
+Non,2,2,1,00000428,5,4,Infra & Cloud,Y,Frequent,8,8
+Non,0,3,1,00000429,10,1,Transformation Digitale,Y,Occasionnel,11,10
+Non,0,5,1,00000430,10,4,Infra & Cloud,Y,Frequent,1,7
+Non,0,2,1,00000431,1,2,Entrepreunariat,Y,Occasionnel,0,7
+Oui,0,3,1,00000433,8,4,Transformation Digitale,Y,Occasionnel,7,7
+Non,0,2,1,00000434,5,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,2,1,00000436,8,2,Entrepreunariat,Y,Occasionnel,11,9
+Non,0,3,1,00000437,2,3,Infra & Cloud,Y,Occasionnel,0,4
+Non,3,3,1,00000438,7,3,Marketing,Y,Occasionnel,1,7
+Non,0,0,1,00000439,2,4,Transformation Digitale,Y,Occasionnel,0,7
+Oui,0,4,1,00000440,2,4,Transformation Digitale,Y,Occasionnel,2,2
+Non,2,2,1,00000441,28,2,Transformation Digitale,Y,Occasionnel,1,9
+Non,1,2,1,00000442,7,2,Infra & Cloud,Y,Frequent,8,9
+Non,1,2,1,00000444,7,2,Transformation Digitale,Y,Frequent,13,3
+Oui,0,3,1,00000445,3,2,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,6,1,00000446,10,3,Marketing,Y,Frequent,0,1
+Non,1,2,1,00000447,5,5,Infra & Cloud,Y,Occasionnel,1,1
+Non,1,3,1,00000448,10,4,Infra & Cloud,Y,Frequent,0,0
+Non,1,0,1,00000449,1,1,Marketing,Y,Aucun,1,4
+Non,0,4,1,00000450,20,4,Infra & Cloud,Y,Frequent,0,3
+Non,1,1,1,00000451,7,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,3,1,00000452,8,4,Autre,Y,Occasionnel,9,8
+Non,3,2,1,00000453,1,2,Transformation Digitale,Y,Occasionnel,0,2
+Oui,0,4,1,00000454,8,4,Autre,Y,Occasionnel,0,7
+Non,0,2,1,00000455,9,5,Autre,Y,Occasionnel,2,2
+Non,3,2,1,00000456,5,3,Marketing,Y,Occasionnel,1,2
+Non,1,3,1,00000458,8,4,Marketing,Y,Occasionnel,0,7
+Non,2,2,1,00000460,5,2,Transformation Digitale,Y,Occasionnel,0,4
+Non,1,3,1,00000461,15,2,Infra & Cloud,Y,Occasionnel,2,9
+Non,0,2,1,00000462,7,4,Transformation Digitale,Y,Occasionnel,4,10
+Non,2,2,1,00000463,10,1,Marketing,Y,Occasionnel,1,7
+Non,0,5,1,00000464,5,4,Entrepreunariat,Y,Occasionnel,0,13
+Non,2,2,1,00000465,26,1,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,3,1,00000466,6,3,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,3,1,00000467,4,1,Transformation Digitale,Y,Frequent,0,0
+Non,0,2,1,00000468,23,5,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,3,1,00000469,2,3,Infra & Cloud,Y,Aucun,0,2
+Non,1,5,1,00000470,2,1,Entrepreunariat,Y,Occasionnel,1,0
+Non,1,4,1,00000471,2,3,Transformation Digitale,Y,Occasionnel,0,7
+Non,1,3,1,00000473,29,1,Transformation Digitale,Y,Occasionnel,0,0
+Non,2,2,1,00000474,6,3,Transformation Digitale,Y,Occasionnel,6,7
+Non,1,2,1,00000475,25,2,Entrepreunariat,Y,Aucun,2,2
+Non,1,3,1,00000476,1,3,Infra & Cloud,Y,Occasionnel,7,7
+Non,0,6,1,00000477,2,4,Autre,Y,Occasionnel,0,0
+Oui,0,3,1,00000478,1,1,Entrepreunariat,Y,Frequent,1,2
+Non,0,6,1,00000479,1,5,Transformation Digitale,Y,Aucun,0,0
+Non,1,2,1,00000481,3,4,Transformation Digitale,Y,Frequent,1,12
+Non,0,2,1,00000482,1,4,Transformation Digitale,Y,Occasionnel,1,2
+Non,1,3,1,00000483,10,4,Infra & Cloud,Y,Occasionnel,1,7
+Non,0,3,1,00000484,9,2,Transformation Digitale,Y,Aucun,2,2
+Oui,0,2,1,00000485,5,3,Marketing,Y,Occasionnel,0,0
+Non,1,3,1,00000486,10,3,Transformation Digitale,Y,Occasionnel,0,3
+Non,0,2,1,00000487,7,4,Transformation Digitale,Y,Aucun,0,0
+Oui,0,5,1,00000488,4,3,Marketing,Y,Frequent,7,7
+Non,0,2,1,00000491,10,3,Entrepreunariat,Y,Occasionnel,1,3
+Oui,2,6,1,00000492,22,2,Marketing,Y,Occasionnel,1,0
+Non,0,5,1,00000493,9,4,Infra & Cloud,Y,Occasionnel,2,2
+Oui,0,0,1,00000494,12,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,4,1,00000495,23,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,5,1,00000496,9,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,2,1,00000497,1,2,Transformation Digitale,Y,Occasionnel,0,4
+Non,0,1,1,00000498,9,4,Infra & Cloud,Y,Occasionnel,0,7
+Non,0,2,1,00000499,7,3,Autre,Y,Occasionnel,0,0
+Non,1,2,1,00000500,14,2,Infra & Cloud,Y,Occasionnel,0,7
+Non,1,3,1,00000501,2,3,Infra & Cloud,Y,Occasionnel,2,2
+Oui,0,3,1,00000502,19,3,Marketing,Y,Aucun,0,4
+Non,0,2,1,00000505,2,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,2,1,00000507,10,4,Marketing,Y,Occasionnel,0,3
+Non,1,3,1,00000508,2,1,Entrepreunariat,Y,Occasionnel,0,0
+Oui,0,2,1,00000510,3,1,Entrepreunariat,Y,Frequent,0,4
+Non,1,1,1,00000511,11,3,Transformation Digitale,Y,Occasionnel,1,2
+Non,2,2,1,00000513,2,2,Transformation Digitale,Y,Occasionnel,9,0
+Oui,0,4,1,00000514,4,3,Entrepreunariat,Y,Frequent,0,0
+Non,1,2,1,00000515,14,3,Infra & Cloud,Y,Occasionnel,12,17
+Non,2,5,1,00000516,2,2,Marketing,Y,Occasionnel,1,3
+Non,1,5,1,00000517,1,4,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,2,1,00000518,10,4,Infra & Cloud,Y,Occasionnel,0,1
+Non,1,3,1,00000520,12,3,Infra & Cloud,Y,Occasionnel,3,9
+Non,1,3,1,00000521,2,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,4,1,00000522,5,2,Transformation Digitale,Y,Occasionnel,1,2
+Non,1,3,1,00000523,4,4,Marketing,Y,Aucun,1,2
+Non,1,5,1,00000524,7,2,Transformation Digitale,Y,Occasionnel,3,12
+Non,1,1,1,00000525,21,3,Transformation Digitale,Y,Frequent,1,2
+Non,0,3,1,00000526,8,4,Autre,Y,Occasionnel,0,2
+Non,0,3,1,00000527,4,2,Infra & Cloud,Y,Occasionnel,1,3
+Non,2,2,1,00000529,25,5,Transformation Digitale,Y,Aucun,10,7
+Non,1,3,1,00000530,1,2,Infra & Cloud,Y,Occasionnel,3,2
+Non,1,3,1,00000531,1,1,Infra & Cloud,Y,Frequent,1,6
+Non,3,0,1,00000532,6,3,Infra & Cloud,Y,Frequent,7,7
+Non,0,6,1,00000533,12,3,Entrepreunariat,Y,Occasionnel,4,4
+Non,1,2,1,00000534,1,3,Marketing,Y,Occasionnel,0,7
+Non,1,2,1,00000536,17,2,Transformation Digitale,Y,Occasionnel,1,8
+Oui,1,5,1,00000538,3,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,0,4,1,00000543,3,3,Transformation Digitale,Y,Occasionnel,0,4
+Non,2,3,1,00000544,10,2,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,2,1,00000546,4,2,Infra & Cloud,Y,Occasionnel,1,4
+Non,1,3,1,00000547,29,2,Infra & Cloud,Y,Frequent,0,2
+Non,0,2,1,00000548,2,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,5,1,00000549,7,3,Infra & Cloud,Y,Occasionnel,11,10
+Non,1,5,1,00000550,18,3,Transformation Digitale,Y,Occasionnel,0,8
+Non,3,4,1,00000551,28,4,Entrepreunariat,Y,Frequent,0,4
+Oui,0,4,1,00000554,1,1,Entrepreunariat,Y,Occasionnel,1,4
+Oui,1,3,1,00000555,6,2,Marketing,Y,Frequent,1,0
+Non,1,3,1,00000556,2,2,Infra & Cloud,Y,Frequent,0,0
+Non,0,2,1,00000558,2,4,Infra & Cloud,Y,Occasionnel,1,12
+Non,2,3,1,00000560,23,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,3,1,00000562,3,3,Infra & Cloud,Y,Aucun,1,4
+Non,0,2,1,00000564,3,4,Transformation Digitale,Y,Occasionnel,0,7
+Oui,0,2,1,00000565,25,5,Entrepreunariat,Y,Occasionnel,1,1
+Oui,0,3,1,00000566,2,2,Entrepreunariat,Y,Occasionnel,0,0
+Non,0,3,1,00000567,22,4,Autre,Y,Aucun,7,8
+Non,1,3,1,00000568,29,3,Marketing,Y,Occasionnel,0,0
+Non,1,2,1,00000569,29,4,Infra & Cloud,Y,Occasionnel,15,7
+Non,0,2,1,00000571,2,3,Transformation Digitale,Y,Aucun,6,7
+Non,0,5,1,00000573,28,3,Marketing,Y,Frequent,13,11
+Non,3,2,1,00000574,2,2,Transformation Digitale,Y,Occasionnel,0,4
+Non,0,2,1,00000575,2,3,Infra & Cloud,Y,Occasionnel,0,1
+Non,0,2,1,00000577,22,3,Infra & Cloud,Y,Occasionnel,4,3
+Non,0,3,1,00000578,8,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,3,1,00000579,2,4,Infra & Cloud,Y,Occasionnel,5,7
+Non,1,3,1,00000580,10,3,Marketing,Y,Occasionnel,1,2
+Non,1,6,1,00000581,9,1,Infra & Cloud,Y,Occasionnel,0,8
+Oui,0,2,1,00000582,15,1,Transformation Digitale,Y,Occasionnel,7,7
+Oui,3,2,1,00000584,10,1,Transformation Digitale,Y,Occasionnel,1,3
+Non,0,3,1,00000585,7,1,Marketing,Y,Occasionnel,1,2
+Non,0,2,1,00000586,16,3,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,2,1,00000587,20,3,Infra & Cloud,Y,Frequent,0,0
+Oui,3,2,1,00000590,23,3,Ressources Humaines,Y,Frequent,0,2
+Non,1,4,1,00000591,5,2,Autre,Y,Frequent,2,0
+Non,0,3,1,00000592,10,4,Transformation Digitale,Y,Aucun,9,7
+Oui,0,3,1,00000593,4,1,Entrepreunariat,Y,Frequent,1,2
+Non,1,2,1,00000595,2,5,Marketing,Y,Occasionnel,6,7
+Non,0,2,1,00000597,18,5,Infra & Cloud,Y,Occasionnel,7,7
+Non,0,3,1,00000599,10,2,Infra & Cloud,Y,Aucun,1,10
+Non,0,2,1,00000600,1,3,Marketing,Y,Occasionnel,6,9
+Non,0,3,1,00000601,6,3,Infra & Cloud,Y,Occasionnel,5,13
+Non,1,3,1,00000602,8,1,Infra & Cloud,Y,Frequent,0,7
+Non,0,2,1,00000604,2,1,Infra & Cloud,Y,Occasionnel,0,5
+Non,1,5,1,00000605,24,3,Transformation Digitale,Y,Occasionnel,5,8
+Non,1,3,1,00000606,2,3,Autre,Y,Occasionnel,3,7
+Oui,1,2,1,00000608,17,4,Infra & Cloud,Y,Frequent,1,0
+Non,2,2,1,00000611,19,3,Entrepreunariat,Y,Occasionnel,1,2
+Non,1,2,1,00000612,1,5,Transformation Digitale,Y,Occasionnel,0,5
+Non,1,3,1,00000613,7,3,Infra & Cloud,Y,Occasionnel,0,1
+Oui,0,3,1,00000614,5,3,Marketing,Y,Frequent,0,0
+Non,1,2,1,00000615,28,3,Autre,Y,Aucun,0,1
+Non,0,3,1,00000616,2,4,Autre,Y,Aucun,0,7
+Non,2,5,1,00000618,29,2,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,3,1,00000620,1,3,Transformation Digitale,Y,Occasionnel,0,3
+Non,0,3,1,00000621,21,4,Infra & Cloud,Y,Occasionnel,5,7
+Oui,0,3,1,00000622,24,3,Entrepreunariat,Y,Occasionnel,0,0
+Non,0,3,1,00000623,1,3,Entrepreunariat,Y,Occasionnel,1,2
+Non,0,3,1,00000624,18,1,Transformation Digitale,Y,Frequent,1,2
+Non,1,2,1,00000625,2,5,Infra & Cloud,Y,Occasionnel,11,8
+Non,1,6,1,00000626,9,4,Transformation Digitale,Y,Aucun,7,7
+Non,2,3,1,00000630,6,2,Entrepreunariat,Y,Occasionnel,6,9
+Oui,0,2,1,00000631,11,4,Autre,Y,Aucun,1,2
+Non,2,3,1,00000632,24,3,Transformation Digitale,Y,Frequent,2,1
+Non,1,4,1,00000634,10,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,00000635,1,4,Infra & Cloud,Y,Occasionnel,4,3
+Non,1,5,1,00000638,18,4,Infra & Cloud,Y,Occasionnel,0,9
+Non,2,3,1,00000639,23,3,Transformation Digitale,Y,Occasionnel,1,4
+Non,2,5,1,00000641,28,2,Marketing,Y,Occasionnel,1,4
+Non,1,2,1,00000643,17,2,Autre,Y,Occasionnel,0,0
+Non,1,2,1,00000644,3,3,Transformation Digitale,Y,Frequent,10,7
+Non,0,1,1,00000645,13,1,Transformation Digitale,Y,Occasionnel,0,6
+Oui,1,4,1,00000647,7,3,Infra & Cloud,Y,Frequent,1,2
+Oui,1,2,1,00000648,12,4,Infra & Cloud,Y,Frequent,0,0
+Non,1,3,1,00000649,1,2,Infra & Cloud,Y,Occasionnel,1,3
+Oui,0,2,1,00000650,13,4,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,3,1,00000652,25,2,Autre,Y,Occasionnel,0,2
+Non,2,4,1,00000653,6,4,Transformation Digitale,Y,Occasionnel,5,7
+Non,2,5,1,00000655,6,4,Transformation Digitale,Y,Occasionnel,0,3
+Non,1,3,1,00000656,2,3,Marketing,Y,Occasionnel,1,0
+Non,0,0,1,00000657,1,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,4,1,00000659,2,4,Infra & Cloud,Y,Occasionnel,2,2
+Non,1,3,1,00000661,6,4,Autre,Y,Occasionnel,0,0
+Non,0,3,1,00000662,1,1,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,3,1,00000663,9,5,Transformation Digitale,Y,Frequent,4,7
+Non,1,3,1,00000664,1,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,1,1,00000665,1,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,2,3,1,00000666,14,3,Entrepreunariat,Y,Occasionnel,0,6
+Oui,1,3,1,00000667,2,1,Marketing,Y,Occasionnel,0,2
+Non,0,2,1,00000669,22,1,Entrepreunariat,Y,Occasionnel,1,2
+Non,1,2,1,00000671,3,4,Autre,Y,Occasionnel,0,1
+Non,0,3,1,00000675,6,1,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,3,1,00000677,8,4,Marketing,Y,Occasionnel,1,2
+Non,1,2,1,00000679,9,4,Infra & Cloud,Y,Occasionnel,0,5
+Non,1,2,1,00000680,3,3,Transformation Digitale,Y,Frequent,0,0
+Non,0,2,1,00000682,1,1,Transformation Digitale,Y,Occasionnel,8,10
+Non,1,4,1,00000683,1,5,Infra & Cloud,Y,Occasionnel,8,8
+Oui,2,4,1,00000684,26,4,Infra & Cloud,Y,Frequent,0,0
+Non,1,2,1,00000686,6,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,2,1,00000689,3,3,Autre,Y,Occasionnel,7,8
+Non,1,5,1,00000690,3,2,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,3,1,00000691,6,4,Infra & Cloud,Y,Occasionnel,11,8
+Non,1,2,1,00000692,6,3,Infra & Cloud,Y,Frequent,4,7
+Non,1,1,1,00000698,19,4,Transformation Digitale,Y,Occasionnel,7,1
+Non,1,2,1,00000699,9,2,Transformation Digitale,Y,Occasionnel,0,2
+Non,0,0,1,00000700,3,4,Transformation Digitale,Y,Occasionnel,1,1
+Oui,0,5,1,00000701,10,1,Transformation Digitale,Y,Occasionnel,1,1
+Oui,0,3,1,00000702,3,3,Infra & Cloud,Y,Frequent,9,7
+Non,2,3,1,00000704,3,3,Infra & Cloud,Y,Aucun,0,0
+Non,1,3,1,00000705,4,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,4,1,00000707,8,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,2,1,00000709,7,4,Marketing,Y,Occasionnel,0,5
+Non,1,5,1,00000710,1,4,Infra & Cloud,Y,Frequent,2,8
+Non,0,3,1,00000712,2,1,Marketing,Y,Occasionnel,2,2
+Non,2,3,1,00000714,3,1,Transformation Digitale,Y,Frequent,0,4
+Non,0,2,1,00000715,10,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,3,3,1,00000716,28,1,Transformation Digitale,Y,Occasionnel,3,8
+Non,0,3,1,00000717,9,3,Transformation Digitale,Y,Occasionnel,7,7
+Oui,0,3,1,00000720,3,2,Infra & Cloud,Y,Occasionnel,2,0
+Non,0,4,1,00000721,2,4,Entrepreunariat,Y,Occasionnel,11,10
+Non,0,2,1,00000722,10,3,Marketing,Y,Occasionnel,0,8
+Oui,1,4,1,00000723,8,2,Entrepreunariat,Y,Frequent,1,3
+Non,0,4,1,00000724,1,4,Infra & Cloud,Y,Occasionnel,1,8
+Non,0,3,1,00000725,1,2,Infra & Cloud,Y,Occasionnel,0,7
+Non,0,6,1,00000727,3,2,Infra & Cloud,Y,Occasionnel,7,7
+Non,0,2,1,00000728,14,4,Marketing,Y,Occasionnel,1,7
+Non,1,2,1,00000729,5,4,Infra & Cloud,Y,Frequent,1,12
+Non,0,3,1,00000730,7,3,Infra & Cloud,Y,Occasionnel,1,3
+Non,3,2,1,00000731,10,4,Ressources Humaines,Y,Occasionnel,12,6
+Non,0,1,1,00000732,16,4,Marketing,Y,Occasionnel,2,2
+Non,2,4,1,00000733,10,2,Infra & Cloud,Y,Frequent,1,7
+Non,1,3,1,00000734,1,3,Ressources Humaines,Y,Occasionnel,2,10
+Non,1,2,1,00000738,8,4,Marketing,Y,Occasionnel,2,2
+Oui,0,4,1,00000741,1,2,Infra & Cloud,Y,Occasionnel,3,7
+Non,1,2,1,00000742,8,3,Infra & Cloud,Y,Aucun,0,5
+Non,0,4,1,00000743,1,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,5,1,00000744,24,3,Transformation Digitale,Y,Aucun,1,4
+Non,2,2,1,00000746,3,3,Transformation Digitale,Y,Frequent,11,13
+Non,1,2,1,00000747,27,5,Marketing,Y,Occasionnel,7,7
+Non,0,6,1,00000749,10,3,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,2,1,00000752,19,3,Transformation Digitale,Y,Frequent,2,2
+Non,1,5,1,00000754,15,3,Infra & Cloud,Y,Frequent,2,2
+Non,0,2,1,00000757,8,2,Transformation Digitale,Y,Occasionnel,4,3
+Non,1,2,1,00000758,9,1,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,3,1,00000760,3,3,Ressources Humaines,Y,Occasionnel,3,6
+Non,0,1,1,00000762,9,3,Transformation Digitale,Y,Occasionnel,1,1
+Non,0,2,1,00000763,2,1,Transformation Digitale,Y,Occasionnel,2,3
+Non,0,2,1,00000764,7,3,Transformation Digitale,Y,Occasionnel,0,7
+Non,2,2,1,00000766,10,3,Marketing,Y,Occasionnel,2,2
+Non,0,4,1,00000769,6,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,1,2,1,00000771,2,4,Infra & Cloud,Y,Aucun,0,0
+Non,2,2,1,00000772,24,4,Infra & Cloud,Y,Frequent,4,7
+Non,1,0,1,00000773,2,5,Transformation Digitale,Y,Occasionnel,0,1
+Non,1,3,1,00000775,8,5,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,3,1,00000776,3,4,Marketing,Y,Occasionnel,1,16
+Oui,0,2,1,00000780,1,4,Autre,Y,Occasionnel,7,8
+Non,0,5,1,00000781,26,1,Transformation Digitale,Y,Occasionnel,1,4
+Non,0,3,1,00000783,2,2,Entrepreunariat,Y,Occasionnel,3,1
+Non,0,3,1,00000784,10,1,Transformation Digitale,Y,Occasionnel,0,2
+Oui,0,2,1,00000785,27,2,Infra & Cloud,Y,Frequent,1,3
+Non,0,5,1,00000786,2,3,Autre,Y,Occasionnel,1,4
+Oui,1,2,1,00000787,2,3,Transformation Digitale,Y,Occasionnel,1,4
+Non,0,1,1,00000789,8,4,Infra & Cloud,Y,Aucun,0,9
+Non,1,3,1,00000791,19,4,Transformation Digitale,Y,Aucun,1,2
+Non,1,2,1,00000792,1,2,Infra & Cloud,Y,Frequent,2,0
+Non,1,3,1,00000793,27,3,Transformation Digitale,Y,Occasionnel,1,1
+Oui,0,2,1,00000796,8,3,Entrepreunariat,Y,Occasionnel,1,2
+Non,0,2,1,00000797,1,4,Infra & Cloud,Y,Occasionnel,1,3
+Non,2,4,1,00000799,19,4,Transformation Digitale,Y,Occasionnel,1,4
+Non,1,3,1,00000800,8,1,Marketing,Y,Frequent,1,1
+Non,2,3,1,00000802,10,1,Infra & Cloud,Y,Occasionnel,4,3
+Non,0,2,1,00000803,2,4,Infra & Cloud,Y,Frequent,4,12
+Non,0,3,1,00000804,2,4,Transformation Digitale,Y,Occasionnel,1,3
+Non,1,1,1,00000805,8,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,2,2,1,00000806,1,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,2,1,00000807,2,2,Transformation Digitale,Y,Frequent,3,7
+Non,1,1,1,00000808,8,2,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,4,1,00000809,8,3,Infra & Cloud,Y,Frequent,14,9
+Oui,2,2,1,00000811,6,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,3,4,1,00000812,9,3,Infra & Cloud,Y,Aucun,0,0
+Non,1,3,1,00000813,11,4,Infra & Cloud,Y,Occasionnel,1,4
+Non,0,3,1,00000815,2,3,Transformation Digitale,Y,Occasionnel,0,3
+Oui,1,1,1,00000816,1,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,3,1,00000817,7,3,Transformation Digitale,Y,Occasionnel,3,7
+Oui,0,3,1,00000819,16,3,Marketing,Y,Occasionnel,0,2
+Non,1,3,1,00000820,2,2,Autre,Y,Occasionnel,3,0
+Non,1,2,1,00000823,1,3,Autre,Y,Occasionnel,0,5
+Non,1,3,1,00000824,23,2,Infra & Cloud,Y,Occasionnel,0,7
+Oui,0,2,1,00000825,2,4,Infra & Cloud,Y,Occasionnel,13,8
+Non,0,0,1,00000826,1,4,Infra & Cloud,Y,Occasionnel,2,2
+Non,1,4,1,00000827,1,2,Infra & Cloud,Y,Occasionnel,0,2
+Oui,0,3,1,00000828,2,4,Transformation Digitale,Y,Occasionnel,2,1
+Non,1,2,1,00000829,13,3,Ressources Humaines,Y,Occasionnel,0,4
+Non,1,3,1,00000830,4,3,Infra & Cloud,Y,Occasionnel,6,8
+Non,0,6,1,00000832,16,4,Transformation Digitale,Y,Frequent,0,0
+Non,0,4,1,00000833,2,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,3,1,00000834,2,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,3,1,00000836,29,3,Infra & Cloud,Y,Occasionnel,7,8
+Non,1,3,1,00000837,12,3,Infra & Cloud,Y,Frequent,1,2
+Non,0,3,1,00000838,16,4,Infra & Cloud,Y,Frequent,1,3
+Oui,2,3,1,00000840,11,3,Marketing,Y,Occasionnel,7,7
+Oui,0,3,1,00000842,2,1,Transformation Digitale,Y,Occasionnel,7,3
+Non,1,3,1,00000843,14,2,Infra & Cloud,Y,Occasionnel,1,0
+Non,1,3,1,00000844,5,1,Entrepreunariat,Y,Occasionnel,0,8
+Non,0,3,1,00000845,7,3,Autre,Y,Occasionnel,1,6
+Non,0,2,1,00000846,2,4,Marketing,Y,Occasionnel,7,5
+Non,1,1,1,00000847,3,2,Ressources Humaines,Y,Occasionnel,0,2
+Oui,1,2,1,00000848,5,2,Transformation Digitale,Y,Frequent,1,7
+Non,3,6,1,00000850,3,3,Transformation Digitale,Y,Aucun,0,0
+Non,1,2,1,00000851,26,4,Marketing,Y,Occasionnel,4,17
+Non,0,2,1,00000852,4,3,Transformation Digitale,Y,Occasionnel,2,3
+Non,0,3,1,00000854,2,1,Transformation Digitale,Y,Occasionnel,0,1
+Non,1,5,1,00000855,1,3,Transformation Digitale,Y,Occasionnel,0,8
+Non,0,3,1,00000856,27,1,Transformation Digitale,Y,Occasionnel,1,1
+Non,1,1,1,00000857,1,2,Infra & Cloud,Y,Occasionnel,4,11
+Non,1,3,1,00000859,13,4,Infra & Cloud,Y,Occasionnel,0,3
+Non,1,3,1,00000861,5,4,Infra & Cloud,Y,Frequent,0,3
+Non,1,3,1,00000862,7,2,Marketing,Y,Occasionnel,0,4
+Non,1,2,1,00000864,9,3,Marketing,Y,Occasionnel,0,2
+Non,1,3,1,00000865,8,2,Transformation Digitale,Y,Occasionnel,1,3
+Non,0,3,1,00000867,25,4,Transformation Digitale,Y,Frequent,0,0
+Non,2,2,1,00000868,16,4,Marketing,Y,Occasionnel,0,0
+Non,1,6,1,00000869,8,2,Transformation Digitale,Y,Occasionnel,0,4
+Non,2,2,1,00000872,1,2,Infra & Cloud,Y,Occasionnel,2,2
+Non,1,2,1,00000874,8,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,2,1,00000875,2,1,Transformation Digitale,Y,Frequent,2,2
+Non,0,3,1,00000878,8,3,Infra & Cloud,Y,Occasionnel,0,3
+Non,0,3,1,00000879,3,1,Autre,Y,Occasionnel,0,3
+Non,1,2,1,00000880,9,3,Infra & Cloud,Y,Occasionnel,5,15
+Oui,1,3,1,00000881,25,4,Infra & Cloud,Y,Frequent,7,8
+Non,1,2,1,00000882,1,3,Infra & Cloud,Y,Aucun,0,2
+Non,0,1,1,00000885,4,1,Marketing,Y,Occasionnel,0,3
+Non,1,2,1,00000887,1,3,Entrepreunariat,Y,Occasionnel,0,2
+Non,0,2,1,00000888,4,1,Infra & Cloud,Y,Aucun,3,4
+Non,1,3,1,00000889,5,2,Infra & Cloud,Y,Frequent,5,3
+Non,1,3,1,00000893,9,3,Marketing,Y,Occasionnel,1,2
+Non,1,1,1,00000894,3,3,Infra & Cloud,Y,Occasionnel,1,3
+Non,1,2,1,00000895,11,4,Infra & Cloud,Y,Occasionnel,0,2
+Oui,3,3,1,00000896,1,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,3,1,00000897,8,3,Marketing,Y,Occasionnel,2,2
+Non,0,2,1,00000899,25,3,Entrepreunariat,Y,Occasionnel,4,8
+Non,1,3,1,00000900,21,2,Transformation Digitale,Y,Frequent,0,0
+Non,0,0,1,00000901,23,4,Infra & Cloud,Y,Occasionnel,3,8
+Non,1,2,1,00000902,1,3,Infra & Cloud,Y,Frequent,2,2
+Non,1,2,1,00000903,2,2,Marketing,Y,Occasionnel,7,7
+Non,0,2,1,00000904,19,2,Transformation Digitale,Y,Aucun,0,9
+Non,1,3,1,00000905,2,4,Infra & Cloud,Y,Aucun,14,7
+Non,2,2,1,00000909,2,3,Infra & Cloud,Y,Occasionnel,0,4
+Non,1,4,1,00000910,3,2,Ressources Humaines,Y,Occasionnel,0,3
+Oui,0,2,1,00000911,25,4,Infra & Cloud,Y,Occasionnel,0,1
+Non,3,5,1,00000912,7,1,Transformation Digitale,Y,Occasionnel,0,3
+Non,0,0,1,00000913,9,2,Infra & Cloud,Y,Occasionnel,7,1
+Non,0,3,1,00000916,5,4,Transformation Digitale,Y,Occasionnel,0,2
+Oui,1,3,1,00000918,2,1,Infra & Cloud,Y,Frequent,0,0
+Non,1,2,1,00000920,8,3,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,3,1,00000922,2,3,Transformation Digitale,Y,Occasionnel,0,2
+Oui,0,3,1,00000923,18,1,Autre,Y,Occasionnel,0,0
+Non,1,2,1,00000924,14,1,Infra & Cloud,Y,Occasionnel,4,11
+Non,0,3,1,00000925,2,4,Infra & Cloud,Y,Occasionnel,1,2
+Oui,1,3,1,00000926,3,1,Infra & Cloud,Y,Occasionnel,0,2
+Oui,1,1,1,00000927,2,4,Infra & Cloud,Y,Occasionnel,1,0
+Non,1,2,1,00000930,9,3,Transformation Digitale,Y,Occasionnel,2,2
+Oui,0,2,1,00000932,6,3,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,2,1,00000933,4,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,3,1,00000934,10,3,Infra & Cloud,Y,Occasionnel,1,0
+Non,0,6,1,00000936,14,2,Transformation Digitale,Y,Occasionnel,0,3
+Non,0,1,1,00000939,1,4,Autre,Y,Occasionnel,0,2
+Non,1,3,1,00000940,5,3,Entrepreunariat,Y,Occasionnel,0,4
+Non,0,2,1,00000941,7,4,Infra & Cloud,Y,Occasionnel,5,2
+Non,1,2,1,00000942,21,1,Infra & Cloud,Y,Occasionnel,0,7
+Non,1,3,1,00000944,8,2,Autre,Y,Occasionnel,1,7
+Non,2,2,1,00000945,20,4,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,00000947,20,2,Marketing,Y,Aucun,0,0
+Non,0,6,1,00000949,7,4,Autre,Y,Occasionnel,0,1
+Non,1,3,1,00000950,1,3,Entrepreunariat,Y,Occasionnel,5,11
+Non,0,3,1,00000951,1,3,Infra & Cloud,Y,Aucun,0,2
+Oui,3,2,1,00000952,19,2,Marketing,Y,Occasionnel,0,0
+Non,1,2,1,00000954,10,4,Marketing,Y,Occasionnel,0,0
+Non,0,2,1,00000956,1,3,Transformation Digitale,Y,Frequent,0,7
+Non,0,3,1,00000957,6,3,Transformation Digitale,Y,Occasionnel,2,17
+Non,0,6,1,00000958,2,4,Transformation Digitale,Y,Occasionnel,3,9
+Oui,0,3,1,00000959,21,3,Autre,Y,Occasionnel,0,0
+Oui,0,2,1,00000960,4,3,Entrepreunariat,Y,Occasionnel,0,0
+Non,2,2,1,00000961,12,3,Transformation Digitale,Y,Occasionnel,8,5
+Non,1,2,1,00000964,9,4,Transformation Digitale,Y,Frequent,0,0
+Non,1,2,1,00000966,3,4,Transformation Digitale,Y,Occasionnel,6,3
+Oui,1,6,1,00000967,3,1,Infra & Cloud,Y,Occasionnel,3,7
+Non,0,3,1,00000969,1,3,Infra & Cloud,Y,Occasionnel,1,4
+Oui,0,2,1,00000970,1,4,Infra & Cloud,Y,Occasionnel,11,7
+Non,0,5,1,00000972,4,2,Infra & Cloud,Y,Aucun,0,8
+Non,1,5,1,00000974,20,3,Entrepreunariat,Y,Frequent,0,2
+Non,0,3,1,00000975,18,3,Transformation Digitale,Y,Occasionnel,1,0
+Non,1,2,1,00000976,1,2,Infra & Cloud,Y,Occasionnel,7,8
+Oui,0,4,1,00000977,2,3,Entrepreunariat,Y,Occasionnel,0,0
+Non,1,3,1,00000981,2,2,Transformation Digitale,Y,Occasionnel,15,2
+Non,1,2,1,00000982,8,2,Autre,Y,Occasionnel,7,7
+Non,0,1,1,00000983,10,3,Entrepreunariat,Y,Aucun,1,3
+Non,1,2,1,00000984,3,4,Infra & Cloud,Y,Occasionnel,0,8
+Non,0,3,1,00000985,2,5,Infra & Cloud,Y,Occasionnel,0,7
+Oui,0,2,1,00000986,24,3,Infra & Cloud,Y,Aucun,0,0
+Non,0,3,1,00000987,16,4,Transformation Digitale,Y,Frequent,2,7
+Non,2,3,1,00000990,8,4,Entrepreunariat,Y,Aucun,0,7
+Oui,0,0,1,00000991,9,2,Transformation Digitale,Y,Aucun,1,2
+Non,0,2,1,00000992,17,3,Infra & Cloud,Y,Aucun,6,0
+Oui,0,5,1,00000994,10,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,4,1,00000995,13,1,Infra & Cloud,Y,Occasionnel,0,2
+Non,2,2,1,00000996,1,4,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,1,1,00000997,1,2,Transformation Digitale,Y,Occasionnel,1,3
+Non,1,2,1,00000998,1,4,Autre,Y,Frequent,1,2
+Non,1,2,1,00000999,9,3,Transformation Digitale,Y,Frequent,0,11
+Non,1,2,1,000001001,16,4,Entrepreunariat,Y,Occasionnel,2,2
+Non,1,2,1,000001002,23,2,Infra & Cloud,Y,Aucun,0,8
+Non,0,0,1,000001003,4,2,Infra & Cloud,Y,Occasionnel,0,7
+Oui,0,2,1,000001004,22,3,Infra & Cloud,Y,Occasionnel,0,1
+Non,1,2,1,000001005,24,3,Infra & Cloud,Y,Occasionnel,1,5
+Non,1,0,1,000001006,10,1,Transformation Digitale,Y,Frequent,0,2
+Non,1,3,1,000001007,7,2,Transformation Digitale,Y,Occasionnel,0,7
+Non,2,6,1,000001009,17,1,Transformation Digitale,Y,Occasionnel,3,2
+Oui,1,2,1,000001010,14,4,Autre,Y,Occasionnel,0,2
+Non,1,1,1,000001011,1,1,Infra & Cloud,Y,Frequent,0,3
+Non,0,2,1,000001012,5,2,Infra & Cloud,Y,Aucun,0,0
+Non,1,2,1,000001013,17,3,Entrepreunariat,Y,Occasionnel,0,8
+Non,1,3,1,000001014,25,4,Transformation Digitale,Y,Occasionnel,10,1
+Non,3,4,1,000001015,8,2,Infra & Cloud,Y,Occasionnel,1,7
+Oui,0,2,1,000001016,11,3,Transformation Digitale,Y,Occasionnel,0,0
+Oui,0,3,1,000001017,5,3,Transformation Digitale,Y,Frequent,1,2
+Non,0,2,1,000001018,2,2,Transformation Digitale,Y,Occasionnel,1,3
+Non,1,3,1,000001019,8,1,Infra & Cloud,Y,Occasionnel,1,1
+Non,0,0,1,000001022,6,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,3,1,000001024,4,4,Infra & Cloud,Y,Occasionnel,4,8
+Non,0,6,1,000001025,7,2,Transformation Digitale,Y,Occasionnel,2,1
+Non,1,3,1,000001026,1,1,Infra & Cloud,Y,Occasionnel,11,8
+Non,1,2,1,000001027,2,4,Infra & Cloud,Y,Occasionnel,2,2
+Non,1,4,1,000001028,10,3,Autre,Y,Occasionnel,1,2
+Non,0,3,1,000001029,5,2,Marketing,Y,Occasionnel,0,0
+Non,0,5,1,000001030,9,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,4,1,000001032,2,3,Infra & Cloud,Y,Occasionnel,4,3
+Oui,0,2,1,000001033,11,2,Transformation Digitale,Y,Occasionnel,0,0
+Non,2,3,1,000001034,18,4,Transformation Digitale,Y,Frequent,6,7
+Non,2,3,1,000001035,7,1,Infra & Cloud,Y,Aucun,5,10
+Non,0,1,1,000001036,3,4,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,6,1,000001037,29,2,Transformation Digitale,Y,Aucun,2,2
+Oui,1,3,1,000001038,2,1,Marketing,Y,Occasionnel,6,9
+Non,1,2,1,000001039,28,3,Transformation Digitale,Y,Occasionnel,11,11
+Non,1,3,1,000001040,1,3,Infra & Cloud,Y,Aucun,0,13
+Oui,0,1,1,000001042,16,4,Infra & Cloud,Y,Occasionnel,15,14
+Non,0,2,1,000001043,22,3,Transformation Digitale,Y,Frequent,2,8
+Non,0,2,1,000001044,8,1,Infra & Cloud,Y,Aucun,2,2
+Non,1,4,1,000001045,11,2,Infra & Cloud,Y,Occasionnel,1,1
+Non,0,2,1,000001046,29,4,Transformation Digitale,Y,Aucun,7,7
+Non,1,2,1,000001047,1,4,Marketing,Y,Occasionnel,0,9
+Non,1,1,1,000001048,1,2,Entrepreunariat,Y,Occasionnel,0,4
+Non,0,3,1,000001049,24,4,Transformation Digitale,Y,Occasionnel,0,4
+Non,1,2,1,000001050,2,3,Marketing,Y,Frequent,6,12
+Oui,1,3,1,000001052,15,3,Autre,Y,Occasionnel,0,0
+Oui,1,2,1,000001053,2,3,Infra & Cloud,Y,Frequent,1,2
+Non,1,2,1,000001055,10,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,5,1,000001056,10,1,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,000001060,3,4,Autre,Y,Frequent,2,2
+Non,1,2,1,000001061,2,4,Transformation Digitale,Y,Occasionnel,7,7
+Non,0,3,1,000001062,3,3,Autre,Y,Occasionnel,0,1
+Non,1,3,1,000001066,26,3,Marketing,Y,Occasionnel,7,5
+Non,2,5,1,000001068,1,1,Transformation Digitale,Y,Frequent,1,3
+Non,2,0,1,000001069,1,4,Transformation Digitale,Y,Occasionnel,2,2
+Non,1,4,1,000001070,2,4,Infra & Cloud,Y,Occasionnel,7,0
+Non,1,4,1,000001071,9,3,Transformation Digitale,Y,Frequent,0,3
+Non,0,2,1,000001073,12,5,Transformation Digitale,Y,Occasionnel,7,8
+Non,0,3,1,000001074,2,1,Transformation Digitale,Y,Aucun,6,2
+Non,1,5,1,000001076,25,3,Transformation Digitale,Y,Occasionnel,0,0
+Oui,0,3,1,000001077,9,3,Marketing,Y,Frequent,0,2
+Oui,0,6,1,000001079,10,3,Infra & Cloud,Y,Occasionnel,1,0
+Non,3,2,1,000001080,8,4,Infra & Cloud,Y,Occasionnel,1,7
+Oui,3,2,1,000001081,4,4,Infra & Cloud,Y,Occasionnel,2,7
+Oui,0,2,1,000001082,24,2,Entrepreunariat,Y,Aucun,1,9
+Non,2,2,1,000001083,1,2,Transformation Digitale,Y,Occasionnel,1,3
+Non,1,1,1,000001084,20,3,Autre,Y,Occasionnel,0,2
+Non,0,3,1,000001085,7,2,Entrepreunariat,Y,Occasionnel,0,8
+Non,1,4,1,000001088,17,1,Infra & Cloud,Y,Occasionnel,1,9
+Non,1,6,1,000001092,20,4,Entrepreunariat,Y,Occasionnel,11,1
+Non,3,4,1,000001094,8,5,Infra & Cloud,Y,Aucun,1,2
+Non,1,4,1,000001096,2,1,Infra & Cloud,Y,Frequent,1,2
+Non,0,4,1,000001097,10,3,Autre,Y,Occasionnel,1,7
+Oui,1,1,1,000001098,1,2,Transformation Digitale,Y,Occasionnel,3,6
+Non,1,2,1,000001099,5,3,Infra & Cloud,Y,Occasionnel,1,2
+Oui,0,2,1,000001100,4,3,Entrepreunariat,Y,Occasionnel,4,7
+Oui,0,4,1,000001101,29,4,Transformation Digitale,Y,Frequent,3,8
+Non,1,5,1,000001102,15,2,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,1,1,000001103,3,1,Infra & Cloud,Y,Frequent,0,4
+Non,3,5,1,000001105,10,4,Infra & Cloud,Y,Occasionnel,0,0
+Oui,1,3,1,000001106,4,1,Entrepreunariat,Y,Occasionnel,5,6
+Oui,1,0,1,000001107,21,3,Transformation Digitale,Y,Occasionnel,0,0
+Oui,0,0,1,000001108,25,3,Transformation Digitale,Y,Occasionnel,2,2
+Non,1,3,1,000001109,2,2,Transformation Digitale,Y,Occasionnel,13,7
+Oui,2,2,1,000001111,1,3,Transformation Digitale,Y,Frequent,0,0
+Oui,0,4,1,000001113,1,4,Autre,Y,Frequent,0,0
+Non,1,3,1,000001114,7,3,Infra & Cloud,Y,Frequent,0,2
+Non,3,2,1,000001115,3,4,Infra & Cloud,Y,Aucun,0,0
+Non,0,3,1,000001116,1,4,Transformation Digitale,Y,Aucun,2,1
+Non,1,2,1,000001117,9,4,Infra & Cloud,Y,Aucun,4,12
+Non,0,4,1,000001118,7,4,Infra & Cloud,Y,Occasionnel,4,0
+Non,2,2,1,000001119,10,4,Marketing,Y,Occasionnel,2,7
+Non,1,1,1,000001120,28,4,Infra & Cloud,Y,Occasionnel,1,7
+Non,3,3,1,000001121,3,3,Transformation Digitale,Y,Occasionnel,1,7
+Non,1,3,1,000001124,3,1,Marketing,Y,Occasionnel,4,9
+Non,0,2,1,000001125,2,2,Marketing,Y,Occasionnel,0,0
+Non,1,1,1,000001126,27,3,Infra & Cloud,Y,Frequent,0,1
+Oui,3,4,1,000001127,2,3,Infra & Cloud,Y,Frequent,11,5
+Non,0,2,1,000001128,14,3,Transformation Digitale,Y,Occasionnel,4,9
+Non,0,6,1,000001131,1,1,Entrepreunariat,Y,Occasionnel,2,2
+Non,0,2,1,000001132,9,3,Infra & Cloud,Y,Aucun,0,3
+Non,0,0,1,000001133,18,4,Infra & Cloud,Y,Aucun,0,9
+Non,1,4,1,000001135,20,3,Infra & Cloud,Y,Frequent,2,2
+Non,0,2,1,000001136,2,1,Infra & Cloud,Y,Occasionnel,0,4
+Non,1,3,1,000001137,11,2,Marketing,Y,Frequent,0,2
+Non,1,3,1,000001138,8,4,Entrepreunariat,Y,Occasionnel,2,3
+Non,0,3,1,000001140,2,2,Infra & Cloud,Y,Frequent,0,2
+Non,2,2,1,000001143,10,3,Infra & Cloud,Y,Frequent,1,1
+Non,0,3,1,000001148,29,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,000001150,8,1,Transformation Digitale,Y,Occasionnel,1,2
+Non,1,2,1,000001152,1,3,Ressources Humaines,Y,Occasionnel,5,0
+Non,1,2,1,000001154,6,3,Infra & Cloud,Y,Frequent,0,2
+Oui,0,0,1,000001156,8,1,Transformation Digitale,Y,Aucun,0,0
+Oui,0,3,1,000001157,9,4,Marketing,Y,Occasionnel,0,3
+Non,1,4,1,000001158,12,4,Infra & Cloud,Y,Occasionnel,0,0
+Oui,1,5,1,000001160,15,3,Transformation Digitale,Y,Frequent,2,2
+Non,2,2,1,000001161,25,2,Transformation Digitale,Y,Occasionnel,1,3
+Non,1,0,1,000001162,6,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,3,1,000001163,9,1,Infra & Cloud,Y,Occasionnel,1,3
+Non,0,2,1,000001164,8,4,Entrepreunariat,Y,Occasionnel,1,4
+Oui,1,3,1,000001165,23,1,Infra & Cloud,Y,Occasionnel,3,10
+Non,0,3,1,000001166,9,4,Transformation Digitale,Y,Frequent,2,13
+Oui,0,2,1,000001167,12,3,Infra & Cloud,Y,Frequent,13,14
+Non,0,3,1,000001171,4,4,Marketing,Y,Occasionnel,1,5
+Non,1,2,1,000001172,1,4,Transformation Digitale,Y,Occasionnel,1,7
+Non,0,2,1,000001173,24,3,Transformation Digitale,Y,Occasionnel,1,2
+Oui,0,4,1,000001175,12,1,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,2,1,000001177,3,4,Transformation Digitale,Y,Occasionnel,0,7
+Non,1,3,1,000001179,10,3,Marketing,Y,Occasionnel,1,4
+Non,1,3,1,000001180,26,2,Transformation Digitale,Y,Frequent,0,0
+Non,1,2,1,000001182,2,3,Infra & Cloud,Y,Occasionnel,6,4
+Non,0,3,1,000001184,1,3,Transformation Digitale,Y,Frequent,4,9
+Non,1,2,1,000001185,4,4,Autre,Y,Frequent,2,2
+Oui,0,2,1,000001188,9,3,Marketing,Y,Occasionnel,1,3
+Non,3,3,1,000001190,2,1,Infra & Cloud,Y,Aucun,0,0
+Non,1,2,1,000001191,4,4,Entrepreunariat,Y,Occasionnel,4,2
+Non,1,5,1,000001192,6,1,Transformation Digitale,Y,Occasionnel,0,8
+Non,0,4,1,000001193,9,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,2,1,000001195,7,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,2,1,000001196,1,3,Infra & Cloud,Y,Occasionnel,3,11
+Non,0,2,1,000001198,3,3,Infra & Cloud,Y,Occasionnel,1,2
+Oui,0,4,1,000001200,10,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,6,1,000001201,7,2,Transformation Digitale,Y,Occasionnel,4,7
+Non,1,2,1,000001202,15,1,Infra & Cloud,Y,Occasionnel,1,3
+Oui,1,5,1,000001203,3,4,Infra & Cloud,Y,Frequent,0,0
+Non,0,2,1,000001204,2,3,Marketing,Y,Occasionnel,15,9
+Non,0,3,1,000001206,17,3,Infra & Cloud,Y,Aucun,0,0
+Non,1,2,1,000001207,2,3,Ressources Humaines,Y,Occasionnel,1,4
+Oui,1,2,1,000001210,5,2,Infra & Cloud,Y,Aucun,0,0
+Non,3,3,1,000001211,29,4,Infra & Cloud,Y,Occasionnel,0,3
+Non,3,2,1,000001212,2,4,Transformation Digitale,Y,Frequent,0,0
+Non,1,3,1,000001215,2,3,Transformation Digitale,Y,Frequent,2,2
+Non,3,2,1,000001216,19,4,Transformation Digitale,Y,Occasionnel,3,3
+Non,1,2,1,000001217,15,2,Infra & Cloud,Y,Occasionnel,0,3
+Non,3,2,1,000001218,17,4,Infra & Cloud,Y,Occasionnel,1,7
+Oui,1,3,1,000001219,17,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,3,1,000001220,25,3,Transformation Digitale,Y,Frequent,0,1
+Non,1,4,1,000001221,6,4,Infra & Cloud,Y,Occasionnel,1,7
+Non,3,4,1,000001224,7,4,Infra & Cloud,Y,Occasionnel,8,9
+Non,0,3,1,000001225,29,4,Autre,Y,Occasionnel,13,17
+Non,0,2,1,000001226,21,3,Marketing,Y,Occasionnel,2,2
+Non,1,3,1,000001228,2,4,Entrepreunariat,Y,Occasionnel,1,4
+Non,1,3,1,000001231,2,5,Transformation Digitale,Y,Aucun,0,3
+Non,1,3,1,000001233,7,4,Marketing,Y,Occasionnel,1,9
+Non,1,2,1,000001234,13,3,Autre,Y,Frequent,2,2
+Non,0,2,1,000001235,2,2,Infra & Cloud,Y,Frequent,0,7
+Non,1,2,1,000001237,1,3,Entrepreunariat,Y,Occasionnel,7,7
+Non,1,5,1,000001238,9,3,Transformation Digitale,Y,Occasionnel,4,10
+Non,1,2,1,000001239,10,3,Entrepreunariat,Y,Occasionnel,1,3
+Non,0,4,1,000001240,10,4,Infra & Cloud,Y,Occasionnel,1,1
+Non,1,2,1,000001241,1,3,Transformation Digitale,Y,Occasionnel,5,7
+Non,0,6,1,000001242,26,5,Transformation Digitale,Y,Frequent,0,0
+Non,1,6,1,000001243,8,2,Marketing,Y,Aucun,4,12
+Non,2,3,1,000001244,14,3,Infra & Cloud,Y,Occasionnel,6,8
+Non,1,2,1,000001245,1,4,Infra & Cloud,Y,Frequent,1,4
+Non,1,5,1,000001246,2,1,Infra & Cloud,Y,Occasionnel,7,7
+Oui,0,2,1,000001248,10,3,Transformation Digitale,Y,Aucun,0,0
+Non,3,5,1,000001249,1,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,2,1,000001250,3,3,Infra & Cloud,Y,Occasionnel,0,9
+Non,0,2,1,000001251,11,2,Transformation Digitale,Y,Occasionnel,0,1
+Non,0,2,1,000001252,24,3,Transformation Digitale,Y,Occasionnel,1,8
+Non,0,2,1,000001254,3,3,Infra & Cloud,Y,Occasionnel,0,5
+Non,1,2,1,000001255,3,3,Infra & Cloud,Y,Occasionnel,0,7
+Non,1,2,1,000001256,4,2,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,2,1,000001257,3,3,Entrepreunariat,Y,Frequent,0,7
+Non,0,4,1,000001258,2,2,Entrepreunariat,Y,Occasionnel,0,0
+Non,3,2,1,000001259,4,2,Infra & Cloud,Y,Occasionnel,0,3
+Non,2,2,1,000001260,7,3,Infra & Cloud,Y,Occasionnel,1,0
+Non,0,3,1,000001263,1,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,2,2,1,000001264,1,3,Infra & Cloud,Y,Occasionnel,1,7
+Non,0,5,1,000001265,20,3,Entrepreunariat,Y,Occasionnel,0,0
+Non,1,5,1,000001267,5,3,Marketing,Y,Occasionnel,3,10
+Non,2,3,1,000001268,10,5,Marketing,Y,Occasionnel,0,8
+Non,0,2,1,000001269,25,3,Infra & Cloud,Y,Occasionnel,0,1
+Non,1,2,1,000001270,1,2,Infra & Cloud,Y,Occasionnel,0,1
+Oui,0,4,1,000001273,24,1,Infra & Cloud,Y,Frequent,1,0
+Non,0,2,1,000001275,4,2,Infra & Cloud,Y,Occasionnel,2,2
+Oui,0,2,1,000001277,2,3,Marketing,Y,Occasionnel,1,11
+Non,1,3,1,000001278,8,1,Transformation Digitale,Y,Aucun,15,0
+Oui,0,2,1,000001279,10,2,Infra & Cloud,Y,Frequent,2,2
+Non,1,2,1,000001280,4,2,Marketing,Y,Occasionnel,0,8
+Non,0,3,1,000001281,2,3,Marketing,Y,Occasionnel,0,2
+Non,1,5,1,000001282,9,3,Infra & Cloud,Y,Frequent,11,10
+Non,0,6,1,000001283,18,4,Transformation Digitale,Y,Occasionnel,5,4
+Non,2,2,1,000001285,19,3,Transformation Digitale,Y,Frequent,5,10
+Non,0,2,1,000001286,1,4,Transformation Digitale,Y,Frequent,0,2
+Non,2,4,1,000001288,4,2,Infra & Cloud,Y,Occasionnel,14,13
+Non,2,5,1,000001289,11,3,Infra & Cloud,Y,Frequent,1,8
+Non,0,3,1,000001291,6,1,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,2,1,000001292,7,4,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,3,1,000001293,4,4,Marketing,Y,Occasionnel,15,17
+Non,0,2,1,000001294,2,4,Infra & Cloud,Y,Occasionnel,5,12
+Oui,1,2,1,000001295,15,3,Transformation Digitale,Y,Occasionnel,0,5
+Non,1,2,1,000001296,2,3,Infra & Cloud,Y,Frequent,2,2
+Non,0,6,1,000001297,6,2,Transformation Digitale,Y,Frequent,7,7
+Non,0,3,1,000001298,9,2,Transformation Digitale,Y,Aucun,1,7
+Oui,2,2,1,000001299,7,3,Entrepreunariat,Y,Occasionnel,7,7
+Non,0,2,1,000001301,1,3,Entrepreunariat,Y,Occasionnel,1,2
+Non,0,3,1,000001303,1,3,Transformation Digitale,Y,Occasionnel,2,1
+Non,2,4,1,000001304,8,3,Transformation Digitale,Y,Occasionnel,0,8
+Non,0,4,1,000001306,25,3,Transformation Digitale,Y,Frequent,0,0
+Non,2,4,1,000001307,13,4,Transformation Digitale,Y,Occasionnel,15,2
+Non,2,3,1,000001308,23,4,Infra & Cloud,Y,Occasionnel,2,2
+Oui,1,3,1,000001309,7,2,Infra & Cloud,Y,Occasionnel,1,1
+Oui,0,2,1,000001310,23,3,Transformation Digitale,Y,Occasionnel,0,3
+Non,1,6,1,000001311,6,3,Entrepreunariat,Y,Occasionnel,6,7
+Non,0,0,1,000001312,10,4,Entrepreunariat,Y,Occasionnel,1,7
+Non,0,3,1,000001314,1,2,Infra & Cloud,Y,Occasionnel,5,7
+Non,3,6,1,000001315,1,3,Infra & Cloud,Y,Aucun,7,5
+Non,0,2,1,000001317,28,3,Infra & Cloud,Y,Occasionnel,1,2
+Oui,0,2,1,000001318,25,4,Marketing,Y,Occasionnel,1,0
+Oui,0,2,1,000001319,5,3,Infra & Cloud,Y,Occasionnel,7,7
+Non,2,2,1,000001321,17,4,Transformation Digitale,Y,Occasionnel,0,8
+Non,0,6,1,000001322,18,2,Infra & Cloud,Y,Occasionnel,1,7
+Non,1,5,1,000001324,2,4,Infra & Cloud,Y,Aucun,9,6
+Non,0,4,1,000001329,10,2,Transformation Digitale,Y,Aucun,11,9
+Oui,0,2,1,000001331,1,3,Infra & Cloud,Y,Frequent,2,2
+Oui,0,4,1,000001333,3,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,3,1,000001334,2,1,Infra & Cloud,Y,Aucun,2,10
+Non,1,5,1,000001336,2,2,Transformation Digitale,Y,Occasionnel,9,11
+Non,0,4,1,000001338,8,4,Infra & Cloud,Y,Occasionnel,7,7
+Non,1,0,1,000001340,16,2,Infra & Cloud,Y,Aucun,0,0
+Non,1,0,1,000001344,9,3,Infra & Cloud,Y,Occasionnel,1,6
+Non,0,4,1,000001346,2,3,Infra & Cloud,Y,Occasionnel,8,8
+Non,1,2,1,000001349,1,3,Marketing,Y,Frequent,1,7
+Non,0,3,1,000001350,4,4,Infra & Cloud,Y,Frequent,1,1
+Non,1,2,1,000001352,5,3,Infra & Cloud,Y,Occasionnel,0,10
+Non,1,3,1,000001355,2,2,Infra & Cloud,Y,Occasionnel,1,7
+Non,0,6,1,000001356,15,2,Transformation Digitale,Y,Occasionnel,9,6
+Non,3,6,1,000001358,19,1,Transformation Digitale,Y,Occasionnel,1,2
+Oui,0,0,1,000001360,7,4,Transformation Digitale,Y,Occasionnel,5,9
+Non,1,3,1,000001361,1,4,Infra & Cloud,Y,Occasionnel,0,3
+Non,1,2,1,000001362,7,3,Marketing,Y,Frequent,6,13
+Non,0,2,1,000001363,4,3,Infra & Cloud,Y,Occasionnel,0,8
+Non,1,4,1,000001364,11,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,1,1,000001367,11,2,Entrepreunariat,Y,Occasionnel,0,3
+Non,0,5,1,000001368,1,3,Infra & Cloud,Y,Aucun,0,0
+Non,1,0,1,000001369,1,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,3,1,000001371,2,1,Infra & Cloud,Y,Frequent,0,0
+Oui,0,2,1,000001372,13,4,Marketing,Y,Occasionnel,3,8
+Non,1,0,1,000001373,23,3,Infra & Cloud,Y,Occasionnel,15,9
+Non,3,2,1,000001374,26,1,Entrepreunariat,Y,Aucun,0,0
+Non,3,0,1,000001375,2,1,Transformation Digitale,Y,Occasionnel,11,8
+Non,2,1,1,000001377,29,3,Transformation Digitale,Y,Occasionnel,7,7
+Oui,0,3,1,000001379,2,3,Infra & Cloud,Y,Frequent,0,0
+Oui,1,0,1,000001380,18,4,Marketing,Y,Frequent,3,2
+Non,3,2,1,000001382,7,3,Infra & Cloud,Y,Frequent,0,3
+Non,0,2,1,000001383,2,4,Entrepreunariat,Y,Occasionnel,4,11
+Non,1,0,1,000001387,26,3,Infra & Cloud,Y,Occasionnel,0,4
+Oui,2,3,1,000001389,22,4,Transformation Digitale,Y,Occasionnel,6,7
+Non,2,2,1,000001390,21,4,Infra & Cloud,Y,Occasionnel,1,4
+Non,0,5,1,000001391,2,3,Marketing,Y,Frequent,3,2
+Non,2,4,1,000001392,22,3,Infra & Cloud,Y,Frequent,3,3
+Non,0,2,1,000001394,4,1,Infra & Cloud,Y,Occasionnel,1,3
+Non,0,2,1,000001395,5,1,Infra & Cloud,Y,Frequent,1,2
+Non,3,3,1,000001396,2,1,Marketing,Y,Occasionnel,1,2
+Non,1,2,1,000001397,25,2,Infra & Cloud,Y,Aucun,0,5
+Non,0,3,1,000001399,18,1,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,3,1,000001401,28,2,Transformation Digitale,Y,Frequent,0,2
+Non,0,3,1,000001402,6,3,Transformation Digitale,Y,Occasionnel,1,8
+Non,0,3,1,000001403,10,3,Marketing,Y,Occasionnel,4,4
+Oui,0,2,1,000001405,17,4,Infra & Cloud,Y,Occasionnel,7,7
+Non,0,2,1,000001407,2,1,Transformation Digitale,Y,Occasionnel,1,1
+Non,1,5,1,000001408,10,3,Ressources Humaines,Y,Occasionnel,0,9
+Non,0,2,1,000001409,8,4,Autre,Y,Occasionnel,0,4
+Non,0,6,1,000001411,11,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,0,2,1,000001412,18,2,Infra & Cloud,Y,Frequent,2,2
+Non,1,2,1,000001415,1,3,Entrepreunariat,Y,Occasionnel,0,2
+Non,0,2,1,000001417,7,3,Autre,Y,Occasionnel,0,7
+Non,0,3,1,000001419,17,3,Autre,Y,Occasionnel,0,9
+Oui,0,2,1,000001420,28,2,Infra & Cloud,Y,Frequent,1,3
+Oui,0,1,1,000001421,14,1,Autre,Y,Frequent,7,7
+Non,0,3,1,000001422,1,3,Transformation Digitale,Y,Occasionnel,12,7
+Non,1,3,1,000001423,1,3,Transformation Digitale,Y,Occasionnel,1,5
+Non,2,4,1,000001424,1,4,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,3,1,000001425,3,4,Marketing,Y,Occasionnel,0,1
+Oui,0,3,1,000001427,1,4,Infra & Cloud,Y,Frequent,0,0
+Non,2,3,1,000001428,7,4,Marketing,Y,Occasionnel,0,2
+Non,0,3,1,000001430,8,5,Infra & Cloud,Y,Occasionnel,1,0
+Non,2,2,1,000001431,1,4,Autre,Y,Frequent,1,3
+Oui,0,3,1,000001433,8,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,3,1,000001434,11,1,Infra & Cloud,Y,Occasionnel,1,4
+Non,0,2,1,000001435,4,4,Infra & Cloud,Y,Occasionnel,1,8
+Non,2,3,1,000001436,16,4,Marketing,Y,Occasionnel,0,2
+Non,1,2,1,000001438,1,3,Entrepreunariat,Y,Occasionnel,1,2
+Oui,0,2,1,000001439,9,2,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,2,1,000001440,5,2,Entrepreunariat,Y,Aucun,1,3
+Non,1,3,1,000001441,1,2,Infra & Cloud,Y,Occasionnel,1,0
+Non,2,2,1,000001443,2,4,Transformation Digitale,Y,Occasionnel,5,6
+Non,2,3,1,000001445,4,1,Transformation Digitale,Y,Occasionnel,0,3
+Non,1,3,1,000001446,7,5,Marketing,Y,Occasionnel,0,3
+Non,1,2,1,000001447,1,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,5,1,000001448,5,5,Transformation Digitale,Y,Occasionnel,0,3
+Non,2,2,1,000001449,9,4,Autre,Y,Aucun,0,7
+Non,1,5,1,000001453,8,2,Infra & Cloud,Y,Occasionnel,9,9
+Oui,1,1,1,000001457,9,3,Marketing,Y,Occasionnel,4,3
+Oui,0,2,1,000001458,2,3,Infra & Cloud,Y,Aucun,0,0
+Oui,0,2,1,000001459,1,5,Infra & Cloud,Y,Frequent,4,7
+Non,1,2,1,000001460,20,3,Transformation Digitale,Y,Occasionnel,0,7
+Non,0,3,1,000001461,8,2,Transformation Digitale,Y,Occasionnel,0,2
+Oui,1,2,1,000001464,2,3,Infra & Cloud,Y,Frequent,2,2
+Non,2,4,1,000001465,29,3,Entrepreunariat,Y,Occasionnel,1,2
+Non,3,3,1,000001466,7,3,Marketing,Y,Occasionnel,2,2
+Oui,0,0,1,000001467,9,4,Entrepreunariat,Y,Occasionnel,2,2
+Non,1,5,1,000001468,8,1,Transformation Digitale,Y,Aucun,4,8
+Non,0,4,1,000001469,5,3,Transformation Digitale,Y,Occasionnel,1,3
+Non,0,5,1,000001471,5,3,Infra & Cloud,Y,Aucun,0,3
+Non,0,2,1,000001472,2,3,Transformation Digitale,Y,Occasionnel,8,8
+Non,1,0,1,000001473,5,4,Entrepreunariat,Y,Occasionnel,1,2
+Non,1,3,1,000001474,2,3,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,3,1,000001475,20,3,Infra & Cloud,Y,Occasionnel,1,3
+Non,2,2,1,000001477,7,3,Transformation Digitale,Y,Frequent,0,3
+Non,0,2,1,000001478,3,3,Autre,Y,Occasionnel,3,12
+Non,2,2,1,000001479,16,1,Infra & Cloud,Y,Occasionnel,2,2
+Non,0,3,1,000001480,9,2,Transformation Digitale,Y,Frequent,5,8
+Non,1,4,1,000001481,1,5,Marketing,Y,Frequent,0,0
+Non,2,2,1,000001482,7,3,Entrepreunariat,Y,Aucun,0,0
+Non,1,2,1,000001483,1,2,Infra & Cloud,Y,Occasionnel,2,8
+Non,2,3,1,000001484,7,4,Infra & Cloud,Y,Occasionnel,0,7
+Non,2,3,1,000001485,15,3,Transformation Digitale,Y,Frequent,6,9
+Oui,1,3,1,000001486,1,3,Entrepreunariat,Y,Frequent,1,2
+Oui,0,4,1,000001487,13,3,Entrepreunariat,Y,Frequent,0,0
+Oui,0,2,1,000001489,24,4,Transformation Digitale,Y,Occasionnel,10,10
+Non,1,3,1,000001492,7,1,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,2,1,000001494,9,3,Transformation Digitale,Y,Frequent,0,0
+Non,1,2,1,000001495,13,2,Infra & Cloud,Y,Aucun,0,0
+Non,0,2,1,000001496,2,1,Transformation Digitale,Y,Frequent,2,2
+Non,2,3,1,000001497,19,3,Infra & Cloud,Y,Occasionnel,0,4
+Non,1,3,1,000001499,1,3,Infra & Cloud,Y,Occasionnel,1,3
+Non,0,2,1,000001501,4,4,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,5,1,000001502,4,4,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,4,1,000001503,14,3,Transformation Digitale,Y,Occasionnel,1,2
+Oui,0,2,1,000001504,2,2,Transformation Digitale,Y,Frequent,0,0
+Non,1,2,1,000001506,1,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,5,1,000001507,7,3,Infra & Cloud,Y,Frequent,1,3
+Non,1,3,1,000001509,3,2,Transformation Digitale,Y,Occasionnel,1,2
+Non,3,3,1,000001513,2,1,Infra & Cloud,Y,Frequent,0,2
+Non,2,2,1,000001514,29,1,Infra & Cloud,Y,Occasionnel,1,7
+Non,0,6,1,000001515,8,5,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,5,1,000001516,10,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,2,1,000001520,11,4,Transformation Digitale,Y,Frequent,1,12
+Oui,0,2,1,000001522,1,4,Entrepreunariat,Y,Occasionnel,0,7
+Non,1,1,1,000001523,28,3,Infra & Cloud,Y,Occasionnel,14,17
+Non,0,3,1,000001525,6,3,Infra & Cloud,Y,Occasionnel,2,2
+Non,1,2,1,000001527,3,3,Infra & Cloud,Y,Occasionnel,5,1
+Non,0,3,1,000001529,16,3,Infra & Cloud,Y,Occasionnel,3,3
+Non,0,2,1,000001533,20,1,Infra & Cloud,Y,Occasionnel,1,2
+Oui,0,3,1,000001534,9,4,Infra & Cloud,Y,Occasionnel,1,0
+Non,0,3,1,000001535,1,3,Entrepreunariat,Y,Occasionnel,8,6
+Oui,0,2,1,000001537,3,3,Infra & Cloud,Y,Frequent,7,7
+Non,0,2,1,000001539,22,5,Transformation Digitale,Y,Frequent,13,9
+Non,1,4,1,000001541,7,2,Entrepreunariat,Y,Occasionnel,5,7
+Non,1,3,1,000001542,2,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,2,1,000001543,13,3,Transformation Digitale,Y,Occasionnel,3,7
+Non,1,3,1,000001544,8,1,Autre,Y,Occasionnel,0,7
+Non,0,2,1,000001545,25,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,3,1,000001546,28,3,Entrepreunariat,Y,Occasionnel,0,3
+Non,1,3,1,000001547,2,3,Infra & Cloud,Y,Frequent,13,9
+Non,0,5,1,000001548,9,2,Transformation Digitale,Y,Occasionnel,7,1
+Non,1,3,1,000001549,28,4,Infra & Cloud,Y,Occasionnel,5,7
+Non,0,2,1,000001550,6,2,Transformation Digitale,Y,Occasionnel,7,7
+Non,3,3,1,000001551,21,2,Entrepreunariat,Y,Occasionnel,0,0
+Non,0,2,1,000001552,8,2,Infra & Cloud,Y,Aucun,2,2
+Non,3,4,1,000001553,1,4,Entrepreunariat,Y,Occasionnel,7,7
+Non,2,5,1,000001554,28,4,Infra & Cloud,Y,Occasionnel,4,2
+Non,1,2,1,000001555,5,2,Infra & Cloud,Y,Occasionnel,2,5
+Non,0,3,1,000001556,2,4,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,2,1,000001557,16,4,Infra & Cloud,Y,Occasionnel,7,7
+Non,2,2,1,000001558,9,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,6,1,000001560,8,4,Infra & Cloud,Y,Occasionnel,2,2
+Oui,1,4,1,000001562,1,3,Infra & Cloud,Y,Occasionnel,6,7
+Non,0,2,1,000001563,10,4,Ressources Humaines,Y,Frequent,1,2
+Non,0,3,1,000001564,1,3,Transformation Digitale,Y,Occasionnel,1,2
+Non,1,3,1,000001568,29,4,Entrepreunariat,Y,Occasionnel,1,3
+Oui,1,2,1,000001569,2,3,Infra & Cloud,Y,Occasionnel,0,0
+Oui,1,4,1,000001572,2,5,Entrepreunariat,Y,Occasionnel,1,9
+Oui,2,2,1,000001573,2,3,Transformation Digitale,Y,Occasionnel,1,4
+Non,1,3,1,000001574,1,4,Entrepreunariat,Y,Aucun,1,2
+Non,1,3,1,000001576,15,4,Autre,Y,Occasionnel,7,6
+Non,0,4,1,000001577,7,4,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,3,1,000001578,26,5,Marketing,Y,Occasionnel,2,13
+Non,1,3,1,000001580,1,4,Infra & Cloud,Y,Occasionnel,2,1
+Non,0,5,1,000001581,3,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,3,1,000001582,14,3,Infra & Cloud,Y,Occasionnel,7,7
+Non,0,5,1,000001583,16,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,5,1,000001585,1,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,3,1,000001586,3,1,Transformation Digitale,Y,Occasionnel,1,5
+Non,0,4,1,000001587,10,4,Transformation Digitale,Y,Occasionnel,0,4
+Non,1,3,1,000001588,6,3,Transformation Digitale,Y,Occasionnel,7,6
+Non,1,0,1,000001590,2,1,Infra & Cloud,Y,Frequent,1,3
+Non,1,2,1,000001591,9,3,Marketing,Y,Occasionnel,0,0
+Non,1,2,1,000001592,10,3,Entrepreunariat,Y,Occasionnel,2,2
+Non,1,3,1,000001594,6,4,Infra & Cloud,Y,Frequent,0,2
+Non,0,2,1,000001595,9,2,Autre,Y,Occasionnel,0,1
+Non,2,3,1,000001596,28,3,Infra & Cloud,Y,Occasionnel,6,8
+Non,1,3,1,000001597,10,4,Entrepreunariat,Y,Frequent,7,7
+Non,1,2,1,000001598,14,2,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,0,1,000001599,27,3,Entrepreunariat,Y,Occasionnel,0,2
+Non,1,5,1,000001601,7,2,Infra & Cloud,Y,Occasionnel,0,1
+Non,0,5,1,000001602,1,4,Infra & Cloud,Y,Occasionnel,0,12
+Oui,3,3,1,000001604,24,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,2,1,000001605,26,2,Autre,Y,Aucun,1,3
+Non,1,3,1,000001606,20,5,Transformation Digitale,Y,Frequent,12,13
+Non,2,3,1,000001607,5,4,Autre,Y,Occasionnel,0,2
+Non,1,4,1,000001608,7,3,Transformation Digitale,Y,Occasionnel,1,10
+Non,1,3,1,000001609,7,3,Transformation Digitale,Y,Occasionnel,1,1
+Non,0,3,1,000001611,5,5,Transformation Digitale,Y,Occasionnel,1,4
+Non,1,2,1,000001612,26,3,Marketing,Y,Aucun,4,5
+Non,0,3,1,000001613,2,4,Autre,Y,Frequent,0,3
+Non,2,2,1,000001614,12,4,Infra & Cloud,Y,Occasionnel,1,1
+Non,1,3,1,000001615,10,4,Infra & Cloud,Y,Frequent,7,2
+Non,1,3,1,000001617,25,4,Infra & Cloud,Y,Occasionnel,1,4
+Non,3,3,1,000001618,10,5,Transformation Digitale,Y,Occasionnel,7,7
+Non,2,3,1,000001619,19,3,Autre,Y,Occasionnel,0,7
+Non,0,2,1,000001621,18,5,Infra & Cloud,Y,Occasionnel,1,10
+Non,1,5,1,000001622,27,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,2,1,000001623,5,1,Transformation Digitale,Y,Occasionnel,2,2
+Oui,0,2,1,000001624,3,2,Transformation Digitale,Y,Frequent,0,0
+Non,1,2,1,000001625,26,4,Infra & Cloud,Y,Occasionnel,1,0
+Non,1,3,1,000001627,3,2,Transformation Digitale,Y,Occasionnel,0,7
+Non,2,2,1,000001628,15,3,Infra & Cloud,Y,Occasionnel,14,12
+Non,1,5,1,000001630,8,4,Infra & Cloud,Y,Aucun,2,9
+Non,3,2,1,000001631,19,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,2,1,000001633,4,3,Transformation Digitale,Y,Frequent,3,8
+Non,2,3,1,000001635,2,2,Autre,Y,Occasionnel,3,9
+Non,1,6,1,000001638,2,2,Transformation Digitale,Y,Occasionnel,0,2
+Oui,0,3,1,000001639,10,3,Transformation Digitale,Y,Occasionnel,6,0
+Non,1,2,1,000001640,10,3,Transformation Digitale,Y,Occasionnel,7,7
+Non,0,2,1,000001641,16,3,Infra & Cloud,Y,Occasionnel,3,3
+Non,0,3,1,000001642,1,5,Ressources Humaines,Y,Frequent,0,2
+Non,1,3,1,000001644,4,5,Transformation Digitale,Y,Frequent,2,2
+Oui,2,2,1,000001645,15,2,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,2,1,000001646,2,1,Entrepreunariat,Y,Frequent,1,3
+Non,0,0,1,000001647,8,3,Transformation Digitale,Y,Occasionnel,0,2
+Non,0,0,1,000001648,2,3,Transformation Digitale,Y,Frequent,1,2
+Oui,0,3,1,000001649,7,3,Infra & Cloud,Y,Occasionnel,0,3
+Non,0,2,1,000001650,10,3,Transformation Digitale,Y,Occasionnel,1,4
+Non,2,6,1,000001651,5,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,2,6,1,000001653,2,1,Infra & Cloud,Y,Frequent,0,7
+Non,0,3,1,000001654,12,3,Transformation Digitale,Y,Occasionnel,1,0
+Non,2,2,1,000001655,22,4,Autre,Y,Occasionnel,1,2
+Non,3,3,1,000001656,17,5,Infra & Cloud,Y,Occasionnel,1,11
+Non,0,3,1,000001657,2,3,Transformation Digitale,Y,Occasionnel,2,2
+Non,1,2,1,000001658,3,3,Infra & Cloud,Y,Occasionnel,7,9
+Non,0,4,1,000001659,7,3,Infra & Cloud,Y,Occasionnel,1,3
+Non,1,3,1,000001661,6,1,Infra & Cloud,Y,Occasionnel,2,12
+Non,0,6,1,000001662,1,4,Transformation Digitale,Y,Aucun,1,2
+Non,1,3,1,000001664,3,2,Infra & Cloud,Y,Occasionnel,0,4
+Non,1,6,1,000001665,22,5,Transformation Digitale,Y,Occasionnel,4,7
+Non,1,3,1,000001666,15,2,Infra & Cloud,Y,Occasionnel,6,11
+Oui,0,2,1,000001667,12,4,Autre,Y,Frequent,6,7
+Non,2,4,1,000001668,1,3,Infra & Cloud,Y,Frequent,2,9
+Non,1,3,1,000001669,5,3,Transformation Digitale,Y,Occasionnel,0,9
+Non,2,5,1,000001670,2,4,Transformation Digitale,Y,Occasionnel,0,4
+Non,2,4,1,000001671,2,3,Transformation Digitale,Y,Occasionnel,1,6
+Non,2,2,1,000001673,5,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,2,1,000001674,16,3,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,3,1,000001675,2,3,Transformation Digitale,Y,Frequent,3,3
+Non,3,2,1,000001676,2,4,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,2,1,000001677,1,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,2,1,000001678,23,2,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,3,1,000001680,9,1,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,2,1,000001681,16,3,Infra & Cloud,Y,Aucun,1,2
+Non,2,2,1,000001682,26,4,Infra & Cloud,Y,Occasionnel,0,2
+Non,3,2,1,000001683,1,3,Infra & Cloud,Y,Occasionnel,2,2
+Oui,0,2,1,000001684,8,1,Transformation Digitale,Y,Occasionnel,1,2
+Non,1,5,1,000001687,4,2,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,2,1,000001689,24,4,Transformation Digitale,Y,Occasionnel,1,2
+Oui,2,3,1,000001691,7,2,Transformation Digitale,Y,Frequent,7,7
+Oui,0,2,1,000001692,2,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,5,1,000001693,7,3,Transformation Digitale,Y,Aucun,5,7
+Non,1,1,1,000001694,22,3,Entrepreunariat,Y,Occasionnel,1,2
+Non,1,3,1,000001696,5,2,Transformation Digitale,Y,Occasionnel,4,13
+Non,1,2,1,000001697,1,4,Transformation Digitale,Y,Occasionnel,0,0
+Non,3,6,1,000001698,21,3,Transformation Digitale,Y,Occasionnel,2,13
+Non,2,2,1,000001700,1,4,Transformation Digitale,Y,Frequent,1,3
+Non,0,3,1,000001701,19,3,Infra & Cloud,Y,Occasionnel,8,7
+Oui,1,2,1,000001702,7,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,2,1,000001703,2,3,Infra & Cloud,Y,Occasionnel,6,7
+Non,0,2,1,000001704,2,4,Transformation Digitale,Y,Frequent,1,4
+Non,1,3,1,000001706,2,3,Transformation Digitale,Y,Occasionnel,8,8
+Non,1,1,1,000001707,9,3,Transformation Digitale,Y,Occasionnel,0,4
+Non,0,3,1,000001708,6,3,Marketing,Y,Occasionnel,8,7
+Non,1,2,1,000001709,9,4,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,2,1,000001710,2,4,Infra & Cloud,Y,Occasionnel,6,7
+Non,1,3,1,000001712,1,1,Infra & Cloud,Y,Aucun,14,4
+Oui,1,2,1,000001714,22,1,Ressources Humaines,Y,Occasionnel,0,0
+Oui,0,3,1,000001716,9,3,Infra & Cloud,Y,Frequent,14,10
+Non,3,3,1,000001718,17,4,Transformation Digitale,Y,Occasionnel,0,2
+Non,0,2,1,000001719,28,2,Entrepreunariat,Y,Occasionnel,8,6
+Non,1,3,1,000001720,10,3,Infra & Cloud,Y,Frequent,1,3
+Non,1,2,1,000001721,2,4,Infra & Cloud,Y,Occasionnel,0,3
+Non,1,4,1,000001722,4,3,Ressources Humaines,Y,Aucun,1,2
+Non,1,3,1,000001724,8,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,3,2,1,000001725,29,1,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,3,1,000001727,13,4,Infra & Cloud,Y,Occasionnel,0,9
+Non,1,3,1,000001728,27,4,Infra & Cloud,Y,Occasionnel,0,7
+Non,1,2,1,000001729,16,1,Infra & Cloud,Y,Occasionnel,0,8
+Non,1,3,1,000001731,2,4,Marketing,Y,Aucun,0,0
+Non,1,5,1,000001732,2,3,Infra & Cloud,Y,Occasionnel,0,3
+Oui,3,3,1,000001733,13,5,Marketing,Y,Occasionnel,2,2
+Oui,0,2,1,000001734,1,2,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,3,1,000001735,4,1,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,3,1,000001736,24,1,Entrepreunariat,Y,Frequent,1,4
+Non,1,2,1,000001737,1,3,Infra & Cloud,Y,Aucun,5,8
+Non,1,2,1,000001739,19,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,0,3,1,000001740,7,4,Transformation Digitale,Y,Occasionnel,12,8
+Non,2,2,1,000001744,4,3,Infra & Cloud,Y,Occasionnel,0,3
+Non,0,2,1,000001745,2,4,Entrepreunariat,Y,Frequent,0,7
+Non,1,2,1,000001746,10,3,Transformation Digitale,Y,Frequent,2,1
+Oui,1,0,1,000001747,8,3,Ressources Humaines,Y,Frequent,1,2
+Non,1,3,1,000001749,5,3,Entrepreunariat,Y,Occasionnel,0,2
+Non,0,5,1,000001751,8,3,Transformation Digitale,Y,Occasionnel,1,4
+Oui,0,3,1,000001752,9,3,Marketing,Y,Occasionnel,2,2
+Non,0,5,1,000001753,1,3,Infra & Cloud,Y,Frequent,0,2
+Non,1,2,1,000001754,15,2,Marketing,Y,Occasionnel,1,7
+Non,3,3,1,000001755,2,4,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,2,1,000001756,2,3,Marketing,Y,Aucun,1,7
+Non,0,1,1,000001757,11,4,Marketing,Y,Occasionnel,0,4
+Oui,0,2,1,000001758,16,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,4,1,000001760,2,2,Transformation Digitale,Y,Frequent,0,5
+Oui,3,2,1,000001761,16,4,Marketing,Y,Occasionnel,0,0
+Non,1,2,1,000001762,4,3,Entrepreunariat,Y,Occasionnel,0,0
+Non,1,3,1,000001763,16,3,Infra & Cloud,Y,Occasionnel,1,7
+Non,0,3,1,000001764,5,4,Entrepreunariat,Y,Aucun,0,7
+Non,1,2,1,000001766,18,3,Transformation Digitale,Y,Occasionnel,1,0
+Oui,1,4,1,000001767,17,3,Entrepreunariat,Y,Frequent,0,0
+Non,3,6,1,000001768,12,3,Transformation Digitale,Y,Occasionnel,0,4
+Non,3,2,1,000001770,2,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,2,2,1,000001771,4,3,Entrepreunariat,Y,Aucun,1,7
+Non,2,2,1,000001772,9,4,Infra & Cloud,Y,Occasionnel,0,4
+Non,1,3,1,000001774,10,3,Infra & Cloud,Y,Aucun,0,7
+Non,3,2,1,000001775,1,4,Transformation Digitale,Y,Aucun,0,2
+Non,0,5,1,000001778,2,3,Infra & Cloud,Y,Occasionnel,1,8
+Non,0,3,1,000001779,3,2,Infra & Cloud,Y,Occasionnel,2,2
+Oui,0,3,1,000001780,7,1,Marketing,Y,Occasionnel,1,0
+Non,1,3,1,000001782,6,2,Autre,Y,Occasionnel,0,4
+Oui,0,6,1,000001783,8,1,Transformation Digitale,Y,Occasionnel,0,0
+Non,2,3,1,000001784,29,4,Marketing,Y,Occasionnel,5,7
+Non,0,2,1,000001786,3,3,Entrepreunariat,Y,Occasionnel,2,2
+Non,2,2,1,000001787,9,2,Marketing,Y,Occasionnel,0,3
+Non,1,3,1,000001789,2,4,Transformation Digitale,Y,Occasionnel,2,2
+Non,1,1,1,000001790,10,3,Infra & Cloud,Y,Occasionnel,5,7
+Oui,3,2,1,000001792,1,2,Transformation Digitale,Y,Frequent,2,3
+Non,0,4,1,000001794,8,2,Autre,Y,Occasionnel,4,7
+Oui,0,2,1,000001797,27,3,Infra & Cloud,Y,Occasionnel,7,7
+Non,1,1,1,000001798,8,4,Infra & Cloud,Y,Occasionnel,7,6
+Non,1,6,1,000001799,1,3,Infra & Cloud,Y,Occasionnel,0,3
+Non,0,3,1,000001800,10,1,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,3,1,000001801,26,2,Infra & Cloud,Y,Aucun,2,2
+Non,1,5,1,000001802,2,2,Infra & Cloud,Y,Occasionnel,0,2
+Non,2,2,1,000001803,13,3,Transformation Digitale,Y,Occasionnel,0,0
+Non,1,6,1,000001804,2,2,Transformation Digitale,Y,Aucun,1,7
+Non,3,3,1,000001805,2,3,Ressources Humaines,Y,Aucun,3,8
+Oui,1,3,1,000001807,9,4,Infra & Cloud,Y,Frequent,0,7
+Oui,0,4,1,000001809,10,4,Transformation Digitale,Y,Occasionnel,0,8
+Non,1,6,1,000001812,20,3,Infra & Cloud,Y,Frequent,2,2
+Non,0,2,1,000001813,9,3,Infra & Cloud,Y,Aucun,1,2
+Non,0,3,1,000001814,5,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,3,1,000001815,4,1,Marketing,Y,Occasionnel,13,5
+Non,0,3,1,000001816,10,3,Transformation Digitale,Y,Occasionnel,0,2
+Oui,0,3,1,000001818,20,2,Transformation Digitale,Y,Occasionnel,1,4
+Oui,1,2,1,000001821,21,2,Transformation Digitale,Y,Occasionnel,3,7
+Non,1,3,1,000001822,1,3,Infra & Cloud,Y,Occasionnel,0,3
+Non,2,5,1,000001823,8,2,Entrepreunariat,Y,Occasionnel,4,8
+Non,1,0,1,000001824,2,3,Transformation Digitale,Y,Aucun,14,14
+Non,1,2,1,000001826,23,4,Transformation Digitale,Y,Occasionnel,0,3
+Non,1,4,1,000001827,4,3,Infra & Cloud,Y,Occasionnel,14,10
+Non,1,3,1,000001829,12,3,Infra & Cloud,Y,Occasionnel,7,7
+Non,1,2,1,000001830,7,4,Transformation Digitale,Y,Occasionnel,1,7
+Non,2,3,1,000001833,7,4,Marketing,Y,Frequent,2,2
+Non,1,3,1,000001834,1,3,Transformation Digitale,Y,Occasionnel,1,2
+Non,2,4,1,000001835,2,4,Marketing,Y,Occasionnel,0,3
+Non,0,4,1,000001836,10,3,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,3,1,000001837,15,4,Infra & Cloud,Y,Frequent,2,2
+Non,0,4,1,000001839,14,3,Transformation Digitale,Y,Aucun,0,0
+Oui,0,4,1,000001842,18,5,Ressources Humaines,Y,Occasionnel,0,0
+Oui,3,3,1,000001844,13,3,Ressources Humaines,Y,Occasionnel,2,0
+Non,2,3,1,000001845,2,4,Infra & Cloud,Y,Aucun,5,7
+Non,1,2,1,000001847,2,4,Autre,Y,Occasionnel,0,0
+Non,1,5,1,000001849,2,4,Infra & Cloud,Y,Frequent,7,7
+Non,0,3,1,000001850,5,2,Infra & Cloud,Y,Frequent,0,2
+Non,0,3,1,000001852,20,1,Transformation Digitale,Y,Frequent,3,10
+Non,0,2,1,000001853,10,4,Marketing,Y,Frequent,0,0
+Non,2,1,1,000001854,10,4,Entrepreunariat,Y,Aucun,3,3
+Non,0,2,1,000001856,9,4,Infra & Cloud,Y,Occasionnel,2,0
+Non,1,4,1,000001857,2,2,Infra & Cloud,Y,Occasionnel,4,7
+Non,1,2,1,000001858,1,2,Infra & Cloud,Y,Aucun,2,2
+Non,2,3,1,000001859,29,1,Infra & Cloud,Y,Occasionnel,1,6
+Non,0,3,1,000001860,8,3,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,3,1,000001862,2,4,Marketing,Y,Occasionnel,2,2
+Non,1,5,1,000001863,3,3,Entrepreunariat,Y,Occasionnel,2,8
+Non,1,5,1,000001864,23,1,Transformation Digitale,Y,Occasionnel,5,8
+Non,0,3,1,000001865,6,1,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,2,1,000001866,6,3,Transformation Digitale,Y,Occasionnel,6,14
+Non,0,3,1,000001867,10,3,Infra & Cloud,Y,Occasionnel,12,9
+Oui,0,3,1,000001868,24,2,Infra & Cloud,Y,Frequent,1,0
+Oui,3,2,1,000001869,10,3,Infra & Cloud,Y,Occasionnel,0,7
+Non,1,2,1,000001870,15,3,Infra & Cloud,Y,Frequent,7,3
+Non,3,2,1,000001871,19,4,Autre,Y,Occasionnel,2,2
+Non,1,2,1,000001873,2,4,Entrepreunariat,Y,Occasionnel,0,4
+Non,1,3,1,000001875,3,3,Transformation Digitale,Y,Occasionnel,0,0
+Oui,0,3,1,000001876,9,3,Transformation Digitale,Y,Occasionnel,0,0
+Oui,0,2,1,000001878,7,1,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,4,1,000001880,10,4,Entrepreunariat,Y,Occasionnel,1,7
+Non,1,2,1,000001881,20,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,3,3,1,000001882,4,3,Infra & Cloud,Y,Occasionnel,1,0
+Non,0,2,1,000001883,7,3,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,2,1,000001885,7,4,Transformation Digitale,Y,Occasionnel,0,4
+Non,0,2,1,000001886,16,2,Autre,Y,Occasionnel,0,2
+Non,2,2,1,000001888,25,2,Infra & Cloud,Y,Occasionnel,3,8
+Non,0,2,1,000001890,2,1,Ressources Humaines,Y,Frequent,0,8
+Non,1,3,1,000001892,1,4,Infra & Cloud,Y,Occasionnel,11,16
+Non,1,3,1,000001893,1,2,Infra & Cloud,Y,Occasionnel,1,0
+Non,0,5,1,000001898,2,2,Transformation Digitale,Y,Occasionnel,0,7
+Non,1,3,1,000001900,22,3,Transformation Digitale,Y,Frequent,4,7
+Non,1,5,1,000001903,1,4,Infra & Cloud,Y,Occasionnel,2,2
+Oui,1,2,1,000001905,16,4,Entrepreunariat,Y,Aucun,3,0
+Oui,0,3,1,000001907,24,2,Infra & Cloud,Y,Occasionnel,1,0
+Non,2,1,1,000001908,17,2,Marketing,Y,Occasionnel,1,3
+Non,1,3,1,000001909,8,3,Marketing,Y,Occasionnel,1,4
+Non,1,3,1,000001911,6,3,Transformation Digitale,Y,Occasionnel,5,7
+Non,1,2,1,000001912,10,2,Transformation Digitale,Y,Occasionnel,1,4
+Non,0,3,1,000001915,3,1,Transformation Digitale,Y,Occasionnel,0,1
+Non,1,0,1,000001916,4,3,Transformation Digitale,Y,Occasionnel,2,2
+Non,1,3,1,000001918,6,3,Autre,Y,Frequent,7,7
+Non,0,3,1,000001922,1,4,Transformation Digitale,Y,Frequent,0,3
+Non,0,2,1,000001924,10,4,Marketing,Y,Occasionnel,0,9
+Non,1,2,1,000001927,1,2,Infra & Cloud,Y,Frequent,0,7
+Oui,0,3,1,000001928,24,3,Entrepreunariat,Y,Frequent,0,0
+Non,1,1,1,000001929,21,4,Infra & Cloud,Y,Aucun,1,2
+Non,1,3,1,000001931,2,4,Entrepreunariat,Y,Occasionnel,1,2
+Non,0,3,1,000001932,22,4,Autre,Y,Frequent,6,11
+Oui,0,0,1,000001933,13,2,Marketing,Y,Occasionnel,2,2
+Non,1,4,1,000001934,14,4,Entrepreunariat,Y,Aucun,1,7
+Non,1,3,1,000001935,11,5,Marketing,Y,Occasionnel,0,0
+Non,1,3,1,000001936,9,2,Transformation Digitale,Y,Occasionnel,7,9
+Non,1,3,1,000001937,8,3,Transformation Digitale,Y,Frequent,0,7
+Non,1,2,1,000001938,21,3,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,2,1,000001939,5,2,Infra & Cloud,Y,Frequent,0,3
+Non,2,0,1,000001940,9,2,Infra & Cloud,Y,Occasionnel,0,3
+Non,0,3,1,000001941,2,1,Infra & Cloud,Y,Frequent,4,3
+Non,2,4,1,000001943,12,4,Marketing,Y,Occasionnel,0,0
+Oui,0,2,1,000001944,22,3,Ressources Humaines,Y,Frequent,0,0
+Non,1,2,1,000001945,18,4,Transformation Digitale,Y,Occasionnel,0,4
+Non,0,3,1,000001947,16,3,Transformation Digitale,Y,Aucun,1,4
+Non,1,3,1,000001948,3,2,Transformation Digitale,Y,Aucun,2,3
+Non,0,3,1,000001949,9,4,Infra & Cloud,Y,Aucun,0,2
+Non,0,3,1,000001950,1,3,Marketing,Y,Occasionnel,2,1
+Non,1,2,1,000001951,13,4,Transformation Digitale,Y,Occasionnel,1,1
+Non,0,6,1,000001952,1,3,Transformation Digitale,Y,Occasionnel,7,6
+Non,1,5,1,000001954,1,3,Infra & Cloud,Y,Occasionnel,0,2
+Non,1,6,1,000001955,15,4,Transformation Digitale,Y,Aucun,1,2
+Non,0,6,1,000001956,1,3,Infra & Cloud,Y,Frequent,8,7
+Oui,1,2,1,000001960,17,3,Entrepreunariat,Y,Occasionnel,0,3
+Non,0,3,1,000001961,1,3,Infra & Cloud,Y,Occasionnel,0,0
+Non,0,2,1,000001962,7,4,Infra & Cloud,Y,Occasionnel,0,9
+Non,0,5,1,000001965,9,3,Marketing,Y,Occasionnel,0,7
+Non,0,1,1,000001966,5,4,Infra & Cloud,Y,Occasionnel,0,0
+Oui,0,4,1,000001967,26,4,Marketing,Y,Frequent,0,8
+Oui,0,2,1,000001968,24,4,Infra & Cloud,Y,Occasionnel,2,2
+Non,2,6,1,000001969,9,2,Infra & Cloud,Y,Occasionnel,2,3
+Non,3,2,1,000001970,7,2,Infra & Cloud,Y,Frequent,2,8
+Non,1,1,1,000001971,11,3,Infra & Cloud,Y,Occasionnel,0,9
+Non,1,2,1,000001972,1,4,Autre,Y,Frequent,1,2
+Non,1,0,1,000001973,26,4,Ressources Humaines,Y,Occasionnel,1,4
+Non,3,4,1,000001974,2,1,Transformation Digitale,Y,Occasionnel,0,0
+Non,0,3,1,000001975,15,4,Marketing,Y,Occasionnel,11,10
+Non,0,2,1,000001976,23,2,Infra & Cloud,Y,Aucun,3,7
+Non,1,2,1,000001979,10,3,Transformation Digitale,Y,Aucun,4,8
+Non,0,3,1,000001980,10,3,Transformation Digitale,Y,Occasionnel,1,4
+Non,0,2,1,000001981,1,2,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,6,1,000001982,12,2,Autre,Y,Occasionnel,1,4
+Non,1,2,1,000001985,11,3,Entrepreunariat,Y,Frequent,9,4
+Non,1,4,1,000001986,2,2,Marketing,Y,Occasionnel,5,10
+Non,0,3,1,000001987,2,3,Ressources Humaines,Y,Occasionnel,1,2
+Non,0,6,1,000001989,1,2,Transformation Digitale,Y,Occasionnel,1,7
+Non,1,2,1,000001992,2,1,Autre,Y,Occasionnel,0,2
+Non,0,3,1,000001993,25,3,Transformation Digitale,Y,Occasionnel,12,11
+Non,3,2,1,000001994,1,2,Transformation Digitale,Y,Aucun,0,0
+Non,2,3,1,000001995,1,4,Infra & Cloud,Y,Occasionnel,5,8
+Non,1,1,1,000001996,2,2,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,1,1,000001997,6,4,Infra & Cloud,Y,Frequent,7,7
+Non,1,3,1,000001998,18,4,Infra & Cloud,Y,Occasionnel,1,2
+Non,1,3,1,000001999,1,3,Infra & Cloud,Y,Occasionnel,1,0
+Non,2,3,1,000002000,1,1,Transformation Digitale,Y,Aucun,5,12
+Non,1,3,1,000002003,11,4,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,2,1,000002007,1,2,Infra & Cloud,Y,Occasionnel,1,2
+Non,0,5,1,000002008,9,4,Transformation Digitale,Y,Occasionnel,0,8
+Non,1,6,1,000002009,15,2,Transformation Digitale,Y,Occasionnel,8,1
+Non,0,3,1,000002010,29,4,Infra & Cloud,Y,Occasionnel,4,1
+Non,2,3,1,000002012,1,4,Infra & Cloud,Y,Occasionnel,0,0
+Non,1,2,1,000002013,1,4,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,2,1,000002014,24,1,Infra & Cloud,Y,Occasionnel,1,7
+Non,1,3,1,000002015,10,3,Transformation Digitale,Y,Occasionnel,1,11
+Non,2,3,1,000002016,1,4,Marketing,Y,Occasionnel,5,7
+Non,1,2,1,000002017,10,3,Infra & Cloud,Y,Occasionnel,6,8
+Non,1,3,1,000002018,8,2,Autre,Y,Occasionnel,0,4
+Non,2,3,1,000002019,29,4,Infra & Cloud,Y,Aucun,0,0
+Non,0,2,1,000002020,1,3,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,6,1,000002021,5,1,Transformation Digitale,Y,Occasionnel,1,2
+Non,0,3,1,000002022,9,3,Infra & Cloud,Y,Aucun,1,3
+Oui,1,3,1,000002023,9,3,Marketing,Y,Frequent,1,0
+Non,2,2,1,000002024,3,3,Transformation Digitale,Y,Occasionnel,3,4
+Non,3,3,1,000002025,4,2,Infra & Cloud,Y,Frequent,0,2
+Non,1,2,1,000002026,1,4,Infra & Cloud,Y,Aucun,1,9
+Oui,3,3,1,000002027,1,4,Transformation Digitale,Y,Occasionnel,2,2
+Non,0,2,1,000002031,2,3,Infra & Cloud,Y,Occasionnel,4,14
+Oui,1,4,1,000002032,7,2,Entrepreunariat,Y,Occasionnel,9,8
+Non,1,3,1,000002034,28,4,Infra & Cloud,Y,Occasionnel,0,10
+Non,2,2,1,000002035,28,3,Marketing,Y,Occasionnel,1,7
+Non,1,4,1,000002036,15,4,Marketing,Y,Aucun,11,11
+Non,1,5,1,000002037,3,3,Infra & Cloud,Y,Occasionnel,0,4
+Non,0,4,1,000002038,2,3,Entrepreunariat,Y,Occasionnel,1,2
+Non,0,2,1,000002040,26,4,Infra & Cloud,Y,Occasionnel,1,7
+Non,1,1,1,000002041,10,2,Infra & Cloud,Y,Occasionnel,1,9
+Oui,2,3,1,000002044,1,4,Infra & Cloud,Y,Frequent,0,1
+Non,1,2,1,000002045,11,4,Marketing,Y,Occasionnel,0,0
+Non,0,3,1,000002046,20,3,Infra & Cloud,Y,Occasionnel,0,1
+Non,0,2,1,000002048,2,4,Infra & Cloud,Y,Occasionnel,2,2
+Non,2,2,1,000002049,18,4,Infra & Cloud,Y,Frequent,0,2
+Non,3,2,1,000002051,2,4,Transformation Digitale,Y,Occasionnel,0,2
+Non,1,5,1,000002052,1,4,Infra & Cloud,Y,Occasionnel,1,1
+Non,1,2,1,000002053,13,2,Autre,Y,Occasionnel,0,3
+Non,0,3,1,000002054,28,4,Transformation Digitale,Y,Occasionnel,0,4
+Oui,1,3,1,000002055,28,3,Marketing,Y,Occasionnel,2,0
+Non,1,2,1,000002056,24,1,Marketing,Y,Occasionnel,9,6
+Non,0,2,1,000002057,5,3,Transformation Digitale,Y,Aucun,1,7
+Non,0,2,1,000002060,5,3,Autre,Y,Occasionnel,0,0
+Non,1,3,1,000002061,23,2,Transformation Digitale,Y,Frequent,0,3
+Non,1,5,1,000002062,6,1,Transformation Digitale,Y,Occasionnel,1,7
+Non,1,0,1,000002064,4,3,Infra & Cloud,Y,Occasionnel,0,3
+Non,0,3,1,000002065,2,3,Transformation Digitale,Y,Frequent,0,8
+Non,0,3,1,000002068,8,3,Transformation Digitale,Y,Occasionnel,1,2
